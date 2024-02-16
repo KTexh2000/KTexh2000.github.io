@@ -93,7 +93,7 @@ style='font-size:12.0pt;line-height:107%'> /
 &#1089;&#1086;&#1091;&#1089;</span></b></p>
 
 <p class=MsoNormal><span lang=RU><img width=183 height=187 id="Picture 3"
-src="https://github.com/KTexh2000/KTexh2000.github.io/blob/Images/image002.png"
+src="https://github.com/KTexh2000/KTexh2000.github.io/blob/Images/image002.jpg"
 alt="Shrimp in a glass cup with sauce&#10;&#10;Description automatically generated"></span></p>
 
 <p class=MsoNormal>Boiled shimp served chilled with cocktail sauce based on
