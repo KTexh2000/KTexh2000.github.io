@@ -1,6 +1,4 @@
 # KTexh2000.github.io
-Leaf Bar Menu
-@ -0,0 +1,1966 @@
 <html xmlns:v="urn:schemas-microsoft-com:vml"
 xmlns:o="urn:schemas-microsoft-com:office:office"
 xmlns:w="urn:schemas-microsoft-com:office:word"
@@ -1618,14 +1616,14 @@ v:shapes="_x0000_i1031"><![endif]></span><b><span lang=RU style='font-size:
 12.0pt;line-height:107%;color:white;mso-themecolor:background1;mso-ansi-language:
 RU'><o:p></o:p></span></b></p>
 
-<p class=MsoNormal><span style='color:white;mso-themecolor:background1'>P�t� is
-a rich, <span class=GramE>savory<span style='mso-spacerun:yes'>� </span>pureed</span>
+<p class=MsoNormal><span style='color:white;mso-themecolor:background1'>Pâté is
+a rich, <span class=GramE>savory<span style='mso-spacerun:yes'>  </span>pureed</span>
 spread chicken livers, fresh herbs, spices, butter, and occasionally other
-ingredients. P�t� is served as an appetizer or snack or spread on a fresh
+ingredients. Pâté is served as an appetizer or snack or spread on a fresh
 baguette or crackers.<o:p></o:p></span></p>
 
 <p class=MsoNormal><span lang=RU style='color:white;mso-themecolor:background1;
-mso-ansi-language:RU'>&#1055;&#1072;&#1096;&#1090;&#1077;&#1090; �
+mso-ansi-language:RU'>&#1055;&#1072;&#1096;&#1090;&#1077;&#1090; —
 &#1101;&#1090;&#1086;
 &#1085;&#1072;&#1089;&#1099;&#1097;&#1077;&#1085;&#1085;&#1086;&#1077;
 &#1087;&#1080;&#1082;&#1072;&#1085;&#1090;&#1085;&#1086;&#1077;
@@ -1800,7 +1798,7 @@ yogurt cucumber sauce.<o:p></o:p></span></p>
 
 <p class=MsoNormal><span lang=RU style='color:white;mso-themecolor:background1;
 mso-ansi-language:RU'>&#1043;&#1088;&#1077;&#1095;&#1077;&#1089;&#1082;&#1080;&#1077;
-&#1092;&#1088;&#1080;&#1082;&#1072;&#1076;&#1077;&#1083;&#1100;&#1082;&#1080; �
+&#1092;&#1088;&#1080;&#1082;&#1072;&#1076;&#1077;&#1083;&#1100;&#1082;&#1080; —
 &#1101;&#1090;&#1086;
 &#1092;&#1088;&#1080;&#1082;&#1072;&#1076;&#1077;&#1083;&#1100;&#1082;&#1080;
 &#1089;&#1086; &#1089;&#1088;&#1077;&#1076;&#1080;&#1079;&#1077;&#1084;&#1085;&#1086;&#1084;&#1086;&#1088;&#1089;&#1082;&#1080;&#1084;
@@ -1818,7 +1816,7 @@ mso-ansi-language:RU'><o:p>&nbsp;</o:p></span></p>
 <p class=MsoNormal><span class=GramE><b><span style='font-size:12.0pt;
 line-height:107%;color:white;mso-themecolor:background1'>Grilled</span></b><b><span
 lang=RU style='font-size:12.0pt;line-height:107%;color:white;mso-themecolor:
-background1;mso-ansi-language:RU'><span style='mso-spacerun:yes'>� </span></span></b><b><span
+background1;mso-ansi-language:RU'><span style='mso-spacerun:yes'>  </span></span></b><b><span
 style='font-size:12.0pt;line-height:107%;color:white;mso-themecolor:background1'>Tarragon</span></b></span><b><span
 lang=RU style='font-size:12.0pt;line-height:107%;color:white;mso-themecolor:
 background1;mso-ansi-language:RU'>-</span></b><b><span style='font-size:12.0pt;
@@ -1850,7 +1848,7 @@ mso-themecolor:background1;mso-ansi-language:RU'><o:p></o:p></span></p>
 
 <p class=MsoNormal><span style='color:white;mso-themecolor:background1'>The
 dish is exactly what its name <span class=GramE>says,<span
-style='mso-spacerun:yes'>� </span>grilled</span> chicken marinated in flavorful
+style='mso-spacerun:yes'>  </span>grilled</span> chicken marinated in flavorful
 tarragon-mustard sauce and grilled.<o:p></o:p></span></p>
 
 <p class=MsoNormal><span lang=RU style='color:white;mso-themecolor:background1;
@@ -1901,9 +1899,9 @@ mso-themecolor:background1'><o:p></o:p></span></p>
 
 <p class=MsoNormal><span style='color:white;mso-themecolor:background1'>This
 appetizer is a variation of traditional fries and ketchup\mayo.<span
-style='mso-spacerun:yes'>�� </span>The fries are made from sweet potatoes and
+style='mso-spacerun:yes'>   </span>The fries are made from sweet potatoes and
 served with zesty mayo and <span class=GramE>tomato based</span> sauce with
-onion, pepper, and lemon flavor.<span style='mso-spacerun:yes'>� </span><o:p></o:p></span></p>
+onion, pepper, and lemon flavor.<span style='mso-spacerun:yes'>  </span><o:p></o:p></span></p>
 
 <p class=MsoNormal><span lang=RU style='color:white;mso-themecolor:background1;
 mso-ansi-language:RU'>&#1069;&#1090;&#1072;
@@ -1952,7 +1950,7 @@ classic Bruschetta, a tomato basil spread on a toasted baguette.<o:p></o:p></spa
 <p class=MsoNormal><span lang=RU style='color:white;mso-themecolor:background1;
 mso-ansi-language:RU'>&#1069;&#1090;&#1086;
 &#1082;&#1083;&#1072;&#1089;&#1089;&#1080;&#1095;&#1077;&#1089;&#1082;&#1072;&#1103;
-&#1073;&#1088;&#1091;&#1089;&#1082;&#1077;&#1090;&#1090;&#1072; �
+&#1073;&#1088;&#1091;&#1089;&#1082;&#1077;&#1090;&#1090;&#1072; —
 &#1090;&#1086;&#1084;&#1072;&#1090;&#1085;&#1086;-&#1073;&#1072;&#1079;&#1080;&#1083;&#1080;&#1082;,
 &#1085;&#1072;&#1084;&#1072;&#1079;&#1072;&#1085;&#1085;&#1099;&#1081;
 &#1085;&#1072;
@@ -1967,3 +1965,4 @@ mso-ansi-language:RU'><o:p>&nbsp;</o:p></span></p>
 </body>
 
 </html>
+
