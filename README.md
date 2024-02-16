@@ -49,7 +49,7 @@ style='font-size:12.0pt;line-height:107%'> /
 &#1087;&#1077;&#1095;&#1077;&#1085;&#1080;</span></b></p>
 
 <p class=MsoNormal><img width=186 height=139
-src="Leaf%20Tasting-Webpage2%20%20htmlsingle_files/image001.png"
+src="https://github.com/KTexh2000/KTexh2000.github.io/blob/Images/image001.png"
 alt="Food on a plate next to a bowl of greens&#10;&#10;Description automatically generated"></p>
 
 <p class=MsoNormal>Pâté is a rich, savory  pureed spread chicken livers, fresh
@@ -92,7 +92,7 @@ style='font-size:12.0pt;line-height:107%'> /
 &#1089;&#1086;&#1091;&#1089;</span></b></p>
 
 <p class=MsoNormal><span lang=RU><img width=183 height=187 id="Picture 3"
-src="Leaf%20Tasting-Webpage2%20%20htmlsingle_files/image002.jpg"
+src="https://github.com/KTexh2000/KTexh2000.github.io/blob/Images/image002.jpg"
 alt="Shrimp in a glass cup with sauce&#10;&#10;Description automatically generated"></span></p>
 
 <p class=MsoNormal>Boiled shimp served chilled with cocktail sauce based on
@@ -127,7 +127,7 @@ lang=RU style='font-size:12.0pt;line-height:107%'> </span></b><b><span lang=RU
 style='font-size:12.0pt;line-height:107%'>&#1050;&#1088;&#1086;&#1089;&#1090;&#1080;&#1085;&#1080;</span></b></p>
 
 <p class=MsoNormal><span lang=RU><img width=193 height=147 id="Picture 4"
-src="Leaf%20Tasting-Webpage2%20%20htmlsingle_files/image003.jpg"
+src="https://github.com/KTexh2000/KTexh2000.github.io/blob/Images/image002.jpg"
 alt="A plate of food on a table&#10;&#10;Description automatically generated"></span></p>
 
 <p class=MsoNormal>Cheese balls are a mixture of soft cheeses shaped into a
@@ -174,7 +174,7 @@ style='font-size:12.0pt;line-height:107%'> / &#1043;&#1088;&#1077;&#1095;&#1077;
 &#1089;&#1086;&#1091;&#1089;&#1086;&#1084; &#1094;&#1072;&#1094;&#1080;&#1082;&#1080;</span></b></p>
 
 <p class=MsoNormal><span lang=RU><img width=179 height=159 id="Picture 7"
-src="Leaf%20Tasting-Webpage2%20%20htmlsingle_files/image004.jpg"
+src="https://github.com/KTexh2000/KTexh2000.github.io/blob/Images/image004.jpg"
 alt="A plate of meatballs with a white bowl of dip&#10;&#10;Description automatically generated"></span></p>
 
 <p class=MsoNormal>Greek Meatballs are a Mediterranean flavored meatball served
@@ -211,7 +211,7 @@ style='font-size:12.0pt;line-height:107%'> / &#1046;&#1072;&#1088;&#1077;&#1085;
 &#1075;&#1086;&#1088;&#1095;&#1080;&#1094;&#1077;&#1081;</span></b></p>
 
 <p class=MsoNormal><span lang=RU><img width=189 height=145 id="Picture 8"
-src="Leaf%20Tasting-Webpage2%20%20htmlsingle_files/image005.jpg"
+src="https://github.com/KTexh2000/KTexh2000.github.io/blob/Images/image005.jpg"
 alt="A tray of food on a tray&#10;&#10;Description automatically generated"></span></p>
 
 <p class=MsoNormal>The dish is exactly what its name says,  grilled chicken
@@ -243,7 +243,7 @@ lang=RU style='font-size:12.0pt;line-height:107%'> </span></b><b><span lang=RU
 style='font-size:12.0pt;line-height:107%'>&#1040;&#1085;&#1076;&#1091;&#1081;</span></b></p>
 
 <p class=MsoNormal><span lang=RU><img width=191 height=183 id="Picture 9"
-src="Leaf%20Tasting-Webpage2%20%20htmlsingle_files/image006.jpg"
+src="https://github.com/KTexh2000/KTexh2000.github.io/blob/Images/image006.jpg"
 alt="A plate of french fries with dipping sauce&#10;&#10;Description automatically generated"></span></p>
 
 <p class=MsoNormal>This appetizer is a variation of traditional fries and
@@ -278,7 +278,7 @@ mayo and tomato based sauce with onion, pepper, and lemon flavor.  </p>
 / &#1041;&#1088;&#1091;&#1089;&#1082;&#1077;&#1090;&#1090;&#1072;</span></b></p>
 
 <p class=MsoNormal><span lang=RU><img width=184 height=181 id="Picture 10"
-src="Leaf%20Tasting-Webpage2%20%20htmlsingle_files/image007.jpg"
+src="https://github.com/KTexh2000/KTexh2000.github.io/blob/Images/image007.jpg"
 alt="A group of bruschetta with tomatoes and basil&#10;&#10;Description automatically generated"></span></p>
 
 <p class=MsoNormal>This is classic Bruschetta, a tomato basil spread on a toasted
