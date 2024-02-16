@@ -1,2156 +1,1966 @@
 # KTexh2000.github.io
 Leaf Bar Menu
-<html>
+@ -0,0 +1,1966 @@
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns:m="http://schemas.microsoft.com/office/2004/12/omml"
+xmlns="http://www.w3.org/TR/REC-html40">
 
 <head>
 <meta http-equiv=Content-Type content="text/html; charset=windows-1252">
-<meta name=Generator content="Microsoft Word 15 (filtered)">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 15">
+<meta name=Originator content="Microsoft Word 15">
+<link rel=File-List
+href="Leaf%20Tasting-Webpage2%20htmlsingle-B_files/filelist.xml">
+<link rel=Edit-Time-Data
+href="Leaf%20Tasting-Webpage2%20htmlsingle-B_files/editdata.mso">
+<!--[if !mso]>
+<style>
+v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style>
+<![endif]--><!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>C B</o:Author>
+  <o:Template>Normal</o:Template>
+  <o:LastAuthor>C B</o:LastAuthor>
+  <o:Revision>2</o:Revision>
+  <o:TotalTime>7</o:TotalTime>
+  <o:Created>2024-02-16T11:33:00Z</o:Created>
+  <o:LastSaved>2024-02-16T11:33:00Z</o:LastSaved>
+  <o:Pages>1</o:Pages>
+  <o:Words>402</o:Words>
+  <o:Characters>2293</o:Characters>
+  <o:Lines>19</o:Lines>
+  <o:Paragraphs>5</o:Paragraphs>
+  <o:CharactersWithSpaces>2690</o:CharactersWithSpaces>
+  <o:Version>16.00</o:Version>
+ </o:DocumentProperties>
+ <o:OfficeDocumentSettings>
+  <o:AllowPNG/>
+ </o:OfficeDocumentSettings>
+</xml><![endif]-->
+<link rel=themeData
+href="Leaf%20Tasting-Webpage2%20htmlsingle-B_files/themedata.thmx">
+<link rel=colorSchemeMapping
+href="Leaf%20Tasting-Webpage2%20htmlsingle-B_files/colorschememapping.xml">
+<!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:DisplayBackgroundShape/>
+  <w:SpellingState>Clean</w:SpellingState>
+  <w:GrammarState>Clean</w:GrammarState>
+  <w:TrackMoves>false</w:TrackMoves>
+  <w:TrackFormatting/>
+  <w:PunctuationKerning/>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:DoNotPromoteQF/>
+  <w:LidThemeOther>EN-US</w:LidThemeOther>
+  <w:LidThemeAsian>X-NONE</w:LidThemeAsian>
+  <w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript>
+  <w:Compatibility>
+   <w:BreakWrappedTables/>
+   <w:SnapToGridInCell/>
+   <w:WrapTextWithPunct/>
+   <w:UseAsianBreakRules/>
+   <w:DontGrowAutofit/>
+   <w:SplitPgBreakAndParaMark/>
+   <w:EnableOpenTypeKerning/>
+   <w:DontFlipMirrorIndents/>
+   <w:OverrideTableStyleHps/>
+  </w:Compatibility>
+  <m:mathPr>
+   <m:mathFont m:val="Cambria Math"/>
+   <m:brkBin m:val="before"/>
+   <m:brkBinSub m:val="&#45;-"/>
+   <m:smallFrac m:val="off"/>
+   <m:dispDef/>
+   <m:lMargin m:val="0"/>
+   <m:rMargin m:val="0"/>
+   <m:defJc m:val="centerGroup"/>
+   <m:wrapIndent m:val="1440"/>
+   <m:intLim m:val="subSup"/>
+   <m:naryLim m:val="undOvr"/>
+  </m:mathPr></w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
+  DefSemiHidden="false" DefQFormat="false" DefPriority="99"
+  LatentStyleCount="376">
+  <w:LsdException Locked="false" Priority="0" QFormat="true" Name="Normal"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 1"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 2"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 3"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 4"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 5"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 6"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 7"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 8"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 9"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 6"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 7"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 8"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 9"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 1"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 2"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 3"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 4"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 5"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 6"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 7"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 8"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 9"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Normal Indent"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="footnote text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="annotation text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="header"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="footer"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index heading"/>
+  <w:LsdException Locked="false" Priority="35" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="caption"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="table of figures"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="envelope address"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="envelope return"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="footnote reference"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="annotation reference"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="line number"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="page number"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="endnote reference"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="endnote text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="table of authorities"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="macro"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="toa heading"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Bullet"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Number"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Bullet 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Bullet 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Bullet 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Bullet 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Number 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Number 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Number 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Number 5"/>
+  <w:LsdException Locked="false" Priority="10" QFormat="true" Name="Title"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Closing"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Signature"/>
+  <w:LsdException Locked="false" Priority="1" SemiHidden="true"
+   UnhideWhenUsed="true" Name="Default Paragraph Font"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text Indent"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Continue"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Continue 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Continue 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Continue 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Continue 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Message Header"/>
+  <w:LsdException Locked="false" Priority="11" QFormat="true" Name="Subtitle"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Salutation"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Date"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text First Indent"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text First Indent 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Note Heading"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text Indent 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text Indent 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Block Text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Hyperlink"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="FollowedHyperlink"/>
+  <w:LsdException Locked="false" Priority="22" QFormat="true" Name="Strong"/>
+  <w:LsdException Locked="false" Priority="20" QFormat="true" Name="Emphasis"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Document Map"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Plain Text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="E-mail Signature"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Top of Form"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Bottom of Form"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Normal (Web)"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Acronym"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Address"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Cite"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Code"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Definition"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Keyboard"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Preformatted"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Sample"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Typewriter"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Variable"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Normal Table"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="annotation subject"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="No List"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Outline List 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Outline List 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Outline List 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Simple 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Simple 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Simple 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Classic 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Classic 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Classic 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Classic 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Colorful 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Colorful 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Colorful 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Columns 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Columns 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Columns 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Columns 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Columns 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 6"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 7"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 8"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 6"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 7"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 8"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table 3D effects 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table 3D effects 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table 3D effects 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Contemporary"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Elegant"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Professional"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Subtle 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Subtle 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Web 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Web 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Web 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Balloon Text"/>
+  <w:LsdException Locked="false" Priority="39" Name="Table Grid"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Theme"/>
+  <w:LsdException Locked="false" SemiHidden="true" Name="Placeholder Text"/>
+  <w:LsdException Locked="false" Priority="1" QFormat="true" Name="No Spacing"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 1"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" Name="Revision"/>
+  <w:LsdException Locked="false" Priority="34" QFormat="true"
+   Name="List Paragraph"/>
+  <w:LsdException Locked="false" Priority="29" QFormat="true" Name="Quote"/>
+  <w:LsdException Locked="false" Priority="30" QFormat="true"
+   Name="Intense Quote"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 1"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 1"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 1"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 2"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 2"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 2"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 2"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 3"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 3"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 3"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 3"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 4"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 4"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 4"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 4"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 5"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 5"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 5"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 5"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 6"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 6"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 6"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 6"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="19" QFormat="true"
+   Name="Subtle Emphasis"/>
+  <w:LsdException Locked="false" Priority="21" QFormat="true"
+   Name="Intense Emphasis"/>
+  <w:LsdException Locked="false" Priority="31" QFormat="true"
+   Name="Subtle Reference"/>
+  <w:LsdException Locked="false" Priority="32" QFormat="true"
+   Name="Intense Reference"/>
+  <w:LsdException Locked="false" Priority="33" QFormat="true" Name="Book Title"/>
+  <w:LsdException Locked="false" Priority="37" SemiHidden="true"
+   UnhideWhenUsed="true" Name="Bibliography"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="TOC Heading"/>
+  <w:LsdException Locked="false" Priority="41" Name="Plain Table 1"/>
+  <w:LsdException Locked="false" Priority="42" Name="Plain Table 2"/>
+  <w:LsdException Locked="false" Priority="43" Name="Plain Table 3"/>
+  <w:LsdException Locked="false" Priority="44" Name="Plain Table 4"/>
+  <w:LsdException Locked="false" Priority="45" Name="Plain Table 5"/>
+  <w:LsdException Locked="false" Priority="40" Name="Grid Table Light"/>
+  <w:LsdException Locked="false" Priority="46" Name="Grid Table 1 Light"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark"/>
+  <w:LsdException Locked="false" Priority="51" Name="Grid Table 6 Colorful"/>
+  <w:LsdException Locked="false" Priority="52" Name="Grid Table 7 Colorful"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 1"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 1"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 1"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 1"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 1"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 1"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 2"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 2"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 2"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 2"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 2"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 2"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 3"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 3"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 3"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 3"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 3"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 3"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 4"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 4"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 4"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 4"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 4"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 4"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 5"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 5"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 5"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 5"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 5"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 5"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 6"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 6"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 6"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 6"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 6"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 6"/>
+  <w:LsdException Locked="false" Priority="46" Name="List Table 1 Light"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark"/>
+  <w:LsdException Locked="false" Priority="51" Name="List Table 6 Colorful"/>
+  <w:LsdException Locked="false" Priority="52" Name="List Table 7 Colorful"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 1"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 1"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 1"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 1"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 1"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 1"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 2"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 2"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 2"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 2"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 2"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 2"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 3"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 3"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 3"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 3"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 3"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 3"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 4"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 4"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 4"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 4"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 4"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 4"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 5"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 5"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 5"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 5"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 5"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 5"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 6"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 6"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 6"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 6"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 6"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 6"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Mention"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Smart Hyperlink"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Hashtag"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Unresolved Mention"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Smart Link"/>
+ </w:LatentStyles>
+</xml><![endif]-->
 <style>
 <!--
  /* Font Definitions */
  @font-face
-	{font-family:Helvetica;
-	panose-1:2 11 6 4 2 2 2 2 2 4;}
-@font-face
 	{font-family:"Cambria Math";
-	panose-1:2 4 5 3 5 4 6 3 2 4;}
+	panose-1:2 4 5 3 5 4 6 3 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:roman;
+	mso-font-pitch:variable;
+	mso-font-signature:-536869121 1107305727 33554432 0 415 0;}
 @font-face
-	{font-family:Calibri;
-	panose-1:2 15 5 2 2 2 4 3 2 4;}
-@font-face
-	{font-family:Aptos;}
+	{font-family:Aptos;
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:536871559 3 0 0 415 0;}
  /* Style Definitions */
  p.MsoNormal, li.MsoNormal, div.MsoNormal
-	{margin-top:0cm;
+	{mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-parent:"";
+	margin-top:0cm;
 	margin-right:0cm;
 	margin-bottom:8.0pt;
 	margin-left:0cm;
 	line-height:107%;
+	mso-pagination:widow-orphan;
 	font-size:11.0pt;
-	font-family:"Aptos",sans-serif;}
+	font-family:"Aptos",sans-serif;
+	mso-ascii-font-family:Aptos;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:Aptos;
+	mso-fareast-theme-font:minor-latin;
+	mso-hansi-font-family:Aptos;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;
+	mso-font-kerning:1.0pt;
+	mso-ligatures:standardcontextual;}
+h1
+	{mso-style-priority:9;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-link:"Heading 1 Char";
+	mso-style-next:Normal;
+	margin-top:18.0pt;
+	margin-right:0cm;
+	margin-bottom:4.0pt;
+	margin-left:0cm;
+	line-height:107%;
+	mso-pagination:widow-orphan lines-together;
+	page-break-after:avoid;
+	mso-outline-level:1;
+	font-size:20.0pt;
+	font-family:"Aptos Display",sans-serif;
+	mso-ascii-font-family:"Aptos Display";
+	mso-ascii-theme-font:major-latin;
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:major-fareast;
+	mso-hansi-font-family:"Aptos Display";
+	mso-hansi-theme-font:major-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:major-bidi;
+	color:#0F4761;
+	mso-themecolor:accent1;
+	mso-themeshade:191;
+	mso-font-kerning:1.0pt;
+	mso-ligatures:standardcontextual;
+	font-weight:normal;}
+h2
+	{mso-style-noshow:yes;
+	mso-style-priority:9;
+	mso-style-qformat:yes;
+	mso-style-link:"Heading 2 Char";
+	mso-style-next:Normal;
+	margin-top:8.0pt;
+	margin-right:0cm;
+	margin-bottom:4.0pt;
+	margin-left:0cm;
+	line-height:107%;
+	mso-pagination:widow-orphan lines-together;
+	page-break-after:avoid;
+	mso-outline-level:2;
+	font-size:16.0pt;
+	font-family:"Aptos Display",sans-serif;
+	mso-ascii-font-family:"Aptos Display";
+	mso-ascii-theme-font:major-latin;
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:major-fareast;
+	mso-hansi-font-family:"Aptos Display";
+	mso-hansi-theme-font:major-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:major-bidi;
+	color:#0F4761;
+	mso-themecolor:accent1;
+	mso-themeshade:191;
+	mso-font-kerning:1.0pt;
+	mso-ligatures:standardcontextual;
+	font-weight:normal;}
+h3
+	{mso-style-noshow:yes;
+	mso-style-priority:9;
+	mso-style-qformat:yes;
+	mso-style-link:"Heading 3 Char";
+	mso-style-next:Normal;
+	margin-top:8.0pt;
+	margin-right:0cm;
+	margin-bottom:4.0pt;
+	margin-left:0cm;
+	line-height:107%;
+	mso-pagination:widow-orphan lines-together;
+	page-break-after:avoid;
+	mso-outline-level:3;
+	font-size:14.0pt;
+	font-family:"Aptos",sans-serif;
+	mso-ascii-font-family:Aptos;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:major-fareast;
+	mso-hansi-font-family:Aptos;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:major-bidi;
+	color:#0F4761;
+	mso-themecolor:accent1;
+	mso-themeshade:191;
+	mso-font-kerning:1.0pt;
+	mso-ligatures:standardcontextual;
+	font-weight:normal;}
+h4
+	{mso-style-noshow:yes;
+	mso-style-priority:9;
+	mso-style-qformat:yes;
+	mso-style-link:"Heading 4 Char";
+	mso-style-next:Normal;
+	margin-top:4.0pt;
+	margin-right:0cm;
+	margin-bottom:2.0pt;
+	margin-left:0cm;
+	line-height:107%;
+	mso-pagination:widow-orphan lines-together;
+	page-break-after:avoid;
+	mso-outline-level:4;
+	font-size:11.0pt;
+	font-family:"Aptos",sans-serif;
+	mso-ascii-font-family:Aptos;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:major-fareast;
+	mso-hansi-font-family:Aptos;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:major-bidi;
+	color:#0F4761;
+	mso-themecolor:accent1;
+	mso-themeshade:191;
+	mso-font-kerning:1.0pt;
+	mso-ligatures:standardcontextual;
+	font-weight:normal;
+	font-style:italic;}
+h5
+	{mso-style-noshow:yes;
+	mso-style-priority:9;
+	mso-style-qformat:yes;
+	mso-style-link:"Heading 5 Char";
+	mso-style-next:Normal;
+	margin-top:4.0pt;
+	margin-right:0cm;
+	margin-bottom:2.0pt;
+	margin-left:0cm;
+	line-height:107%;
+	mso-pagination:widow-orphan lines-together;
+	page-break-after:avoid;
+	mso-outline-level:5;
+	font-size:11.0pt;
+	font-family:"Aptos",sans-serif;
+	mso-ascii-font-family:Aptos;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:major-fareast;
+	mso-hansi-font-family:Aptos;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:major-bidi;
+	color:#0F4761;
+	mso-themecolor:accent1;
+	mso-themeshade:191;
+	mso-font-kerning:1.0pt;
+	mso-ligatures:standardcontextual;
+	font-weight:normal;}
+h6
+	{mso-style-noshow:yes;
+	mso-style-priority:9;
+	mso-style-qformat:yes;
+	mso-style-link:"Heading 6 Char";
+	mso-style-next:Normal;
+	margin-top:2.0pt;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:0cm;
+	line-height:107%;
+	mso-pagination:widow-orphan lines-together;
+	page-break-after:avoid;
+	mso-outline-level:6;
+	font-size:11.0pt;
+	font-family:"Aptos",sans-serif;
+	mso-ascii-font-family:Aptos;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:major-fareast;
+	mso-hansi-font-family:Aptos;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:major-bidi;
+	color:#595959;
+	mso-themecolor:text1;
+	mso-themetint:166;
+	mso-font-kerning:1.0pt;
+	mso-ligatures:standardcontextual;
+	font-weight:normal;
+	font-style:italic;}
+p.MsoHeading7, li.MsoHeading7, div.MsoHeading7
+	{mso-style-noshow:yes;
+	mso-style-priority:9;
+	mso-style-qformat:yes;
+	mso-style-link:"Heading 7 Char";
+	mso-style-next:Normal;
+	margin-top:2.0pt;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:0cm;
+	line-height:107%;
+	mso-pagination:widow-orphan lines-together;
+	page-break-after:avoid;
+	mso-outline-level:7;
+	font-size:11.0pt;
+	font-family:"Aptos",sans-serif;
+	mso-ascii-font-family:Aptos;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:major-fareast;
+	mso-hansi-font-family:Aptos;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:major-bidi;
+	color:#595959;
+	mso-themecolor:text1;
+	mso-themetint:166;
+	mso-font-kerning:1.0pt;
+	mso-ligatures:standardcontextual;}
+p.MsoHeading8, li.MsoHeading8, div.MsoHeading8
+	{mso-style-noshow:yes;
+	mso-style-priority:9;
+	mso-style-qformat:yes;
+	mso-style-link:"Heading 8 Char";
+	mso-style-next:Normal;
+	margin:0cm;
+	line-height:107%;
+	mso-pagination:widow-orphan lines-together;
+	page-break-after:avoid;
+	mso-outline-level:8;
+	font-size:11.0pt;
+	font-family:"Aptos",sans-serif;
+	mso-ascii-font-family:Aptos;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:major-fareast;
+	mso-hansi-font-family:Aptos;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:major-bidi;
+	color:#272727;
+	mso-themecolor:text1;
+	mso-themetint:216;
+	mso-font-kerning:1.0pt;
+	mso-ligatures:standardcontextual;
+	font-style:italic;}
+p.MsoHeading9, li.MsoHeading9, div.MsoHeading9
+	{mso-style-noshow:yes;
+	mso-style-priority:9;
+	mso-style-qformat:yes;
+	mso-style-link:"Heading 9 Char";
+	mso-style-next:Normal;
+	margin:0cm;
+	line-height:107%;
+	mso-pagination:widow-orphan lines-together;
+	page-break-after:avoid;
+	mso-outline-level:9;
+	font-size:11.0pt;
+	font-family:"Aptos",sans-serif;
+	mso-ascii-font-family:Aptos;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:major-fareast;
+	mso-hansi-font-family:Aptos;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:major-bidi;
+	color:#272727;
+	mso-themecolor:text1;
+	mso-themetint:216;
+	mso-font-kerning:1.0pt;
+	mso-ligatures:standardcontextual;}
+p.MsoTitle, li.MsoTitle, div.MsoTitle
+	{mso-style-priority:10;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-link:"Title Char";
+	mso-style-next:Normal;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:4.0pt;
+	margin-left:0cm;
+	mso-add-space:auto;
+	mso-pagination:widow-orphan;
+	font-size:28.0pt;
+	font-family:"Aptos Display",sans-serif;
+	mso-ascii-font-family:"Aptos Display";
+	mso-ascii-theme-font:major-latin;
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:major-fareast;
+	mso-hansi-font-family:"Aptos Display";
+	mso-hansi-theme-font:major-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:major-bidi;
+	letter-spacing:-.5pt;
+	mso-font-kerning:14.0pt;
+	mso-ligatures:standardcontextual;}
+p.MsoTitleCxSpFirst, li.MsoTitleCxSpFirst, div.MsoTitleCxSpFirst
+	{mso-style-priority:10;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-link:"Title Char";
+	mso-style-next:Normal;
+	mso-style-type:export-only;
+	margin:0cm;
+	mso-add-space:auto;
+	mso-pagination:widow-orphan;
+	font-size:28.0pt;
+	font-family:"Aptos Display",sans-serif;
+	mso-ascii-font-family:"Aptos Display";
+	mso-ascii-theme-font:major-latin;
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:major-fareast;
+	mso-hansi-font-family:"Aptos Display";
+	mso-hansi-theme-font:major-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:major-bidi;
+	letter-spacing:-.5pt;
+	mso-font-kerning:14.0pt;
+	mso-ligatures:standardcontextual;}
+p.MsoTitleCxSpMiddle, li.MsoTitleCxSpMiddle, div.MsoTitleCxSpMiddle
+	{mso-style-priority:10;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-link:"Title Char";
+	mso-style-next:Normal;
+	mso-style-type:export-only;
+	margin:0cm;
+	mso-add-space:auto;
+	mso-pagination:widow-orphan;
+	font-size:28.0pt;
+	font-family:"Aptos Display",sans-serif;
+	mso-ascii-font-family:"Aptos Display";
+	mso-ascii-theme-font:major-latin;
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:major-fareast;
+	mso-hansi-font-family:"Aptos Display";
+	mso-hansi-theme-font:major-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:major-bidi;
+	letter-spacing:-.5pt;
+	mso-font-kerning:14.0pt;
+	mso-ligatures:standardcontextual;}
+p.MsoTitleCxSpLast, li.MsoTitleCxSpLast, div.MsoTitleCxSpLast
+	{mso-style-priority:10;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-link:"Title Char";
+	mso-style-next:Normal;
+	mso-style-type:export-only;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:4.0pt;
+	margin-left:0cm;
+	mso-add-space:auto;
+	mso-pagination:widow-orphan;
+	font-size:28.0pt;
+	font-family:"Aptos Display",sans-serif;
+	mso-ascii-font-family:"Aptos Display";
+	mso-ascii-theme-font:major-latin;
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:major-fareast;
+	mso-hansi-font-family:"Aptos Display";
+	mso-hansi-theme-font:major-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:major-bidi;
+	letter-spacing:-.5pt;
+	mso-font-kerning:14.0pt;
+	mso-ligatures:standardcontextual;}
+p.MsoSubtitle, li.MsoSubtitle, div.MsoSubtitle
+	{mso-style-priority:11;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-link:"Subtitle Char";
+	mso-style-next:Normal;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:8.0pt;
+	margin-left:0cm;
+	line-height:107%;
+	mso-pagination:widow-orphan;
+	font-size:14.0pt;
+	font-family:"Aptos",sans-serif;
+	mso-ascii-font-family:Aptos;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:major-fareast;
+	mso-hansi-font-family:Aptos;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:major-bidi;
+	color:#595959;
+	mso-themecolor:text1;
+	mso-themetint:166;
+	letter-spacing:.75pt;
+	mso-font-kerning:1.0pt;
+	mso-ligatures:standardcontextual;}
+p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph
+	{mso-style-priority:34;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:8.0pt;
+	margin-left:36.0pt;
+	mso-add-space:auto;
+	line-height:107%;
+	mso-pagination:widow-orphan;
+	font-size:11.0pt;
+	font-family:"Aptos",sans-serif;
+	mso-ascii-font-family:Aptos;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:Aptos;
+	mso-fareast-theme-font:minor-latin;
+	mso-hansi-font-family:Aptos;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;
+	mso-font-kerning:1.0pt;
+	mso-ligatures:standardcontextual;}
+p.MsoListParagraphCxSpFirst, li.MsoListParagraphCxSpFirst, div.MsoListParagraphCxSpFirst
+	{mso-style-priority:34;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-type:export-only;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:36.0pt;
+	mso-add-space:auto;
+	line-height:107%;
+	mso-pagination:widow-orphan;
+	font-size:11.0pt;
+	font-family:"Aptos",sans-serif;
+	mso-ascii-font-family:Aptos;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:Aptos;
+	mso-fareast-theme-font:minor-latin;
+	mso-hansi-font-family:Aptos;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;
+	mso-font-kerning:1.0pt;
+	mso-ligatures:standardcontextual;}
+p.MsoListParagraphCxSpMiddle, li.MsoListParagraphCxSpMiddle, div.MsoListParagraphCxSpMiddle
+	{mso-style-priority:34;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-type:export-only;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:36.0pt;
+	mso-add-space:auto;
+	line-height:107%;
+	mso-pagination:widow-orphan;
+	font-size:11.0pt;
+	font-family:"Aptos",sans-serif;
+	mso-ascii-font-family:Aptos;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:Aptos;
+	mso-fareast-theme-font:minor-latin;
+	mso-hansi-font-family:Aptos;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;
+	mso-font-kerning:1.0pt;
+	mso-ligatures:standardcontextual;}
+p.MsoListParagraphCxSpLast, li.MsoListParagraphCxSpLast, div.MsoListParagraphCxSpLast
+	{mso-style-priority:34;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-type:export-only;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:8.0pt;
+	margin-left:36.0pt;
+	mso-add-space:auto;
+	line-height:107%;
+	mso-pagination:widow-orphan;
+	font-size:11.0pt;
+	font-family:"Aptos",sans-serif;
+	mso-ascii-font-family:Aptos;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:Aptos;
+	mso-fareast-theme-font:minor-latin;
+	mso-hansi-font-family:Aptos;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;
+	mso-font-kerning:1.0pt;
+	mso-ligatures:standardcontextual;}
+p.MsoQuote, li.MsoQuote, div.MsoQuote
+	{mso-style-priority:29;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-link:"Quote Char";
+	mso-style-next:Normal;
+	margin-top:8.0pt;
+	margin-right:0cm;
+	margin-bottom:8.0pt;
+	margin-left:0cm;
+	text-align:center;
+	line-height:107%;
+	mso-pagination:widow-orphan;
+	font-size:11.0pt;
+	font-family:"Aptos",sans-serif;
+	mso-ascii-font-family:Aptos;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:Aptos;
+	mso-fareast-theme-font:minor-latin;
+	mso-hansi-font-family:Aptos;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;
+	color:#404040;
+	mso-themecolor:text1;
+	mso-themetint:191;
+	mso-font-kerning:1.0pt;
+	mso-ligatures:standardcontextual;
+	font-style:italic;}
+p.MsoIntenseQuote, li.MsoIntenseQuote, div.MsoIntenseQuote
+	{mso-style-priority:30;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-link:"Intense Quote Char";
+	mso-style-next:Normal;
+	margin-top:18.0pt;
+	margin-right:43.2pt;
+	margin-bottom:18.0pt;
+	margin-left:43.2pt;
+	text-align:center;
+	line-height:107%;
+	mso-pagination:widow-orphan;
+	border:none;
+	mso-border-top-alt:solid #0F4761 .5pt;
+	mso-border-top-themecolor:accent1;
+	mso-border-top-themeshade:191;
+	mso-border-bottom-alt:solid #0F4761 .5pt;
+	mso-border-bottom-themecolor:accent1;
+	mso-border-bottom-themeshade:191;
+	padding:0cm;
+	mso-padding-alt:10.0pt 0cm 10.0pt 0cm;
+	font-size:11.0pt;
+	font-family:"Aptos",sans-serif;
+	mso-ascii-font-family:Aptos;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:Aptos;
+	mso-fareast-theme-font:minor-latin;
+	mso-hansi-font-family:Aptos;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;
+	color:#0F4761;
+	mso-themecolor:accent1;
+	mso-themeshade:191;
+	mso-font-kerning:1.0pt;
+	mso-ligatures:standardcontextual;
+	font-style:italic;}
+span.MsoIntenseEmphasis
+	{mso-style-priority:21;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	color:#0F4761;
+	mso-themecolor:accent1;
+	mso-themeshade:191;
+	font-style:italic;}
+span.MsoIntenseReference
+	{mso-style-priority:32;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	font-variant:small-caps;
+	color:#0F4761;
+	mso-themecolor:accent1;
+	mso-themeshade:191;
+	letter-spacing:.25pt;
+	font-weight:bold;}
+span.Heading1Char
+	{mso-style-name:"Heading 1 Char";
+	mso-style-priority:9;
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:"Heading 1";
+	mso-ansi-font-size:20.0pt;
+	mso-bidi-font-size:20.0pt;
+	font-family:"Aptos Display",sans-serif;
+	mso-ascii-font-family:"Aptos Display";
+	mso-ascii-theme-font:major-latin;
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:major-fareast;
+	mso-hansi-font-family:"Aptos Display";
+	mso-hansi-theme-font:major-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:major-bidi;
+	color:#0F4761;
+	mso-themecolor:accent1;
+	mso-themeshade:191;}
+span.Heading2Char
+	{mso-style-name:"Heading 2 Char";
+	mso-style-noshow:yes;
+	mso-style-priority:9;
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:"Heading 2";
+	mso-ansi-font-size:16.0pt;
+	mso-bidi-font-size:16.0pt;
+	font-family:"Aptos Display",sans-serif;
+	mso-ascii-font-family:"Aptos Display";
+	mso-ascii-theme-font:major-latin;
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:major-fareast;
+	mso-hansi-font-family:"Aptos Display";
+	mso-hansi-theme-font:major-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:major-bidi;
+	color:#0F4761;
+	mso-themecolor:accent1;
+	mso-themeshade:191;}
+span.Heading3Char
+	{mso-style-name:"Heading 3 Char";
+	mso-style-noshow:yes;
+	mso-style-priority:9;
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:"Heading 3";
+	mso-ansi-font-size:14.0pt;
+	mso-bidi-font-size:14.0pt;
+	font-family:"Times New Roman",serif;
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:major-fareast;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:major-bidi;
+	color:#0F4761;
+	mso-themecolor:accent1;
+	mso-themeshade:191;}
+span.Heading4Char
+	{mso-style-name:"Heading 4 Char";
+	mso-style-noshow:yes;
+	mso-style-priority:9;
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:"Heading 4";
+	font-family:"Times New Roman",serif;
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:major-fareast;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:major-bidi;
+	color:#0F4761;
+	mso-themecolor:accent1;
+	mso-themeshade:191;
+	font-style:italic;}
+span.Heading5Char
+	{mso-style-name:"Heading 5 Char";
+	mso-style-noshow:yes;
+	mso-style-priority:9;
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:"Heading 5";
+	font-family:"Times New Roman",serif;
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:major-fareast;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:major-bidi;
+	color:#0F4761;
+	mso-themecolor:accent1;
+	mso-themeshade:191;}
+span.Heading6Char
+	{mso-style-name:"Heading 6 Char";
+	mso-style-noshow:yes;
+	mso-style-priority:9;
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:"Heading 6";
+	font-family:"Times New Roman",serif;
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:major-fareast;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:major-bidi;
+	color:#595959;
+	mso-themecolor:text1;
+	mso-themetint:166;
+	font-style:italic;}
+span.Heading7Char
+	{mso-style-name:"Heading 7 Char";
+	mso-style-noshow:yes;
+	mso-style-priority:9;
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:"Heading 7";
+	font-family:"Times New Roman",serif;
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:major-fareast;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:major-bidi;
+	color:#595959;
+	mso-themecolor:text1;
+	mso-themetint:166;}
+span.Heading8Char
+	{mso-style-name:"Heading 8 Char";
+	mso-style-noshow:yes;
+	mso-style-priority:9;
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:"Heading 8";
+	font-family:"Times New Roman",serif;
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:major-fareast;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:major-bidi;
+	color:#272727;
+	mso-themecolor:text1;
+	mso-themetint:216;
+	font-style:italic;}
+span.Heading9Char
+	{mso-style-name:"Heading 9 Char";
+	mso-style-noshow:yes;
+	mso-style-priority:9;
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:"Heading 9";
+	font-family:"Times New Roman",serif;
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:major-fareast;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:major-bidi;
+	color:#272727;
+	mso-themecolor:text1;
+	mso-themetint:216;}
+span.TitleChar
+	{mso-style-name:"Title Char";
+	mso-style-priority:10;
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:Title;
+	mso-ansi-font-size:28.0pt;
+	mso-bidi-font-size:28.0pt;
+	font-family:"Aptos Display",sans-serif;
+	mso-ascii-font-family:"Aptos Display";
+	mso-ascii-theme-font:major-latin;
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:major-fareast;
+	mso-hansi-font-family:"Aptos Display";
+	mso-hansi-theme-font:major-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:major-bidi;
+	letter-spacing:-.5pt;
+	mso-font-kerning:14.0pt;}
+span.SubtitleChar
+	{mso-style-name:"Subtitle Char";
+	mso-style-priority:11;
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:Subtitle;
+	mso-ansi-font-size:14.0pt;
+	mso-bidi-font-size:14.0pt;
+	font-family:"Times New Roman",serif;
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:major-fareast;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:major-bidi;
+	color:#595959;
+	mso-themecolor:text1;
+	mso-themetint:166;
+	letter-spacing:.75pt;}
+span.QuoteChar
+	{mso-style-name:"Quote Char";
+	mso-style-priority:29;
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:Quote;
+	color:#404040;
+	mso-themecolor:text1;
+	mso-themetint:191;
+	font-style:italic;}
+span.IntenseQuoteChar
+	{mso-style-name:"Intense Quote Char";
+	mso-style-priority:30;
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:"Intense Quote";
+	color:#0F4761;
+	mso-themecolor:accent1;
+	mso-themeshade:191;
+	font-style:italic;}
+span.SpellE
+	{mso-style-name:"";
+	mso-spl-e:yes;}
+span.GramE
+	{mso-style-name:"";
+	mso-gram-e:yes;}
 .MsoChpDefault
-	{font-family:"Aptos",sans-serif;}
+	{mso-style-type:export-only;
+	mso-default-props:yes;
+	mso-ascii-font-family:Aptos;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:Aptos;
+	mso-fareast-theme-font:minor-latin;
+	mso-hansi-font-family:Aptos;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;}
 .MsoPapDefault
-	{margin-bottom:8.0pt;
+	{mso-style-type:export-only;
+	margin-bottom:8.0pt;
 	line-height:107%;}
 @page WordSection1
 	{size:612.0pt 792.0pt;
-	margin:72.0pt 72.0pt 72.0pt 72.0pt;}
+	margin:72.0pt 72.0pt 72.0pt 72.0pt;
+	mso-header-margin:36.0pt;
+	mso-footer-margin:36.0pt;
+	mso-paper-source:0;}
 div.WordSection1
 	{page:WordSection1;}
 -->
 </style>
-
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Table Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-parent:"";
+	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
+	mso-para-margin-top:0cm;
+	mso-para-margin-right:0cm;
+	mso-para-margin-bottom:8.0pt;
+	mso-para-margin-left:0cm;
+	line-height:107%;
+	mso-pagination:widow-orphan;
+	font-size:11.0pt;
+	font-family:"Aptos",sans-serif;
+	mso-ascii-font-family:Aptos;
+	mso-ascii-theme-font:minor-latin;
+	mso-hansi-font-family:Aptos;
+	mso-hansi-theme-font:minor-latin;
+	mso-font-kerning:1.0pt;
+	mso-ligatures:standardcontextual;}
+table.MsoTableGrid
+	{mso-style-name:"Table Grid";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-priority:39;
+	mso-style-unhide:no;
+	border:solid windowtext 1.0pt;
+	mso-border-alt:solid windowtext .5pt;
+	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
+	mso-border-insideh:.5pt solid windowtext;
+	mso-border-insidev:.5pt solid windowtext;
+	mso-para-margin:0cm;
+	mso-pagination:widow-orphan;
+	font-size:11.0pt;
+	font-family:"Aptos",sans-serif;
+	mso-ascii-font-family:Aptos;
+	mso-ascii-theme-font:minor-latin;
+	mso-hansi-font-family:Aptos;
+	mso-hansi-theme-font:minor-latin;
+	mso-font-kerning:1.0pt;
+	mso-ligatures:standardcontextual;}
+</style>
+<![endif]--><!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext="edit" spidmax="1026"/>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext="edit">
+  <o:idmap v:ext="edit" data="1"/>
+ </o:shapelayout></xml><![endif]-->
 </head>
 
-<body bgcolor=black lang=EN-US link=blue vlink="#96607D" style='word-wrap:break-word'>
+<body bgcolor=black lang=EN-US style='tab-interval:36.0pt;word-wrap:break-word'>
 
 <div class=WordSection1>
 
-<p class=MsoNormal>&nbsp;</p>
+<p class=MsoNormal><b><span style='font-size:12.0pt;line-height:107%;
+color:white;mso-themecolor:background1'>Chicken</span></b><b><span
+style='font-size:12.0pt;line-height:107%;color:white;mso-themecolor:background1;
+mso-ansi-language:RU'> </span></b><b><span style='font-size:12.0pt;line-height:
+107%;color:white;mso-themecolor:background1'>Liver</span></b><b><span
+style='font-size:12.0pt;line-height:107%;color:white;mso-themecolor:background1;
+mso-ansi-language:RU'> </span></b><b><span style='font-size:12.0pt;line-height:
+107%;color:white;mso-themecolor:background1'>Pate</span></b><b><span lang=RU
+style='font-size:12.0pt;line-height:107%;color:white;mso-themecolor:background1;
+mso-ansi-language:RU'> / &#1055;&#1072;&#1096;&#1090;&#1077;&#1090;
+&#1080;&#1079; &#1082;&#1091;&#1088;&#1080;&#1085;&#1086;&#1081;
+&#1087;&#1077;&#1095;&#1077;&#1085;&#1080;<o:p></o:p></span></b></p>
 
-<p class=MsoNormal><span style='font-size:18.0pt;line-height:107%;color:yellow'>TASTING\APPETIZERS 
-- 
-&#1044;&#1045;&#1043;&#1059;&#1057;&#1058;&#1040;&#1062;&#1048;&#1071;\&#1047;&#1040;&#1050;&#1059;&#1057;&#1050;&#1048;
-</span></p>
+<p class=MsoNormal><span style='color:white;mso-themecolor:background1;
+mso-no-proof:yes'><!--[if gte vml 1]><v:shapetype id="_x0000_t75" coordsize="21600,21600"
+ o:spt="75" o:preferrelative="t" path="m@4@5l@4@11@9@11@9@5xe" filled="f"
+ stroked="f">
+ <v:stroke joinstyle="miter"/>
+ <v:formulas>
+  <v:f eqn="if lineDrawn pixelLineWidth 0"/>
+  <v:f eqn="sum @0 1 0"/>
+  <v:f eqn="sum 0 0 @1"/>
+  <v:f eqn="prod @2 1 2"/>
+  <v:f eqn="prod @3 21600 pixelWidth"/>
+  <v:f eqn="prod @3 21600 pixelHeight"/>
+  <v:f eqn="sum @0 0 1"/>
+  <v:f eqn="prod @6 1 2"/>
+  <v:f eqn="prod @7 21600 pixelWidth"/>
+  <v:f eqn="sum @8 21600 0"/>
+  <v:f eqn="prod @7 21600 pixelHeight"/>
+  <v:f eqn="sum @10 21600 0"/>
+ </v:formulas>
+ <v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"/>
+ <o:lock v:ext="edit" aspectratio="t"/>
+</v:shapetype><v:shape id="_x0000_i1031" type="#_x0000_t75" alt="Food on a plate next to a bowl of greens&#10;&#10;Description automatically generated"
+ style='width:139.5pt;height:104.5pt;visibility:visible;mso-wrap-style:square'>
+ <v:imagedata src="Leaf%20Tasting-Webpage2%20htmlsingle-B_files/image001.png"
+  o:title="Food on a plate next to a bowl of greens&#10;&#10;Description automatically generated"/>
+</v:shape><![endif]--><![if !vml]><img width=186 height=139
+src="Leaf%20Tasting-Webpage2%20htmlsingle-B_files/image002.png"
+alt="Food on a plate next to a bowl of greens&#10;&#10;Description automatically generated"
+v:shapes="_x0000_i1031"><![endif]></span><b><span lang=RU style='font-size:
+12.0pt;line-height:107%;color:white;mso-themecolor:background1;mso-ansi-language:
+RU'><o:p></o:p></span></b></p>
 
-<p class=MsoNormal><span style='font-size:12.0pt;line-height:107%;color:#84E290'>See</span><span
-style='font-size:14.0pt;line-height:107%;color:#84E290'> </span><span
-style='font-size:14.0pt;line-height:107%;color:yellow'>COCKTAILS menu </span><span
-style='font-size:12.0pt;line-height:107%;color:#84E290'>below </span><span
-style='font-size:14.0pt;line-height:107%;color:#84E290'>-  </span><span
-style='font-size:12.0pt;line-height:107%;color:#84E290'>&#1057;&#1084;&#1086;&#1090;&#1088;&#1080;&#1090;&#1077;</span><span
-style='font-size:14.0pt;line-height:107%;color:#84E290'> </span><span
-style='font-size:16.0pt;line-height:107%;color:yellow'>&#1082;&#1086;&#1082;&#1090;&#1077;&#1081;&#1083;&#1080;</span><span
-style='font-size:14.0pt;line-height:107%;color:#84E290'> </span><span
-style='font-size:12.0pt;line-height:107%;color:#84E290'>&#1085;&#1080;&#1078;&#1077;</span></p>
+<p class=MsoNormal><span style='color:white;mso-themecolor:background1'>P�t� is
+a rich, <span class=GramE>savory<span style='mso-spacerun:yes'>� </span>pureed</span>
+spread chicken livers, fresh herbs, spices, butter, and occasionally other
+ingredients. P�t� is served as an appetizer or snack or spread on a fresh
+baguette or crackers.<o:p></o:p></span></p>
 
-<table class=MsoTableGrid border=1 cellspacing=0 cellpadding=0
- style='border-collapse:collapse;border:none'>
- <tr>
-  <td width=312 valign=top style='width:233.75pt;border:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal style='margin-bottom:8.0pt;line-height:107%'><b><span
-  style='font-size:12.0pt;line-height:107%;color:red'>Chicken Liver Pate</span></b></p>
-  </td>
-  <td width=312 valign=top style='width:233.75pt;border:solid windowtext 1.0pt;
-  border-left:none;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><b><span
-  style='font-size:12.0pt;color:red'>&#1055;&#1072;&#1096;&#1090;&#1077;&#1090;
-  &#1080;&#1079; &#1082;&#1091;&#1088;&#1080;&#1085;&#1086;&#1081;
-  &#1087;&#1077;&#1095;&#1077;&#1085;&#1080;</span></b></p>
-  </td>
- </tr>
- <tr>
-  <td width=312 valign=top style='width:233.75pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  style='color:white'>Pâté is a rich, savory  pureed spread chicken livers,
-  fresh herbs, spices, butter, and occasionally other ingredients. Pâté is
-  served as an appetizer or snack or spread on a fresh baguette or crackers.</span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  style='color:white'>&nbsp;</span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  lang=RU style='color:white'>&#1055;&#1072;&#1096;&#1090;&#1077;&#1090; —
-  &#1101;&#1090;&#1086;
-  &#1085;&#1072;&#1089;&#1099;&#1097;&#1077;&#1085;&#1085;&#1086;&#1077;
-  &#1087;&#1080;&#1082;&#1072;&#1085;&#1090;&#1085;&#1086;&#1077;
-  &#1087;&#1102;&#1088;&#1077; &#1080;&#1079; &#1082;&#1091;&#1088;&#1080;&#1085;&#1086;&#1081;
-  &#1087;&#1077;&#1095;&#1077;&#1085;&#1080;,
-  &#1089;&#1074;&#1077;&#1078;&#1080;&#1093; &#1090;&#1088;&#1072;&#1074;,
-  &#1089;&#1087;&#1077;&#1094;&#1080;&#1081;,
-  &#1089;&#1083;&#1080;&#1074;&#1086;&#1095;&#1085;&#1086;&#1075;&#1086;
-  &#1084;&#1072;&#1089;&#1083;&#1072; &#1080;
-  &#1080;&#1085;&#1086;&#1075;&#1076;&#1072;
-  &#1076;&#1088;&#1091;&#1075;&#1080;&#1093;
-  &#1080;&#1085;&#1075;&#1088;&#1077;&#1076;&#1080;&#1077;&#1085;&#1090;&#1086;&#1074;.
-  &#1055;&#1072;&#1096;&#1090;&#1077;&#1090;
-  &#1087;&#1086;&#1076;&#1072;&#1102;&#1090; &#1074;
-  &#1082;&#1072;&#1095;&#1077;&#1089;&#1090;&#1074;&#1077; &#1079;&#1072;&#1082;&#1091;&#1089;&#1082;&#1080;
-  &#1080;&#1083;&#1080; &#1079;&#1072;&#1082;&#1091;&#1089;&#1082;&#1080;,
-  &#1085;&#1072;&#1084;&#1072;&#1079;&#1099;&#1074;&#1072;&#1102;&#1090;
-  &#1085;&#1072; &#1089;&#1074;&#1077;&#1078;&#1080;&#1081; &#1073;&#1072;&#1075;&#1077;&#1090;
-  &#1080;&#1083;&#1080; &#1082;&#1088;&#1077;&#1082;&#1077;&#1088;&#1099;.</span></p>
-  </td>
-  <td width=312 valign=top style='width:233.75pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><img
-  width=285 height=214 id="Picture 3"
-  src="Leaf%20Tasting-Cocktail%20%20Menu%20Webpage%20html%20file_files/image001.png"></p>
-  </td>
- </tr>
-</table>
+<p class=MsoNormal><span lang=RU style='color:white;mso-themecolor:background1;
+mso-ansi-language:RU'>&#1055;&#1072;&#1096;&#1090;&#1077;&#1090; �
+&#1101;&#1090;&#1086;
+&#1085;&#1072;&#1089;&#1099;&#1097;&#1077;&#1085;&#1085;&#1086;&#1077;
+&#1087;&#1080;&#1082;&#1072;&#1085;&#1090;&#1085;&#1086;&#1077;
+&#1087;&#1102;&#1088;&#1077; &#1080;&#1079; &#1082;&#1091;&#1088;&#1080;&#1085;&#1086;&#1081;
+&#1087;&#1077;&#1095;&#1077;&#1085;&#1080;,
+&#1089;&#1074;&#1077;&#1078;&#1080;&#1093; &#1090;&#1088;&#1072;&#1074;,
+&#1089;&#1087;&#1077;&#1094;&#1080;&#1081;,
+&#1089;&#1083;&#1080;&#1074;&#1086;&#1095;&#1085;&#1086;&#1075;&#1086;
+&#1084;&#1072;&#1089;&#1083;&#1072; &#1080;
+&#1080;&#1085;&#1086;&#1075;&#1076;&#1072;
+&#1076;&#1088;&#1091;&#1075;&#1080;&#1093;
+&#1080;&#1085;&#1075;&#1088;&#1077;&#1076;&#1080;&#1077;&#1085;&#1090;&#1086;&#1074;.
+&#1055;&#1072;&#1096;&#1090;&#1077;&#1090;
+&#1087;&#1086;&#1076;&#1072;&#1102;&#1090; &#1074;
+&#1082;&#1072;&#1095;&#1077;&#1089;&#1090;&#1074;&#1077;
+&#1079;&#1072;&#1082;&#1091;&#1089;&#1082;&#1080; &#1080;&#1083;&#1080;
+&#1079;&#1072;&#1082;&#1091;&#1089;&#1082;&#1080;,
+&#1085;&#1072;&#1084;&#1072;&#1079;&#1099;&#1074;&#1072;&#1102;&#1090;
+&#1085;&#1072; &#1089;&#1074;&#1077;&#1078;&#1080;&#1081;
+&#1073;&#1072;&#1075;&#1077;&#1090; &#1080;&#1083;&#1080;
+&#1082;&#1088;&#1077;&#1082;&#1077;&#1088;&#1099;.<o:p></o:p></span></p>
 
-<p class=MsoNormal>&nbsp;</p>
+<p class=MsoNormal><span lang=RU style='color:white;mso-themecolor:background1;
+mso-ansi-language:RU'><o:p>&nbsp;</o:p></span></p>
 
-<table class=MsoTableGrid border=1 cellspacing=0 cellpadding=0
- style='border-collapse:collapse;border:none'>
- <tr>
-  <td width=312 valign=top style='width:233.75pt;border:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><b><span
-  style='font-size:12.0pt;color:red'>Shrimp &amp; Cocktail Sauce </span></b></p>
-  </td>
-  <td width=312 valign=top style='width:233.75pt;border:solid windowtext 1.0pt;
-  border-left:none;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><b><span
-  style='font-size:12.0pt;color:red'>&#1050;&#1088;&#1077;&#1074;&#1077;&#1090;&#1082;&#1080;
-  &#1080;
-  &#1082;&#1086;&#1082;&#1090;&#1077;&#1081;&#1083;&#1100;&#1085;&#1099;&#1081;
-  &#1089;&#1086;&#1091;&#1089;</span></b></p>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  style='color:red'>&nbsp;</span></p>
-  </td>
- </tr>
- <tr>
-  <td width=312 valign=top style='width:233.75pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  style='color:white'>Boiled shimp served chilled with cocktail sauce based on ketchup
-  or chili sauce mixed with prepared horseradish. </span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  style='color:white'>&nbsp;</span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  lang=RU style='color:white'>&#1054;&#1090;&#1074;&#1072;&#1088;&#1085;&#1099;&#1077;
-  &#1082;&#1088;&#1077;&#1074;&#1077;&#1090;&#1082;&#1080;
-  &#1087;&#1086;&#1076;&#1072;&#1102;&#1090;&#1089;&#1103;
-  &#1086;&#1093;&#1083;&#1072;&#1078;&#1076;&#1077;&#1085;&#1085;&#1099;&#1084;&#1080;
-  &#1089; &#1082;&#1086;&#1082;&#1090;&#1077;&#1081;&#1083;&#1100;&#1085;&#1099;&#1084;
-  &#1089;&#1086;&#1091;&#1089;&#1086;&#1084; &#1085;&#1072;
-  &#1086;&#1089;&#1085;&#1086;&#1074;&#1077;
-  &#1082;&#1077;&#1090;&#1095;&#1091;&#1087;&#1072; &#1080;&#1083;&#1080;
-  &#1089;&#1086;&#1091;&#1089;&#1086;&#1084; &#1095;&#1080;&#1083;&#1080;,
-  &#1089;&#1084;&#1077;&#1096;&#1072;&#1085;&#1085;&#1099;&#1084; &#1089;
-  &#1087;&#1086;&#1076;&#1075;&#1086;&#1090;&#1086;&#1074;&#1083;&#1077;&#1085;&#1085;&#1099;&#1084;
-  &#1093;&#1088;&#1077;&#1085;&#1086;&#1084;.</span></p>
-  </td>
-  <td width=312 valign=top style='width:233.75pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><img
-  width=187 height=198
-  src="Leaf%20Tasting-Cocktail%20%20Menu%20Webpage%20html%20file_files/image002.png"></p>
-  </td>
- </tr>
-</table>
+<p class=MsoNormal><b><span style='font-size:12.0pt;line-height:107%;
+color:white;mso-themecolor:background1'>Shrimp</span></b><b><span lang=RU
+style='font-size:12.0pt;line-height:107%;color:white;mso-themecolor:background1;
+mso-ansi-language:RU'> &amp; </span></b><b><span style='font-size:12.0pt;
+line-height:107%;color:white;mso-themecolor:background1'>Cocktail</span></b><b><span
+style='font-size:12.0pt;line-height:107%;color:white;mso-themecolor:background1;
+mso-ansi-language:RU'> </span></b><b><span style='font-size:12.0pt;line-height:
+107%;color:white;mso-themecolor:background1'>Sauce</span></b><b><span lang=RU
+style='font-size:12.0pt;line-height:107%;color:white;mso-themecolor:background1;
+mso-ansi-language:RU'> / &#1088;&#1077;&#1074;&#1077;&#1090;&#1082;&#1080;
+&#1080;
+&#1082;&#1086;&#1082;&#1090;&#1077;&#1081;&#1083;&#1100;&#1085;&#1099;&#1081; <span
+class=GramE>&#1089;&#1086;&#1091;&#1089;</span></span></b><span lang=RU
+style='color:white;mso-themecolor:background1;mso-ansi-language:RU'><o:p></o:p></span></p>
 
-<p class=MsoNormal>&nbsp;</p>
+<p class=MsoNormal><span lang=RU style='color:white;mso-themecolor:background1;
+mso-ansi-language:RU;mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="Picture_x0020_3"
+ o:spid="_x0000_i1030" type="#_x0000_t75" alt="Shrimp in a glass cup with sauce&#10;&#10;Description automatically generated"
+ style='width:137pt;height:140.5pt;visibility:visible;mso-wrap-style:square'>
+ <v:imagedata src="Leaf%20Tasting-Webpage2%20htmlsingle-B_files/image003.jpg"
+  o:title="Shrimp in a glass cup with sauce&#10;&#10;Description automatically generated"/>
+</v:shape><![endif]--><![if !vml]><img width=183 height=187
+src="Leaf%20Tasting-Webpage2%20htmlsingle-B_files/image003.jpg"
+alt="Shrimp in a glass cup with sauce&#10;&#10;Description automatically generated"
+v:shapes="Picture_x0020_3"><![endif]></span><span lang=RU style='color:white;
+mso-themecolor:background1;mso-ansi-language:RU'><o:p></o:p></span></p>
 
-<table class=MsoTableGrid border=1 cellspacing=0 cellpadding=0
- style='border-collapse:collapse;border:none'>
- <tr>
-  <td width=312 valign=top style='width:233.75pt;border:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><b><span
-  style='font-size:12.0pt;color:red'>Cheese Balls with Crostini Crackers</span></b></p>
-  </td>
-  <td width=312 valign=top style='width:233.75pt;border:solid windowtext 1.0pt;
-  border-left:none;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><b><span
-  lang=RU style='font-size:12.0pt;color:red'>&#1057;&#1099;&#1088;&#1085;&#1099;&#1077;
-  &#1096;&#1072;&#1088;&#1080;&#1082;&#1080; &#1089;
-  &#1082;&#1088;&#1077;&#1082;&#1077;&#1088;&#1072;&#1084;&#1080;
-  &#1050;&#1088;&#1086;&#1089;&#1090;&#1080;&#1085;&#1080;</span></b></p>
-  </td>
- </tr>
- <tr>
-  <td width=312 valign=top style='width:233.75pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  style='color:white'>Cheese balls are a mixture of soft cheeses shaped into a
-  ball refrigerated, and covered with a mixture of nuts and other crunchy
-  ingredients. These cheese balls are based on cream cheese and grated parmesan
-  and served with rosemary crostini crackers. </span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  style='color:white'>&nbsp;</span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  lang=RU style='color:white'>&#1057;&#1099;&#1088;&#1085;&#1099;&#1077;
-  &#1096;&#1072;&#1088;&#1080;&#1082;&#1080;
-  &#1087;&#1088;&#1077;&#1076;&#1089;&#1090;&#1072;&#1074;&#1083;&#1103;&#1102;&#1090;
-  &#1089;&#1086;&#1073;&#1086;&#1081; &#1089;&#1084;&#1077;&#1089;&#1100;
-  &#1084;&#1103;&#1075;&#1082;&#1080;&#1093;
-  &#1089;&#1099;&#1088;&#1086;&#1074;,
-  &#1089;&#1092;&#1086;&#1088;&#1084;&#1080;&#1088;&#1086;&#1074;&#1072;&#1085;&#1085;&#1099;&#1093;
-  &#1074; &#1074;&#1080;&#1076;&#1077;
-  &#1096;&#1072;&#1088;&#1080;&#1082;&#1086;&#1074;,
-  &#1086;&#1093;&#1083;&#1072;&#1078;&#1076;&#1077;&#1085;&#1085;&#1099;&#1093;
-  &#1080; &#1087;&#1086;&#1082;&#1088;&#1099;&#1090;&#1099;&#1093;
-  &#1089;&#1084;&#1077;&#1089;&#1100;&#1102;
-  &#1086;&#1088;&#1077;&#1093;&#1086;&#1074; &#1080; &#1076;&#1088;&#1091;&#1075;&#1080;&#1093;
-  &#1093;&#1088;&#1091;&#1089;&#1090;&#1103;&#1097;&#1080;&#1093;
-  &#1080;&#1085;&#1075;&#1088;&#1077;&#1076;&#1080;&#1077;&#1085;&#1090;&#1086;&#1074;.
-  &#1069;&#1090;&#1080; &#1089;&#1099;&#1088;&#1085;&#1099;&#1077; &#1096;&#1072;&#1088;&#1080;&#1082;&#1080;
-  &#1089;&#1086;&#1089;&#1090;&#1086;&#1103;&#1090; &#1080;&#1079;
-  &#1089;&#1083;&#1080;&#1074;&#1086;&#1095;&#1085;&#1086;&#1075;&#1086;
-  &#1089;&#1099;&#1088;&#1072; &#1080; &#1090;&#1077;&#1088;&#1090;&#1086;&#1075;&#1086;
-  &#1087;&#1072;&#1088;&#1084;&#1077;&#1079;&#1072;&#1085;&#1072; &#1080;
-  &#1087;&#1086;&#1076;&#1072;&#1102;&#1090;&#1089;&#1103; &#1089;
-  &#1082;&#1088;&#1077;&#1082;&#1077;&#1088;&#1072;&#1084;&#1080;
-  &#1082;&#1088;&#1086;&#1089;&#1090;&#1080;&#1085;&#1080; &#1089;
-  &#1088;&#1086;&#1079;&#1084;&#1072;&#1088;&#1080;&#1085;&#1086;&#1084;.</span></p>
-  </td>
-  <td width=312 valign=top style='width:233.75pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  lang=RU><img width=290 height=221
-  src="Leaf%20Tasting-Cocktail%20%20Menu%20Webpage%20html%20file_files/image003.png"></span></p>
-  </td>
- </tr>
-</table>
+<p class=MsoNormal><span style='color:white;mso-themecolor:background1'>Boiled <span
+class=SpellE>shimp</span> served chilled with cocktail sauce based on ketchup
+or chili sauce mixed with prepared horseradish. <o:p></o:p></span></p>
 
-<p class=MsoNormal><span lang=RU>&nbsp;</span></p>
+<p class=MsoNormal><span lang=RU style='color:white;mso-themecolor:background1;
+mso-ansi-language:RU'>&#1054;&#1090;&#1074;&#1072;&#1088;&#1085;&#1099;&#1077;
+&#1082;&#1088;&#1077;&#1074;&#1077;&#1090;&#1082;&#1080;
+&#1087;&#1086;&#1076;&#1072;&#1102;&#1090;&#1089;&#1103;
+&#1086;&#1093;&#1083;&#1072;&#1078;&#1076;&#1077;&#1085;&#1085;&#1099;&#1084;&#1080;
+&#1089;
+&#1082;&#1086;&#1082;&#1090;&#1077;&#1081;&#1083;&#1100;&#1085;&#1099;&#1084;
+&#1089;&#1086;&#1091;&#1089;&#1086;&#1084; &#1085;&#1072;
+&#1086;&#1089;&#1085;&#1086;&#1074;&#1077;
+&#1082;&#1077;&#1090;&#1095;&#1091;&#1087;&#1072; &#1080;&#1083;&#1080;
+&#1089;&#1086;&#1091;&#1089;&#1086;&#1084; &#1095;&#1080;&#1083;&#1080;,
+&#1089;&#1084;&#1077;&#1096;&#1072;&#1085;&#1085;&#1099;&#1084; &#1089;
+&#1087;&#1086;&#1076;&#1075;&#1086;&#1090;&#1086;&#1074;&#1083;&#1077;&#1085;&#1085;&#1099;&#1084;
+&#1093;&#1088;&#1077;&#1085;&#1086;&#1084;.<o:p></o:p></span></p>
 
-<table class=MsoTableGrid border=1 cellspacing=0 cellpadding=0
- style='border-collapse:collapse;border:none'>
- <tr>
-  <td width=312 valign=top style='width:233.75pt;border:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><b><span
-  style='font-size:12.0pt;color:red'>Greek Meatballs with Tzatziki Sauce</span></b></p>
-  </td>
-  <td width=312 valign=top style='width:233.75pt;border:solid windowtext 1.0pt;
-  border-left:none;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><b><span
-  lang=RU style='font-size:12.0pt;color:red'>&#1043;&#1088;&#1077;&#1095;&#1077;&#1089;&#1082;&#1080;&#1077;
-  &#1092;&#1088;&#1080;&#1082;&#1072;&#1076;&#1077;&#1083;&#1100;&#1082;&#1080;
-  &#1089; &#1089;&#1086;&#1091;&#1089;&#1086;&#1084;
-  &#1094;&#1072;&#1094;&#1080;&#1082;&#1080;</span></b></p>
-  </td>
- </tr>
- <tr>
-  <td width=312 valign=top style='width:233.75pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  style='color:white'>Greek Meatballs are a Mediterranean flavored meatball
-  served with Tzatziki, a zesty yogurt cucumber sauce.</span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  style='color:white'>&nbsp;</span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  lang=RU style='color:white'>&#1043;&#1088;&#1077;&#1095;&#1077;&#1089;&#1082;&#1080;&#1077;
-  &#1092;&#1088;&#1080;&#1082;&#1072;&#1076;&#1077;&#1083;&#1100;&#1082;&#1080;
-  — &#1101;&#1090;&#1086;
-  &#1092;&#1088;&#1080;&#1082;&#1072;&#1076;&#1077;&#1083;&#1100;&#1082;&#1080;
-  &#1089;&#1086; &#1089;&#1088;&#1077;&#1076;&#1080;&#1079;&#1077;&#1084;&#1085;&#1086;&#1084;&#1086;&#1088;&#1089;&#1082;&#1080;&#1084;
-  &#1074;&#1082;&#1091;&#1089;&#1086;&#1084;,
-  &#1082;&#1086;&#1090;&#1086;&#1088;&#1099;&#1077;
-  &#1087;&#1086;&#1076;&#1072;&#1102;&#1090;&#1089;&#1103; &#1089;
-  &#1094;&#1072;&#1094;&#1080;&#1082;&#1080;,
-  &#1087;&#1080;&#1082;&#1072;&#1085;&#1090;&#1085;&#1099;&#1084;
-  &#1089;&#1086;&#1091;&#1089;&#1086;&#1084; &#1080;&#1079;
-  &#1081;&#1086;&#1075;&#1091;&#1088;&#1090;&#1072; &#1080; &#1086;&#1075;&#1091;&#1088;&#1094;&#1086;&#1074;.</span></p>
-  </td>
-  <td width=312 valign=top style='width:233.75pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  lang=RU><img width=183 height=157
-  src="Leaf%20Tasting-Cocktail%20%20Menu%20Webpage%20html%20file_files/image004.png"></span></p>
-  </td>
- </tr>
-</table>
+<p class=MsoNormal><span lang=RU style='color:white;mso-themecolor:background1;
+mso-ansi-language:RU'><o:p>&nbsp;</o:p></span></p>
 
-<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span lang=RU
-style='font-size:5.0pt;font-family:"Calibri",sans-serif'>&nbsp;</span></p>
+<p class=MsoNormal><b><span style='font-size:12.0pt;line-height:107%;
+color:white;mso-themecolor:background1'>Cheese Balls with Crostini Crackers / </span></b><b><span
+lang=RU style='font-size:12.0pt;line-height:107%;color:white;mso-themecolor:
+background1;mso-ansi-language:RU'>&#1057;&#1099;&#1088;&#1085;&#1099;&#1077;</span></b><b><span
+lang=RU style='font-size:12.0pt;line-height:107%;color:white;mso-themecolor:
+background1'> </span></b><b><span lang=RU style='font-size:12.0pt;line-height:
+107%;color:white;mso-themecolor:background1;mso-ansi-language:RU'>&#1096;&#1072;&#1088;&#1080;&#1082;&#1080;</span></b><b><span
+lang=RU style='font-size:12.0pt;line-height:107%;color:white;mso-themecolor:
+background1'> </span></b><b><span lang=RU style='font-size:12.0pt;line-height:
+107%;color:white;mso-themecolor:background1;mso-ansi-language:RU'>&#1089;</span></b><b><span
+lang=RU style='font-size:12.0pt;line-height:107%;color:white;mso-themecolor:
+background1'> </span></b><b><span lang=RU style='font-size:12.0pt;line-height:
+107%;color:white;mso-themecolor:background1;mso-ansi-language:RU'>&#1082;&#1088;&#1077;&#1082;&#1077;&#1088;&#1072;&#1084;&#1080;</span></b><b><span
+lang=RU style='font-size:12.0pt;line-height:107%;color:white;mso-themecolor:
+background1'> </span></b><b><span lang=RU style='font-size:12.0pt;line-height:
+107%;color:white;mso-themecolor:background1;mso-ansi-language:RU'>&#1050;&#1088;&#1086;&#1089;&#1090;&#1080;&#1085;&#1080;</span></b><span
+style='color:white;mso-themecolor:background1'><o:p></o:p></span></p>
 
-<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span lang=RU
-style='font-size:5.0pt;font-family:"Calibri",sans-serif'>&nbsp;</span></p>
+<p class=MsoNormal><span lang=RU style='color:white;mso-themecolor:background1;
+mso-ansi-language:RU;mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="Picture_x0020_4"
+ o:spid="_x0000_i1029" type="#_x0000_t75" alt="A plate of food on a table&#10;&#10;Description automatically generated"
+ style='width:145pt;height:110.5pt;visibility:visible;mso-wrap-style:square'>
+ <v:imagedata src="Leaf%20Tasting-Webpage2%20htmlsingle-B_files/image004.jpg"
+  o:title="A plate of food on a table&#10;&#10;Description automatically generated"/>
+</v:shape><![endif]--><![if !vml]><img width=193 height=147
+src="Leaf%20Tasting-Webpage2%20htmlsingle-B_files/image005.jpg"
+alt="A plate of food on a table&#10;&#10;Description automatically generated"
+v:shapes="Picture_x0020_4"><![endif]></span><span style='color:white;
+mso-themecolor:background1'><o:p></o:p></span></p>
 
-<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span lang=RU
-style='font-size:5.0pt;font-family:"Calibri",sans-serif'>&nbsp;</span></p>
+<p class=MsoNormal><span style='color:white;mso-themecolor:background1'>Cheese
+balls are a mixture of soft cheeses shaped into a ball <span class=GramE>refrigerated,
+and</span> covered with a mixture of nuts and other crunchy ingredients. These
+cheese balls are based on cream cheese and grated parmesan and served with
+rosemary crostini crackers. <o:p></o:p></span></p>
 
-<table class=MsoTableGrid border=1 cellspacing=0 cellpadding=0
- style='border-collapse:collapse;border:none'>
- <tr>
-  <td width=312 valign=top style='width:233.75pt;border:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><b><span
-  style='font-size:12.0pt;color:red'>Grilled Tarragon-Mustard Chicken Skewers</span></b></p>
-  </td>
-  <td width=312 valign=top style='width:233.75pt;border:solid windowtext 1.0pt;
-  border-left:none;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><b><span
-  lang=RU style='font-size:12.0pt;color:red'>&#1046;&#1072;&#1088;&#1077;&#1085;&#1099;&#1077;
-  &#1082;&#1091;&#1088;&#1080;&#1085;&#1099;&#1077;
-  &#1096;&#1072;&#1096;&#1083;&#1099;&#1095;&#1082;&#1080; &#1089;
-  &#1101;&#1089;&#1090;&#1088;&#1072;&#1075;&#1086;&#1085;&#1086;&#1084;
-  &#1080; &#1075;&#1086;&#1088;&#1095;&#1080;&#1094;&#1077;&#1081;</span></b></p>
-  </td>
- </tr>
- <tr>
-  <td width=312 valign=top style='width:233.75pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  style='color:white'>The dish is exactly what its name says,  grilled chicken
-  marinated in flavorful tarragon-mustard sauce and grilled.</span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  style='color:white'>&nbsp;</span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  lang=RU style='color:white'>&#1041;&#1083;&#1102;&#1076;&#1086;
-  &#1089;&#1086;&#1086;&#1090;&#1074;&#1077;&#1090;&#1089;&#1090;&#1074;&#1091;&#1077;&#1090;
-  &#1089;&#1074;&#1086;&#1077;&#1084;&#1091;
-  &#1085;&#1072;&#1079;&#1074;&#1072;&#1085;&#1080;&#1102;:
-  &#1082;&#1091;&#1088;&#1080;&#1094;&#1072;-&#1075;&#1088;&#1080;&#1083;&#1100;,
-  &#1084;&#1072;&#1088;&#1080;&#1085;&#1086;&#1074;&#1072;&#1085;&#1085;&#1072;&#1103;
-  &#1074; &#1072;&#1088;&#1086;&#1084;&#1072;&#1090;&#1085;&#1086;&#1084;
-  &#1101;&#1089;&#1090;&#1088;&#1072;&#1075;&#1086;&#1085;&#1085;&#1086;-&#1075;&#1086;&#1088;&#1095;&#1080;&#1095;&#1085;&#1086;&#1084;
-  &#1089;&#1086;&#1091;&#1089;&#1077; &#1080;
-  &#1087;&#1088;&#1080;&#1075;&#1086;&#1090;&#1086;&#1074;&#1083;&#1077;&#1085;&#1085;&#1072;&#1103;
-  &#1085;&#1072; &#1075;&#1088;&#1080;&#1083;&#1077;.</span></p>
-  </td>
-  <td width=312 valign=top style='width:233.75pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><img
-  width=193 height=145
-  src="Leaf%20Tasting-Cocktail%20%20Menu%20Webpage%20html%20file_files/image005.png"></p>
-  </td>
- </tr>
-</table>
+<p class=MsoNormal><span lang=RU style='color:white;mso-themecolor:background1;
+mso-ansi-language:RU'>&#1057;&#1099;&#1088;&#1085;&#1099;&#1077;
+&#1096;&#1072;&#1088;&#1080;&#1082;&#1080;
+&#1087;&#1088;&#1077;&#1076;&#1089;&#1090;&#1072;&#1074;&#1083;&#1103;&#1102;&#1090;
+&#1089;&#1086;&#1073;&#1086;&#1081; &#1089;&#1084;&#1077;&#1089;&#1100; &#1084;&#1103;&#1075;&#1082;&#1080;&#1093;
+&#1089;&#1099;&#1088;&#1086;&#1074;,
+&#1089;&#1092;&#1086;&#1088;&#1084;&#1080;&#1088;&#1086;&#1074;&#1072;&#1085;&#1085;&#1099;&#1093;
+&#1074; &#1074;&#1080;&#1076;&#1077; &#1096;&#1072;&#1088;&#1080;&#1082;&#1086;&#1074;,
+&#1086;&#1093;&#1083;&#1072;&#1078;&#1076;&#1077;&#1085;&#1085;&#1099;&#1093;
+&#1080; &#1087;&#1086;&#1082;&#1088;&#1099;&#1090;&#1099;&#1093;
+&#1089;&#1084;&#1077;&#1089;&#1100;&#1102;
+&#1086;&#1088;&#1077;&#1093;&#1086;&#1074; &#1080; &#1076;&#1088;&#1091;&#1075;&#1080;&#1093;
+&#1093;&#1088;&#1091;&#1089;&#1090;&#1103;&#1097;&#1080;&#1093;
+&#1080;&#1085;&#1075;&#1088;&#1077;&#1076;&#1080;&#1077;&#1085;&#1090;&#1086;&#1074;.
+&#1069;&#1090;&#1080; &#1089;&#1099;&#1088;&#1085;&#1099;&#1077; &#1096;&#1072;&#1088;&#1080;&#1082;&#1080;
+&#1089;&#1086;&#1089;&#1090;&#1086;&#1103;&#1090; &#1080;&#1079;
+&#1089;&#1083;&#1080;&#1074;&#1086;&#1095;&#1085;&#1086;&#1075;&#1086;
+&#1089;&#1099;&#1088;&#1072; &#1080; &#1090;&#1077;&#1088;&#1090;&#1086;&#1075;&#1086;
+&#1087;&#1072;&#1088;&#1084;&#1077;&#1079;&#1072;&#1085;&#1072; &#1080;
+&#1087;&#1086;&#1076;&#1072;&#1102;&#1090;&#1089;&#1103; &#1089;
+&#1082;&#1088;&#1077;&#1082;&#1077;&#1088;&#1072;&#1084;&#1080;
+&#1082;&#1088;&#1086;&#1089;&#1090;&#1080;&#1085;&#1080; &#1089;
+&#1088;&#1086;&#1079;&#1084;&#1072;&#1088;&#1080;&#1085;&#1086;&#1084;.<o:p></o:p></span></p>
 
-<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span lang=RU
-style='font-size:5.0pt;font-family:"Calibri",sans-serif'>&nbsp;</span></p>
+<p class=MsoNormal><span lang=RU style='color:white;mso-themecolor:background1;
+mso-ansi-language:RU'><o:p>&nbsp;</o:p></span></p>
 
-<table class=MsoTableGrid border=1 cellspacing=0 cellpadding=0
- style='border-collapse:collapse;border:none'>
- <tr>
-  <td width=312 valign=top style='width:233.75pt;border:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><b><span
-  style='font-size:12.0pt;color:red'>&nbsp;</span></b></p>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><b><span
-  style='font-size:12.0pt;color:red'>Sweet Potatos with Andouille Sauce</span></b></p>
-  </td>
-  <td width=312 valign=top style='width:233.75pt;border:solid windowtext 1.0pt;
-  border-left:none;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><b><span
-  style='font-size:12.0pt;color:red'>&nbsp;</span></b></p>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><b><span
-  lang=RU style='font-size:12.0pt;color:red'>&#1057;&#1083;&#1072;&#1076;&#1082;&#1080;&#1081;
-  &#1082;&#1072;&#1088;&#1090;&#1086;&#1092;&#1077;&#1083;&#1100; &#1089;
-  &#1089;&#1086;&#1091;&#1089;&#1086;&#1084;
-  &#1040;&#1085;&#1076;&#1091;&#1081;</span></b></p>
-  </td>
- </tr>
- <tr>
-  <td width=312 valign=top style='width:233.75pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  style='color:white'>This appetizer is a variation of traditional fries and
-  ketchup\mayo.   The fries are made from sweet potatoes and served with zesty
-  mayo and tomato based sauce with onion, pepper, and lemon flavor.  </span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  style='color:white'>&nbsp;</span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  lang=RU style='color:white'>&#1069;&#1090;&#1072;
-  &#1079;&#1072;&#1082;&#1091;&#1089;&#1082;&#1072;
-  &#1087;&#1088;&#1077;&#1076;&#1089;&#1090;&#1072;&#1074;&#1083;&#1103;&#1077;&#1090;
-  &#1089;&#1086;&#1073;&#1086;&#1081;
-  &#1074;&#1072;&#1088;&#1080;&#1072;&#1094;&#1080;&#1102; &#1090;&#1088;&#1072;&#1076;&#1080;&#1094;&#1080;&#1086;&#1085;&#1085;&#1086;&#1075;&#1086;
-  &#1082;&#1072;&#1088;&#1090;&#1086;&#1092;&#1077;&#1083;&#1103;
-  &#1092;&#1088;&#1080; &#1080;
-  &#1082;&#1077;&#1090;&#1095;&#1091;&#1087;&#1072;\&#1084;&#1072;&#1081;&#1086;&#1085;&#1077;&#1079;&#1072;.
-  &#1050;&#1072;&#1088;&#1090;&#1086;&#1096;&#1082;&#1072;
-  &#1092;&#1088;&#1080;
-  &#1075;&#1086;&#1090;&#1086;&#1074;&#1080;&#1090;&#1089;&#1103;
-  &#1080;&#1079; &#1089;&#1083;&#1072;&#1076;&#1082;&#1086;&#1075;&#1086;
-  &#1082;&#1072;&#1088;&#1090;&#1086;&#1092;&#1077;&#1083;&#1103; &#1080;
-  &#1087;&#1086;&#1076;&#1072;&#1077;&#1090;&#1089;&#1103; &#1089;
-  &#1087;&#1080;&#1082;&#1072;&#1085;&#1090;&#1085;&#1099;&#1084;
-  &#1089;&#1086;&#1091;&#1089;&#1086;&#1084; &#1085;&#1072;
-  &#1086;&#1089;&#1085;&#1086;&#1074;&#1077;
-  &#1084;&#1072;&#1081;&#1086;&#1085;&#1077;&#1079;&#1072; &#1080;
-  &#1090;&#1086;&#1084;&#1072;&#1090;&#1086;&#1074; &#1089;&#1086;
-  &#1074;&#1082;&#1091;&#1089;&#1086;&#1084; &#1083;&#1091;&#1082;&#1072;,
-  &#1087;&#1077;&#1088;&#1094;&#1072; &#1080;
-  &#1083;&#1080;&#1084;&#1086;&#1085;&#1072;.</span></p>
-  </td>
-  <td width=312 valign=top style='width:233.75pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><img
-  width=230 height=219 id="Picture 5"
-  src="Leaf%20Tasting-Cocktail%20%20Menu%20Webpage%20html%20file_files/image006.jpg"></p>
-  </td>
- </tr>
-</table>
+<p class=MsoNormal><b><span style='font-size:12.0pt;line-height:107%;
+color:white;mso-themecolor:background1'>Greek</span></b><b><span
+style='font-size:12.0pt;line-height:107%;color:white;mso-themecolor:background1;
+mso-ansi-language:RU'> </span></b><b><span style='font-size:12.0pt;line-height:
+107%;color:white;mso-themecolor:background1'>Meatballs</span></b><b><span
+style='font-size:12.0pt;line-height:107%;color:white;mso-themecolor:background1;
+mso-ansi-language:RU'> </span></b><b><span style='font-size:12.0pt;line-height:
+107%;color:white;mso-themecolor:background1'>with</span></b><b><span
+style='font-size:12.0pt;line-height:107%;color:white;mso-themecolor:background1;
+mso-ansi-language:RU'> </span></b><b><span style='font-size:12.0pt;line-height:
+107%;color:white;mso-themecolor:background1'>Tzatziki</span></b><b><span
+style='font-size:12.0pt;line-height:107%;color:white;mso-themecolor:background1;
+mso-ansi-language:RU'> </span></b><b><span style='font-size:12.0pt;line-height:
+107%;color:white;mso-themecolor:background1'>Sauce</span></b><b><span lang=RU
+style='font-size:12.0pt;line-height:107%;color:white;mso-themecolor:background1;
+mso-ansi-language:RU'> / &#1043;&#1088;&#1077;&#1095;&#1077;&#1089;&#1082;&#1080;&#1077;
+&#1092;&#1088;&#1080;&#1082;&#1072;&#1076;&#1077;&#1083;&#1100;&#1082;&#1080; &#1089;
+&#1089;&#1086;&#1091;&#1089;&#1086;&#1084; &#1094;&#1072;&#1094;&#1080;&#1082;&#1080;<o:p></o:p></span></b></p>
 
-<p class=MsoNormal style='line-height:normal'><span lang=RU style='font-size:
-5.0pt;font-family:"Calibri",sans-serif'>&nbsp;</span></p>
+<p class=MsoNormal><span lang=RU style='color:white;mso-themecolor:background1;
+mso-ansi-language:RU;mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="Picture_x0020_7"
+ o:spid="_x0000_i1028" type="#_x0000_t75" alt="A plate of meatballs with a white bowl of dip&#10;&#10;Description automatically generated"
+ style='width:134.5pt;height:119.5pt;visibility:visible;mso-wrap-style:square'>
+ <v:imagedata src="Leaf%20Tasting-Webpage2%20htmlsingle-B_files/image006.jpg"
+  o:title="A plate of meatballs with a white bowl of dip&#10;&#10;Description automatically generated"/>
+</v:shape><![endif]--><![if !vml]><img width=179 height=159
+src="Leaf%20Tasting-Webpage2%20htmlsingle-B_files/image007.jpg"
+alt="A plate of meatballs with a white bowl of dip&#10;&#10;Description automatically generated"
+v:shapes="Picture_x0020_7"><![endif]></span><span style='color:white;
+mso-themecolor:background1'><o:p></o:p></span></p>
 
-<table class=MsoTableGrid border=1 cellspacing=0 cellpadding=0
- style='border-collapse:collapse;border:none'>
- <tr>
-  <td width=312 valign=top style='width:233.75pt;border:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><b><span
-  style='font-size:12.0pt;color:red'>Bruschetta</span></b></p>
-  </td>
-  <td width=312 valign=top style='width:233.75pt;border:solid windowtext 1.0pt;
-  border-left:none;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><b><span
-  style='font-size:12.0pt;color:red'>&#1041;&#1088;&#1091;&#1089;&#1082;&#1077;&#1090;&#1090;&#1072;</span></b></p>
-  </td>
- </tr>
- <tr>
-  <td width=312 valign=top style='width:233.75pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  style='color:white'>This is classic Bruschetta, a tomato basil spread on a
-  toasted baguette.</span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  style='color:white'>&nbsp;</span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  lang=RU style='color:white'>&#1069;&#1090;&#1086;
-  &#1082;&#1083;&#1072;&#1089;&#1089;&#1080;&#1095;&#1077;&#1089;&#1082;&#1072;&#1103;
-  &#1073;&#1088;&#1091;&#1089;&#1082;&#1077;&#1090;&#1090;&#1072; —
-  &#1090;&#1086;&#1084;&#1072;&#1090;&#1085;&#1086;-&#1073;&#1072;&#1079;&#1080;&#1083;&#1080;&#1082;,
-  &#1085;&#1072;&#1084;&#1072;&#1079;&#1072;&#1085;&#1085;&#1099;&#1081;
-  &#1085;&#1072;
-  &#1087;&#1086;&#1076;&#1078;&#1072;&#1088;&#1077;&#1085;&#1085;&#1099;&#1081;
-  &#1073;&#1072;&#1075;&#1077;&#1090;.</span></p>
-  </td>
-  <td width=312 valign=top style='width:233.75pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  lang=RU><img width=194 height=193
-  src="Leaf%20Tasting-Cocktail%20%20Menu%20Webpage%20html%20file_files/image007.png"></span></p>
-  </td>
- </tr>
-</table>
+<p class=MsoNormal><span style='color:white;mso-themecolor:background1'>Greek
+Meatballs are a Mediterranean flavored meatball served with Tzatziki, a zesty
+yogurt cucumber sauce.<o:p></o:p></span></p>
 
-<p class=MsoNormal><span lang=RU>&nbsp;</span></p>
+<p class=MsoNormal><span lang=RU style='color:white;mso-themecolor:background1;
+mso-ansi-language:RU'>&#1043;&#1088;&#1077;&#1095;&#1077;&#1089;&#1082;&#1080;&#1077;
+&#1092;&#1088;&#1080;&#1082;&#1072;&#1076;&#1077;&#1083;&#1100;&#1082;&#1080; �
+&#1101;&#1090;&#1086;
+&#1092;&#1088;&#1080;&#1082;&#1072;&#1076;&#1077;&#1083;&#1100;&#1082;&#1080;
+&#1089;&#1086; &#1089;&#1088;&#1077;&#1076;&#1080;&#1079;&#1077;&#1084;&#1085;&#1086;&#1084;&#1086;&#1088;&#1089;&#1082;&#1080;&#1084;
+&#1074;&#1082;&#1091;&#1089;&#1086;&#1084;,
+&#1082;&#1086;&#1090;&#1086;&#1088;&#1099;&#1077;
+&#1087;&#1086;&#1076;&#1072;&#1102;&#1090;&#1089;&#1103; &#1089;
+&#1094;&#1072;&#1094;&#1080;&#1082;&#1080;,
+&#1087;&#1080;&#1082;&#1072;&#1085;&#1090;&#1085;&#1099;&#1084;
+&#1089;&#1086;&#1091;&#1089;&#1086;&#1084; &#1080;&#1079;
+&#1081;&#1086;&#1075;&#1091;&#1088;&#1090;&#1072; &#1080; &#1086;&#1075;&#1091;&#1088;&#1094;&#1086;&#1074;.<o:p></o:p></span></p>
 
-<p class=MsoNormal><span lang=RU>&nbsp;</span></p>
+<p class=MsoNormal><span lang=RU style='color:white;mso-themecolor:background1;
+mso-ansi-language:RU'><o:p>&nbsp;</o:p></span></p>
 
-<p class=MsoNormal><span lang=RU>&nbsp;</span></p>
+<p class=MsoNormal><span class=GramE><b><span style='font-size:12.0pt;
+line-height:107%;color:white;mso-themecolor:background1'>Grilled</span></b><b><span
+lang=RU style='font-size:12.0pt;line-height:107%;color:white;mso-themecolor:
+background1;mso-ansi-language:RU'><span style='mso-spacerun:yes'>� </span></span></b><b><span
+style='font-size:12.0pt;line-height:107%;color:white;mso-themecolor:background1'>Tarragon</span></b></span><b><span
+lang=RU style='font-size:12.0pt;line-height:107%;color:white;mso-themecolor:
+background1;mso-ansi-language:RU'>-</span></b><b><span style='font-size:12.0pt;
+line-height:107%;color:white;mso-themecolor:background1'>Mustard</span></b><b><span
+style='font-size:12.0pt;line-height:107%;color:white;mso-themecolor:background1;
+mso-ansi-language:RU'> </span></b><b><span style='font-size:12.0pt;line-height:
+107%;color:white;mso-themecolor:background1'>Chicken</span></b><b><span
+style='font-size:12.0pt;line-height:107%;color:white;mso-themecolor:background1;
+mso-ansi-language:RU'> </span></b><b><span style='font-size:12.0pt;line-height:
+107%;color:white;mso-themecolor:background1'>Skewers</span></b><b><span
+lang=RU style='font-size:12.0pt;line-height:107%;color:white;mso-themecolor:
+background1;mso-ansi-language:RU'> / &#1046;&#1072;&#1088;&#1077;&#1085;&#1099;&#1077;
+&#1082;&#1091;&#1088;&#1080;&#1085;&#1099;&#1077;
+&#1096;&#1072;&#1096;&#1083;&#1099;&#1095;&#1082;&#1080; &#1089;
+&#1101;&#1089;&#1090;&#1088;&#1072;&#1075;&#1086;&#1085;&#1086;&#1084; &#1080;
+&#1075;&#1086;&#1088;&#1095;&#1080;&#1094;&#1077;&#1081;<o:p></o:p></span></b></p>
 
-<p class=MsoNormal><span style='font-size:22.0pt;line-height:107%;color:yellow'>COCKTAILS 
--  &#1050;&#1054;&#1050;&#1058;&#1045;&#1049;&#1051;&#1048;</span></p>
+<p class=MsoNormal><span lang=RU style='color:white;mso-themecolor:background1;
+mso-ansi-language:RU;mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="Picture_x0020_8"
+ o:spid="_x0000_i1027" type="#_x0000_t75" alt="A tray of food on a tray&#10;&#10;Description automatically generated"
+ style='width:142pt;height:109pt;visibility:visible;mso-wrap-style:square'>
+ <v:imagedata src="Leaf%20Tasting-Webpage2%20htmlsingle-B_files/image008.jpg"
+  o:title="A tray of food on a tray&#10;&#10;Description automatically generated"/>
+</v:shape><![endif]--><![if !vml]><img width=189 height=145
+src="Leaf%20Tasting-Webpage2%20htmlsingle-B_files/image009.jpg"
+alt="A tray of food on a tray&#10;&#10;Description automatically generated"
+v:shapes="Picture_x0020_8"><![endif]></span><span lang=RU style='color:white;
+mso-themecolor:background1;mso-ansi-language:RU'><o:p></o:p></span></p>
 
-<table class=MsoTableGrid border=1 cellspacing=0 cellpadding=0
- style='border-collapse:collapse;border:none'>
- <tr>
-  <td width=387 valign=top style='width:290.35pt;border:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  style='font-size:14.0pt;color:red'>Negroni </span></p>
-  </td>
-  <td width=236 valign=top style='width:177.2pt;border:solid windowtext 1.0pt;
-  border-left:none;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal style='line-height:normal'><span style='font-size:14.0pt;
-  color:red'>&#1053;&#1077;&#1075;&#1088;&#1086;&#1085;&#1080;</span></p>
-  </td>
- </tr>
- <tr>
-  <td width=387 valign=top style='width:290.35pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  style='color:white'>Gin, Campari, and vermouth come together in this
-  equal-parts build for a boozy yet refined cocktail.</span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  style='color:#00B0F0'>Ingredients</span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  style='color:white'>Gin, Sweet Vermouth, Campari, Orange twist</span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  style='color:white'>&nbsp;</span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  lang=RU style='color:white'>&#1044;&#1078;&#1080;&#1085;,
-  &#1050;&#1072;&#1084;&#1087;&#1072;&#1088;&#1080; &#1080;
-  &#1074;&#1077;&#1088;&#1084;&#1091;&#1090;
-  &#1086;&#1073;&#1098;&#1077;&#1076;&#1080;&#1085;&#1077;&#1085;&#1099;
-  &#1074; &#1101;&#1090;&#1086;&#1090; &#1088;&#1072;&#1074;&#1085;&#1099;&#1081;
-  &#1089;&#1086;&#1089;&#1090;&#1072;&#1074;,
-  &#1086;&#1073;&#1088;&#1072;&#1079;&#1091;&#1102;&#1097;&#1080;&#1081;
-  &#1082;&#1088;&#1077;&#1087;&#1082;&#1080;&#1081;, &#1085;&#1086;
-  &#1080;&#1079;&#1099;&#1089;&#1082;&#1072;&#1085;&#1085;&#1099;&#1081;
-  &#1082;&#1086;&#1082;&#1090;&#1077;&#1081;&#1083;&#1100;.</span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  lang=RU style='color:#00B0F0'>&#1048;&#1085;&#1075;&#1088;&#1077;&#1076;&#1080;&#1077;&#1085;&#1090;&#1099;</span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  lang=RU style='color:white'>&#1044;&#1078;&#1080;&#1085;,
-  &#1057;&#1083;&#1072;&#1076;&#1082;&#1080;&#1081;
-  &#1074;&#1077;&#1088;&#1084;&#1091;&#1090;,
-  &#1050;&#1072;&#1084;&#1087;&#1072;&#1088;&#1080;, &#1040;&#1087;&#1077;&#1083;&#1100;&#1089;&#1080;&#1085;&#1086;&#1074;&#1099;&#1081;
-  &#1090;&#1074;&#1080;&#1089;&#1090;</span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  lang=RU style='font-size:13.5pt;font-family:"Helvetica",sans-serif;
-  color:white'>&nbsp;</span></p>
-  </td>
-  <td width=236 valign=top style='width:177.2pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal style='line-height:normal'><span style='font-size:13.5pt;
-  font-family:"Helvetica",sans-serif;color:white'><img width=206 height=289
-  id="Picture 52"
-  src="Leaf%20Tasting-Cocktail%20%20Menu%20Webpage%20html%20file_files/image008.jpg"></span></p>
-  </td>
- </tr>
-</table>
+<p class=MsoNormal><span style='color:white;mso-themecolor:background1'>The
+dish is exactly what its name <span class=GramE>says,<span
+style='mso-spacerun:yes'>� </span>grilled</span> chicken marinated in flavorful
+tarragon-mustard sauce and grilled.<o:p></o:p></span></p>
 
-<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-style='color:white'>&nbsp;</span></p>
+<p class=MsoNormal><span lang=RU style='color:white;mso-themecolor:background1;
+mso-ansi-language:RU'>&#1041;&#1083;&#1102;&#1076;&#1086;
+&#1089;&#1086;&#1086;&#1090;&#1074;&#1077;&#1090;&#1089;&#1090;&#1074;&#1091;&#1077;&#1090;
+&#1089;&#1074;&#1086;&#1077;&#1084;&#1091;
+&#1085;&#1072;&#1079;&#1074;&#1072;&#1085;&#1080;&#1102;: &#1082;&#1091;&#1088;&#1080;&#1094;&#1072;-&#1075;&#1088;&#1080;&#1083;&#1100;,
+&#1084;&#1072;&#1088;&#1080;&#1085;&#1086;&#1074;&#1072;&#1085;&#1085;&#1072;&#1103;
+&#1074; &#1072;&#1088;&#1086;&#1084;&#1072;&#1090;&#1085;&#1086;&#1084;
+&#1101;&#1089;&#1090;&#1088;&#1072;&#1075;&#1086;&#1085;&#1085;&#1086;-&#1075;&#1086;&#1088;&#1095;&#1080;&#1095;&#1085;&#1086;&#1084;
+&#1089;&#1086;&#1091;&#1089;&#1077; &#1080;
+&#1087;&#1088;&#1080;&#1075;&#1086;&#1090;&#1086;&#1074;&#1083;&#1077;&#1085;&#1085;&#1072;&#1103;
+&#1085;&#1072; &#1075;&#1088;&#1080;&#1083;&#1077;.<o:p></o:p></span></p>
 
-<table class=MsoTableGrid border=1 cellspacing=0 cellpadding=0
- style='border-collapse:collapse;border:none'>
- <tr>
-  <td width=387 valign=top style='width:290.35pt;border:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  style='font-size:14.0pt;color:red;background:black'>Daiquiri</span></p>
-  </td>
-  <td width=236 valign=top style='width:177.2pt;border:solid windowtext 1.0pt;
-  border-left:none;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  style='font-size:14.0pt;color:red;background:black'>&#1044;&#1072;&#1081;&#1082;&#1080;&#1088;&#1080;</span></p>
-  </td>
- </tr>
- <tr>
-  <td width=387 valign=top style='width:290.35pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  style='color:white'>The Daiquiri is often misunderstood. While many associate
-  the drink with fruit and blenders, a true Daiquiri is simply made with white
-  rum, lime juice, and simple syrup. It’s a tart and refreshing drink for any occasion.</span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  style='color:#00B0F0'>Ingredients</span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  style='color:white'>white rum, lime juice, simple syrup ,Lime wedge</span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  style='color:white'>&nbsp;</span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  lang=RU style='color:white'>&#1044;&#1072;&#1081;&#1082;&#1080;&#1088;&#1080;
-  &#1095;&#1072;&#1089;&#1090;&#1086;
-  &#1087;&#1086;&#1085;&#1080;&#1084;&#1072;&#1102;&#1090;
-  &#1085;&#1077;&#1087;&#1088;&#1072;&#1074;&#1080;&#1083;&#1100;&#1085;&#1086;.
-  &#1061;&#1086;&#1090;&#1103; &#1091;
-  &#1084;&#1085;&#1086;&#1075;&#1080;&#1093; &#1101;&#1090;&#1086;&#1090;
-  &#1085;&#1072;&#1087;&#1080;&#1090;&#1086;&#1082;
-  &#1072;&#1089;&#1089;&#1086;&#1094;&#1080;&#1080;&#1088;&#1091;&#1077;&#1090;&#1089;&#1103;
-  &#1089; &#1092;&#1088;&#1091;&#1082;&#1090;&#1072;&#1084;&#1080; &#1080;
-  &#1073;&#1083;&#1077;&#1085;&#1076;&#1072;&#1084;&#1080;,
-  &#1085;&#1072;&#1089;&#1090;&#1086;&#1103;&#1097;&#1080;&#1081;
-  &#1076;&#1072;&#1081;&#1082;&#1080;&#1088;&#1080;
-  &#1087;&#1088;&#1086;&#1089;&#1090;&#1086;
-  &#1075;&#1086;&#1090;&#1086;&#1074;&#1080;&#1090;&#1089;&#1103;
-  &#1080;&#1079; &#1073;&#1077;&#1083;&#1086;&#1075;&#1086;
-  &#1088;&#1086;&#1084;&#1072;, &#1089;&#1086;&#1082;&#1072;
-  &#1083;&#1072;&#1081;&#1084;&#1072; &#1080; &#1087;&#1088;&#1086;&#1089;&#1090;&#1086;&#1075;&#1086;
-  &#1089;&#1080;&#1088;&#1086;&#1087;&#1072;. &#1069;&#1090;&#1086;
-  &#1090;&#1077;&#1088;&#1087;&#1082;&#1080;&#1081; &#1080;
-  &#1086;&#1089;&#1074;&#1077;&#1078;&#1072;&#1102;&#1097;&#1080;&#1081;
-  &#1085;&#1072;&#1087;&#1080;&#1090;&#1086;&#1082; &#1085;&#1072;
-  &#1083;&#1102;&#1073;&#1086;&#1081;
-  &#1089;&#1083;&#1091;&#1095;&#1072;&#1081;.</span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  lang=RU style='color:#00B0F0'>&#1048;&#1085;&#1075;&#1088;&#1077;&#1076;&#1080;&#1077;&#1085;&#1090;&#1099;
-  </span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  lang=RU style='color:white'>&#1073;&#1077;&#1083;&#1099;&#1081;
-  &#1088;&#1086;&#1084;, &#1089;&#1086;&#1082;
-  &#1083;&#1072;&#1081;&#1084;&#1072;,
-  &#1087;&#1088;&#1086;&#1089;&#1090;&#1086;&#1081;
-  &#1089;&#1080;&#1088;&#1086;&#1087;,
-  &#1076;&#1086;&#1083;&#1100;&#1082;&#1072; &#1083;&#1072;&#1081;&#1084;&#1072;</span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  lang=RU style='color:white'>&nbsp;</span></p>
-  </td>
-  <td width=236 valign=top style='width:177.2pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  style='color:white'><img width=216 height=302 id="Picture 56"
-  src="Leaf%20Tasting-Cocktail%20%20Menu%20Webpage%20html%20file_files/image009.jpg"></span></p>
-  </td>
- </tr>
-</table>
+<p class=MsoNormal><b><span lang=RU style='font-size:12.0pt;line-height:107%;
+color:white;mso-themecolor:background1;mso-ansi-language:RU'><o:p>&nbsp;</o:p></span></b></p>
 
-<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-style='color:white'>&nbsp;</span></p>
+<p class=MsoNormal><b><span style='font-size:12.0pt;line-height:107%;
+color:white;mso-themecolor:background1'>Sweet</span></b><b><span
+style='font-size:12.0pt;line-height:107%;color:white;mso-themecolor:background1;
+mso-ansi-language:RU'> </span></b><span class=SpellE><b><span style='font-size:
+12.0pt;line-height:107%;color:white;mso-themecolor:background1'>Potatos</span></b></span><b><span
+style='font-size:12.0pt;line-height:107%;color:white;mso-themecolor:background1;
+mso-ansi-language:RU'> </span></b><b><span style='font-size:12.0pt;line-height:
+107%;color:white;mso-themecolor:background1'>with</span></b><b><span
+style='font-size:12.0pt;line-height:107%;color:white;mso-themecolor:background1;
+mso-ansi-language:RU'> </span></b><b><span style='font-size:12.0pt;line-height:
+107%;color:white;mso-themecolor:background1'>Andouille</span></b><b><span
+style='font-size:12.0pt;line-height:107%;color:white;mso-themecolor:background1;
+mso-ansi-language:RU'> </span></b><b><span style='font-size:12.0pt;line-height:
+107%;color:white;mso-themecolor:background1'>Sauce</span></b><b><span lang=RU
+style='font-size:12.0pt;line-height:107%;color:white;mso-themecolor:background1;
+mso-ansi-language:RU'> / &#1057;&#1083;&#1072;&#1076;&#1082;&#1080;&#1081; &#1082;&#1072;&#1088;&#1090;&#1086;&#1092;&#1077;&#1083;&#1100;
+&#1089; &#1089;&#1086;&#1091;&#1089;&#1086;&#1084; &#1040;&#1085;&#1076;&#1091;&#1081;</span></b><span
+lang=RU style='color:white;mso-themecolor:background1;mso-ansi-language:RU'><o:p></o:p></span></p>
 
-<table class=MsoTableGrid border=1 cellspacing=0 cellpadding=0
- style='border-collapse:collapse;border:none'>
- <tr>
-  <td width=387 valign=top style='width:290.35pt;border:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  style='font-size:14.0pt;color:red;background:black'>Margarita</span></p>
-  </td>
-  <td width=236 valign=top style='width:177.2pt;border:solid windowtext 1.0pt;
-  border-left:none;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  style='font-size:14.0pt;color:red;background:black'>&#1052;&#1072;&#1088;&#1075;&#1072;&#1088;&#1080;&#1090;</span></p>
-  </td>
- </tr>
- <tr>
-  <td width=387 valign=top style='width:290.35pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  style='color:white'>The Margarita, in its tart, tangy simplicity, is probably
-  the most well-known tequila cocktail in the world</span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  style='color:#00B0F0'>Ingredients</span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  style='color:white'>Tequila</span><span lang=RU style='color:white'>, </span><span
-  style='color:white'>Lime</span><span style='color:white'> </span><span
-  style='color:white'>juice</span><span lang=RU style='color:white'>, </span><span
-  style='color:white'>Sec</span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  lang=RU style='color:white'>&nbsp;</span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  lang=RU style='color:white'>«&#1052;&#1072;&#1088;&#1075;&#1072;&#1088;&#1080;&#1090;&#1072;»
-  &#1074; &#1089;&#1074;&#1086;&#1077;&#1081;
-  &#1090;&#1077;&#1088;&#1087;&#1082;&#1086;&#1081; &#1080;
-  &#1087;&#1080;&#1082;&#1072;&#1085;&#1090;&#1085;&#1086;&#1081;
-  &#1087;&#1088;&#1086;&#1089;&#1090;&#1086;&#1090;&#1077;,
-  &#1074;&#1077;&#1088;&#1086;&#1103;&#1090;&#1085;&#1086;,
-  &#1103;&#1074;&#1083;&#1103;&#1077;&#1090;&#1089;&#1103;
-  &#1089;&#1072;&#1084;&#1099;&#1084;
-  &#1080;&#1079;&#1074;&#1077;&#1089;&#1090;&#1085;&#1099;&#1084; &#1082;&#1086;&#1082;&#1090;&#1077;&#1081;&#1083;&#1077;&#1084;
-  &#1080;&#1079; &#1090;&#1077;&#1082;&#1080;&#1083;&#1099; &#1074; &#1084;&#1080;&#1088;&#1077;.</span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  lang=RU style='color:#00B0F0'>&#1048;&#1085;&#1075;&#1088;&#1077;&#1076;&#1080;&#1077;&#1085;&#1090;&#1099;</span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  lang=RU style='color:white'>&#1058;&#1077;&#1082;&#1080;&#1083;&#1072;,
-  &#1057;&#1086;&#1082; &#1083;&#1072;&#1081;&#1084;&#1072;,
-  &#1089;&#1077;&#1082;</span></p>
-  </td>
-  <td width=236 valign=top style='width:177.2pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  style='color:white'><img width=219 height=307 id="Picture 54"
-  src="Leaf%20Tasting-Cocktail%20%20Menu%20Webpage%20html%20file_files/image010.jpg"
-  alt="A glass with a drink&#10;&#10;Description automatically generated"></span></p>
-  </td>
- </tr>
-</table>
+<p class=MsoNormal><span lang=RU style='color:white;mso-themecolor:background1;
+mso-ansi-language:RU;mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="Picture_x0020_9"
+ o:spid="_x0000_i1026" type="#_x0000_t75" alt="A plate of french fries with dipping sauce&#10;&#10;Description automatically generated"
+ style='width:143pt;height:137pt;visibility:visible;mso-wrap-style:square'>
+ <v:imagedata src="Leaf%20Tasting-Webpage2%20htmlsingle-B_files/image010.jpg"
+  o:title="A plate of french fries with dipping sauce&#10;&#10;Description automatically generated"/>
+</v:shape><![endif]--><![if !vml]><img width=191 height=183
+src="Leaf%20Tasting-Webpage2%20htmlsingle-B_files/image011.jpg"
+alt="A plate of french fries with dipping sauce&#10;&#10;Description automatically generated"
+v:shapes="Picture_x0020_9"><![endif]></span><span style='color:white;
+mso-themecolor:background1'><o:p></o:p></span></p>
 
-<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-style='color:white'>&nbsp;</span></p>
+<p class=MsoNormal><span style='color:white;mso-themecolor:background1'>This
+appetizer is a variation of traditional fries and ketchup\mayo.<span
+style='mso-spacerun:yes'>�� </span>The fries are made from sweet potatoes and
+served with zesty mayo and <span class=GramE>tomato based</span> sauce with
+onion, pepper, and lemon flavor.<span style='mso-spacerun:yes'>� </span><o:p></o:p></span></p>
 
-<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-style='color:white'>&nbsp;</span></p>
+<p class=MsoNormal><span lang=RU style='color:white;mso-themecolor:background1;
+mso-ansi-language:RU'>&#1069;&#1090;&#1072;
+&#1079;&#1072;&#1082;&#1091;&#1089;&#1082;&#1072;
+&#1087;&#1088;&#1077;&#1076;&#1089;&#1090;&#1072;&#1074;&#1083;&#1103;&#1077;&#1090;
+&#1089;&#1086;&#1073;&#1086;&#1081;
+&#1074;&#1072;&#1088;&#1080;&#1072;&#1094;&#1080;&#1102; &#1090;&#1088;&#1072;&#1076;&#1080;&#1094;&#1080;&#1086;&#1085;&#1085;&#1086;&#1075;&#1086;
+&#1082;&#1072;&#1088;&#1090;&#1086;&#1092;&#1077;&#1083;&#1103;
+&#1092;&#1088;&#1080; &#1080;
+&#1082;&#1077;&#1090;&#1095;&#1091;&#1087;&#1072;\&#1084;&#1072;&#1081;&#1086;&#1085;&#1077;&#1079;&#1072;.
+&#1050;&#1072;&#1088;&#1090;&#1086;&#1096;&#1082;&#1072; &#1092;&#1088;&#1080;
+&#1075;&#1086;&#1090;&#1086;&#1074;&#1080;&#1090;&#1089;&#1103; &#1080;&#1079;
+&#1089;&#1083;&#1072;&#1076;&#1082;&#1086;&#1075;&#1086;
+&#1082;&#1072;&#1088;&#1090;&#1086;&#1092;&#1077;&#1083;&#1103; &#1080;
+&#1087;&#1086;&#1076;&#1072;&#1077;&#1090;&#1089;&#1103; &#1089;
+&#1087;&#1080;&#1082;&#1072;&#1085;&#1090;&#1085;&#1099;&#1084;
+&#1089;&#1086;&#1091;&#1089;&#1086;&#1084; &#1085;&#1072;
+&#1086;&#1089;&#1085;&#1086;&#1074;&#1077;
+&#1084;&#1072;&#1081;&#1086;&#1085;&#1077;&#1079;&#1072; &#1080;
+&#1090;&#1086;&#1084;&#1072;&#1090;&#1086;&#1074; &#1089;&#1086;
+&#1074;&#1082;&#1091;&#1089;&#1086;&#1084; &#1083;&#1091;&#1082;&#1072;,
+&#1087;&#1077;&#1088;&#1094;&#1072; &#1080;
+&#1083;&#1080;&#1084;&#1086;&#1085;&#1072;.<o:p></o:p></span></p>
 
-<table class=MsoTableGrid border=1 cellspacing=0 cellpadding=0
- style='border-collapse:collapse;border:none'>
- <tr>
-  <td width=387 valign=top style='width:290.35pt;border:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  style='font-size:14.0pt;color:red;background:black'>Espresso Martini</span></p>
-  </td>
-  <td width=236 valign=top style='width:177.2pt;border:solid windowtext 1.0pt;
-  border-left:none;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  style='font-size:14.0pt;color:red;background:black'>&#1069;&#1082;&#1089;&#1087;&#1088;&#1077;&#1089;&#1089;&#1086;
-  &#1052;&#1072;&#1088;&#1090;&#1080;&#1085;&#1080;</span></p>
-  </td>
- </tr>
- <tr>
-  <td width=387 valign=top style='width:290.35pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  style='color:white'>Like a refined Red Bull and vodka for coffee lovers, the
-  Espresso Martini promises a pick-me-up and calm-me-down effect. The
-  after-dinner drink is ideal for keeping a buzz going, and is also known as a
-  Vodka Espresso or a Pharmaceutical Stimulant, a name coined by the late Dick
-  Bradsell.</span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  style='color:#00B0F0'>Ingredients</span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  style='color:white'>vodka, coffee liqueur,  fresh espresso simple syrup</span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  style='color:white'>&nbsp;</span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  lang=RU style='color:white'>&#1055;&#1086;&#1076;&#1086;&#1073;&#1085;&#1086;
-  &#1080;&#1079;&#1099;&#1089;&#1082;&#1072;&#1085;&#1085;&#1086;&#1084;&#1091;
-  </span><span style='color:white'>Red</span><span style='color:white'> </span><span
-  style='color:white'>Bull</span><span lang=RU style='color:white'> &#1080;
-  &#1074;&#1086;&#1076;&#1082;&#1077; &#1076;&#1083;&#1103;
-  &#1083;&#1102;&#1073;&#1080;&#1090;&#1077;&#1083;&#1077;&#1081;
-  &#1082;&#1086;&#1092;&#1077;, </span><span style='color:white'>Espresso</span><span
-  style='color:white'> </span><span style='color:white'>Martini</span><span
-  lang=RU style='color:white'>
-  &#1086;&#1073;&#1077;&#1097;&#1072;&#1077;&#1090;
-  &#1073;&#1086;&#1076;&#1088;&#1103;&#1097;&#1080;&#1081; &#1080;
-  &#1091;&#1089;&#1087;&#1086;&#1082;&#1072;&#1080;&#1074;&#1072;&#1102;&#1097;&#1080;&#1081;
-  &#1101;&#1092;&#1092;&#1077;&#1082;&#1090;. &#1055;&#1086;&#1089;&#1083;&#1077;&#1086;&#1073;&#1077;&#1076;&#1077;&#1085;&#1085;&#1099;&#1081;
-  &#1085;&#1072;&#1087;&#1080;&#1090;&#1086;&#1082;
-  &#1080;&#1076;&#1077;&#1072;&#1083;&#1100;&#1085;&#1086;
-  &#1087;&#1086;&#1076;&#1093;&#1086;&#1076;&#1080;&#1090;
-  &#1076;&#1083;&#1103;
-  &#1087;&#1086;&#1076;&#1076;&#1077;&#1088;&#1078;&#1072;&#1085;&#1080;&#1103;
-  &#1085;&#1072;&#1089;&#1090;&#1088;&#1086;&#1077;&#1085;&#1080;&#1103;.
-  &#1054;&#1085; &#1090;&#1072;&#1082;&#1078;&#1077; &#1080;&#1079;&#1074;&#1077;&#1089;&#1090;&#1077;&#1085;
-  &#1082;&#1072;&#1082;
-  &#1101;&#1089;&#1087;&#1088;&#1077;&#1089;&#1089;&#1086; &#1089;
-  &#1074;&#1086;&#1076;&#1082;&#1086;&#1081; &#1080;&#1083;&#1080;
-  &#1092;&#1072;&#1088;&#1084;&#1072;&#1094;&#1077;&#1074;&#1090;&#1080;&#1095;&#1077;&#1089;&#1082;&#1080;&#1081;
-  &#1089;&#1090;&#1080;&#1084;&#1091;&#1083;&#1103;&#1090;&#1086;&#1088; —
-  &#1085;&#1072;&#1079;&#1074;&#1072;&#1085;&#1080;&#1077;,
-  &#1087;&#1088;&#1080;&#1076;&#1091;&#1084;&#1072;&#1085;&#1085;&#1086;&#1077;
-  &#1087;&#1086;&#1082;&#1086;&#1081;&#1085;&#1099;&#1084;
-  &#1044;&#1080;&#1082;&#1086;&#1084;
-  &#1041;&#1088;&#1101;&#1076;&#1089;&#1077;&#1083;&#1083;&#1086;&#1084;.</span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  lang=RU style='color:#00B0F0'>&#1048;&#1085;&#1075;&#1088;&#1077;&#1076;&#1080;&#1077;&#1085;&#1090;&#1099;</span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  lang=RU style='color:white'>&#1074;&#1086;&#1076;&#1082;&#1072;,
-  &#1082;&#1086;&#1092;&#1077;&#1081;&#1085;&#1099;&#1081;
-  &#1083;&#1080;&#1082;&#1077;&#1088;, &#1089;&#1080;&#1088;&#1086;&#1087;
-  «&#1060;&#1088;&#1077;&#1096;
-  &#1101;&#1089;&#1087;&#1088;&#1077;&#1089;&#1089;&#1086;»</span></p>
-  </td>
-  <td width=236 valign=top style='width:177.2pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  style='color:white'><img width=217 height=304 id="Picture 55"
-  src="Leaf%20Tasting-Cocktail%20%20Menu%20Webpage%20html%20file_files/image011.jpg"></span></p>
-  </td>
- </tr>
-</table>
+<p class=MsoNormal><span lang=RU style='color:white;mso-themecolor:background1;
+mso-ansi-language:RU'><o:p>&nbsp;</o:p></span></p>
 
-<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-style='color:white'>&nbsp;</span></p>
+<p class=MsoNormal><b><span style='font-size:12.0pt;line-height:107%;
+color:white;mso-themecolor:background1'>Bruschetta / <span class=SpellE>&#1041;&#1088;&#1091;&#1089;&#1082;&#1077;&#1090;&#1090;&#1072;</span><o:p></o:p></span></b></p>
 
-<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-style='color:white'>&nbsp;</span></p>
+<p class=MsoNormal><span lang=RU style='color:white;mso-themecolor:background1;
+mso-ansi-language:RU;mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="Picture_x0020_10"
+ o:spid="_x0000_i1025" type="#_x0000_t75" alt="A group of bruschetta with tomatoes and basil&#10;&#10;Description automatically generated"
+ style='width:138pt;height:135.5pt;visibility:visible;mso-wrap-style:square'>
+ <v:imagedata src="Leaf%20Tasting-Webpage2%20htmlsingle-B_files/image012.jpg"
+  o:title="A group of bruschetta with tomatoes and basil&#10;&#10;Description automatically generated"/>
+</v:shape><![endif]--><![if !vml]><img width=184 height=181
+src="Leaf%20Tasting-Webpage2%20htmlsingle-B_files/image012.jpg"
+alt="A group of bruschetta with tomatoes and basil&#10;&#10;Description automatically generated"
+v:shapes="Picture_x0020_10"><![endif]></span><span style='color:white;
+mso-themecolor:background1'><o:p></o:p></span></p>
 
-<table class=MsoTableGrid border=1 cellspacing=0 cellpadding=0
- style='border-collapse:collapse;border:none'>
- <tr>
-  <td width=387 valign=top style='width:290.35pt;border:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  style='font-size:14.0pt;color:red;background:black'>Whiskey Sour</span></p>
-  </td>
-  <td width=236 valign=top style='width:177.3pt;border:solid windowtext 1.0pt;
-  border-left:none;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  style='font-size:14.0pt;color:red;background:black'>&#1042;&#1080;&#1089;&#1082;&#1080;
-  &#1057;&#1072;&#1091;&#1101;&#1088;</span></p>
-  </td>
- </tr>
- <tr>
-  <td width=387 valign=top style='width:290.35pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  style='color:white'>This dependable drink is an easy fit for whiskey lovers,
-  as well as those wary of the brown spirit: Its lemony lift and slight
-  sweetness make it appealing for citrus lovers, too. The simple recipe calls
-  for whiskey, lemon juice, and sugar.</span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  style='color:#00B0F0'>Ingredients</span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  style='color:white'>whiskey , lemon juice,simple syrup1 egg white</span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  style='color:white'>&nbsp;</span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  lang=RU style='color:white'>&#1069;&#1090;&#1086;&#1090;
-  &#1085;&#1072;&#1076;&#1077;&#1078;&#1085;&#1099;&#1081;
-  &#1085;&#1072;&#1087;&#1080;&#1090;&#1086;&#1082;
-  &#1086;&#1090;&#1083;&#1080;&#1095;&#1085;&#1086;
-  &#1087;&#1086;&#1076;&#1086;&#1081;&#1076;&#1077;&#1090; &#1083;&#1102;&#1073;&#1080;&#1090;&#1077;&#1083;&#1103;&#1084;
-  &#1074;&#1080;&#1089;&#1082;&#1080;, &#1072;
-  &#1090;&#1072;&#1082;&#1078;&#1077; &#1090;&#1077;&#1084;,
-  &#1082;&#1090;&#1086;
-  &#1086;&#1087;&#1072;&#1089;&#1072;&#1077;&#1090;&#1089;&#1103; &#1082;&#1086;&#1088;&#1080;&#1095;&#1085;&#1077;&#1074;&#1086;&#1075;&#1086;
-  &#1089;&#1087;&#1080;&#1088;&#1090;&#1072;: &#1077;&#1075;&#1086;
-  &#1083;&#1080;&#1084;&#1086;&#1085;&#1085;&#1099;&#1081;
-  &#1086;&#1090;&#1090;&#1077;&#1085;&#1086;&#1082; &#1080; &#1083;&#1077;&#1075;&#1082;&#1072;&#1103;
-  &#1089;&#1083;&#1072;&#1076;&#1086;&#1089;&#1090;&#1100;
-  &#1076;&#1077;&#1083;&#1072;&#1102;&#1090; &#1077;&#1075;&#1086;
-  &#1087;&#1088;&#1080;&#1074;&#1083;&#1077;&#1082;&#1072;&#1090;&#1077;&#1083;&#1100;&#1085;&#1099;&#1084;
-  &#1080; &#1076;&#1083;&#1103;
-  &#1083;&#1102;&#1073;&#1080;&#1090;&#1077;&#1083;&#1077;&#1081;
-  &#1094;&#1080;&#1090;&#1088;&#1091;&#1089;&#1086;&#1074;&#1099;&#1093;.
-  &#1055;&#1088;&#1086;&#1089;&#1090;&#1086;&#1081; &#1088;&#1077;&#1094;&#1077;&#1087;&#1090;
-  &#1090;&#1088;&#1077;&#1073;&#1091;&#1077;&#1090;
-  &#1074;&#1080;&#1089;&#1082;&#1080;,
-  &#1083;&#1080;&#1084;&#1086;&#1085;&#1085;&#1086;&#1075;&#1086;
-  &#1089;&#1086;&#1082;&#1072; &#1080; &#1089;&#1072;&#1093;&#1072;&#1088;&#1072;.</span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  lang=RU style='color:#00B0F0'>&#1048;&#1085;&#1075;&#1088;&#1077;&#1076;&#1080;&#1077;&#1085;&#1090;&#1099;
-  </span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  lang=RU style='color:white'>&#1074;&#1080;&#1089;&#1082;&#1080;,
-  &#1083;&#1080;&#1084;&#1086;&#1085;&#1085;&#1099;&#1081;
-  &#1089;&#1086;&#1082;, &#1087;&#1088;&#1086;&#1089;&#1090;&#1086;&#1081;
-  &#1089;&#1080;&#1088;&#1086;&#1087;, 1
-  &#1103;&#1080;&#1095;&#1085;&#1099;&#1081; &#1073;&#1077;&#1083;&#1086;&#1082;</span></p>
-  </td>
-  <td width=236 valign=top style='width:177.3pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  style='color:white'><img width=221 height=310 id="Picture 58"
-  src="Leaf%20Tasting-Cocktail%20%20Menu%20Webpage%20html%20file_files/image012.jpg"></span></p>
-  </td>
- </tr>
-</table>
+<p class=MsoNormal><span style='color:white;mso-themecolor:background1'>This is
+classic Bruschetta, a tomato basil spread on a toasted baguette.<o:p></o:p></span></p>
 
-<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-style='color:white'>&nbsp;</span></p>
+<p class=MsoNormal><span lang=RU style='color:white;mso-themecolor:background1;
+mso-ansi-language:RU'>&#1069;&#1090;&#1086;
+&#1082;&#1083;&#1072;&#1089;&#1089;&#1080;&#1095;&#1077;&#1089;&#1082;&#1072;&#1103;
+&#1073;&#1088;&#1091;&#1089;&#1082;&#1077;&#1090;&#1090;&#1072; �
+&#1090;&#1086;&#1084;&#1072;&#1090;&#1085;&#1086;-&#1073;&#1072;&#1079;&#1080;&#1083;&#1080;&#1082;,
+&#1085;&#1072;&#1084;&#1072;&#1079;&#1072;&#1085;&#1085;&#1099;&#1081;
+&#1085;&#1072;
+&#1087;&#1086;&#1076;&#1078;&#1072;&#1088;&#1077;&#1085;&#1085;&#1099;&#1081;
+&#1073;&#1072;&#1075;&#1077;&#1090;.<o:p></o:p></span></p>
 
-<table class=MsoTableGrid border=1 cellspacing=0 cellpadding=0
- style='border-collapse:collapse;border:none'>
- <tr>
-  <td width=387 valign=top style='width:290.35pt;border:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  style='font-size:14.0pt;color:red;background:black'>Grasshopper</span></p>
-  </td>
-  <td width=236 valign=top style='width:177.2pt;border:solid windowtext 1.0pt;
-  border-left:none;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  style='font-size:14.0pt;color:red;background:black'>&#1050;&#1091;&#1079;&#1085;&#1077;&#1095;&#1080;&#1082;</span></p>
-  </td>
- </tr>
- <tr>
-  <td width=387 valign=top style='width:290.35pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  style='color:white'>The Grasshopper, a sweet, minty after-dinner drink is one
-  of the rare, respected non-Absinthe-based green cocktails. </span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  style='color:#00B0F0'>Ingredients: </span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  style='color:white'>Green crème de menthe, White crème de cacao, Heavy cream</span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  style='color:white'>&nbsp;</span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  lang=RU style='color:white'>&#1050;&#1091;&#1079;&#1085;&#1077;&#1095;&#1080;&#1082;,
-  &#1089;&#1083;&#1072;&#1076;&#1082;&#1080;&#1081;
-  &#1084;&#1103;&#1090;&#1085;&#1099;&#1081;
-  &#1087;&#1086;&#1089;&#1083;&#1077;&#1086;&#1073;&#1077;&#1076;&#1077;&#1085;&#1085;&#1099;&#1081;
-  &#1085;&#1072;&#1087;&#1080;&#1090;&#1086;&#1082;,
-  &#1103;&#1074;&#1083;&#1103;&#1077;&#1090;&#1089;&#1103;
-  &#1086;&#1076;&#1085;&#1080;&#1084; &#1080;&#1079;
-  &#1088;&#1077;&#1076;&#1082;&#1080;&#1093; &#1080;
-  &#1091;&#1074;&#1072;&#1078;&#1072;&#1077;&#1084;&#1099;&#1093;
-  &#1079;&#1077;&#1083;&#1077;&#1085;&#1099;&#1093;
-  &#1082;&#1086;&#1082;&#1090;&#1077;&#1081;&#1083;&#1077;&#1081;,
-  &#1085;&#1077;
-  &#1089;&#1086;&#1076;&#1077;&#1088;&#1078;&#1072;&#1097;&#1080;&#1093;
-  &#1072;&#1073;&#1089;&#1077;&#1085;&#1090;.</span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  lang=RU style='color:#00B0F0'>&#1048;&#1085;&#1075;&#1088;&#1077;&#1076;&#1080;&#1077;&#1085;&#1090;&#1099;:</span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  lang=RU style='color:white'>&#1047;&#1077;&#1083;&#1077;&#1085;&#1099;&#1081;
-  &#1082;&#1088;&#1077;&#1084; &#1080;&#1079; &#1084;&#1103;&#1090;&#1099;,
-  &#1041;&#1077;&#1083;&#1099;&#1081; &#1082;&#1088;&#1077;&#1084;
-  &#1080;&#1079; &#1082;&#1072;&#1082;&#1072;&#1086;, &#1043;&#1091;&#1089;&#1090;&#1086;&#1081;
-  &#1082;&#1088;&#1077;&#1084;.</span></p>
-  </td>
-  <td width=236 valign=top style='width:177.2pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  style='color:white'><img width=208 height=290
-  src="Leaf%20Tasting-Cocktail%20%20Menu%20Webpage%20html%20file_files/image013.jpg"
-  alt="A green drink in a martini glass&#10;&#10;Description automatically generated"></span></p>
-  </td>
- </tr>
-</table>
-
-<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-style='color:white'>&nbsp;</span></p>
-
-<table class=MsoTableGrid border=1 cellspacing=0 cellpadding=0
- style='border-collapse:collapse;border:none'>
- <tr>
-  <td width=390 valign=top style='width:292.25pt;border:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  style='font-size:14.0pt;color:red;background:black'>Bramble</span></p>
-  </td>
-  <td width=234 valign=top style='width:175.3pt;border:solid windowtext 1.0pt;
-  border-left:none;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  style='font-size:14.0pt;color:red;background:black'>&#1041;&#1088;&#1072;&#1084;&#1073;&#1083;</span></p>
-  </td>
- </tr>
- <tr>
-  <td width=390 valign=top style='width:292.25pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  style='color:white'>     Made to be drunk over the course of a long
-  afternoon, the Bramble is an adaptable cocktail that changes as the day
-  crawls by — its ice slowly melting and its flavors shifting in sweetness and
-  potency.</span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  style='color:white'>      The Bramble was invented by iconic British
-  bartender Dick Bradsell at London’s Fred’s Club in 1984. Bradsell intended
-  for the drink to be a quintessentially British cocktail, evoking the fresh
-  blackberries he used to enjoy on the Isle of Wight off England’s southern
-  coast. Though Bradsell was known for being extremely thorough about his
-  mixology, he said the original Bramble was made with crushed ice “because
-  that is what the machine made.”</span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  style='color:white'>       One of the best things about the Bramble is that
-  it is easily riff-able — so much so that it has inspired an entire sub-genre
-  of craft cocktails. Its foolproof equation of gin, crushed ice, citrus juice,
-  and a sweet floater drizzled on top has inspired countless variations — with
-  some of our favorites upping the proof, adding in tart tropical fruits, or
-  focusing on citrus.</span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  style='color:white'> </span><span style='color:#00B0F0'>Ingredients:</span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  style='color:white'>Gin, lemon juice, simple syrup,crème de mûre</span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  style='color:white'>&nbsp;</span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  lang=RU style='color:white'>&#1057;&#1086;&#1079;&#1076;&#1072;&#1085;&#1085;&#1099;&#1081;
-  &#1076;&#1083;&#1103; &#1090;&#1086;&#1075;&#1086;,
-  &#1095;&#1090;&#1086;&#1073;&#1099; &#1087;&#1080;&#1090;&#1100;
-  &#1077;&#1075;&#1086; &#1074; &#1090;&#1077;&#1095;&#1077;&#1085;&#1080;&#1077;
-  &#1076;&#1086;&#1083;&#1075;&#1086;&#1075;&#1086; &#1076;&#1085;&#1103;, </span><span
-  style='color:white'>Bramble</span><span lang=RU style='color:white'>
-  &#1087;&#1088;&#1077;&#1076;&#1089;&#1090;&#1072;&#1074;&#1083;&#1103;&#1077;&#1090;
-  &#1089;&#1086;&#1073;&#1086;&#1081;
-  &#1072;&#1076;&#1072;&#1087;&#1090;&#1080;&#1088;&#1091;&#1077;&#1084;&#1099;&#1081;
-  &#1082;&#1086;&#1082;&#1090;&#1077;&#1081;&#1083;&#1100;,
-  &#1082;&#1086;&#1090;&#1086;&#1088;&#1099;&#1081;
-  &#1084;&#1077;&#1085;&#1103;&#1077;&#1090;&#1089;&#1103; &#1089;
-  &#1090;&#1077;&#1095;&#1077;&#1085;&#1080;&#1077;&#1084;
-  &#1076;&#1085;&#1103;: &#1077;&#1075;&#1086; &#1083;&#1077;&#1076;
-  &#1084;&#1077;&#1076;&#1083;&#1077;&#1085;&#1085;&#1086;
-  &#1090;&#1072;&#1077;&#1090;, &#1072; &#1074;&#1082;&#1091;&#1089;
-  &#1084;&#1077;&#1085;&#1103;&#1077;&#1090;&#1089;&#1103; &#1074;
-  &#1089;&#1083;&#1072;&#1076;&#1086;&#1089;&#1090;&#1080; &#1080;
-  &#1089;&#1080;&#1083;&#1077;.</span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  lang=RU style='color:white'>       </span><span style='color:white'>Bramble</span><span
-  lang=RU style='color:white'> &#1073;&#1099;&#1083;
-  &#1080;&#1079;&#1086;&#1073;&#1088;&#1077;&#1090;&#1077;&#1085;
-  &#1082;&#1091;&#1083;&#1100;&#1090;&#1086;&#1074;&#1099;&#1084;
-  &#1073;&#1088;&#1080;&#1090;&#1072;&#1085;&#1089;&#1082;&#1080;&#1084;
-  &#1073;&#1072;&#1088;&#1084;&#1077;&#1085;&#1086;&#1084;
-  &#1044;&#1080;&#1082;&#1086;&#1084;
-  &#1041;&#1088;&#1101;&#1076;&#1089;&#1077;&#1083;&#1083;&#1086;&#1084;
-  &#1074;
-  &#1083;&#1086;&#1085;&#1076;&#1086;&#1085;&#1089;&#1082;&#1086;&#1084;
-  &#1082;&#1083;&#1091;&#1073;&#1077; </span><span style='color:white'>Fred</span><span
-  lang=RU style='color:white'>’</span><span style='color:white'>s</span><span
-  style='color:white'> </span><span style='color:white'>Club</span><span
-  lang=RU style='color:white'> &#1074; 1984 &#1075;&#1086;&#1076;&#1091;.
-  &#1041;&#1088;&#1101;&#1076;&#1089;&#1077;&#1083;&#1083;
-  &#1085;&#1072;&#1084;&#1077;&#1088;&#1077;&#1074;&#1072;&#1083;&#1089;&#1103;
-  &#1089;&#1076;&#1077;&#1083;&#1072;&#1090;&#1100; &#1101;&#1090;&#1086;&#1090;
-  &#1085;&#1072;&#1087;&#1080;&#1090;&#1086;&#1082;
-  &#1090;&#1080;&#1087;&#1080;&#1095;&#1085;&#1086;
-  &#1073;&#1088;&#1080;&#1090;&#1072;&#1085;&#1089;&#1082;&#1080;&#1084;
-  &#1082;&#1086;&#1082;&#1090;&#1077;&#1081;&#1083;&#1077;&#1084;, &#1085;&#1072;&#1087;&#1086;&#1084;&#1080;&#1085;&#1072;&#1102;&#1097;&#1080;&#1084;
-  &#1089;&#1074;&#1077;&#1078;&#1091;&#1102;
-  &#1077;&#1078;&#1077;&#1074;&#1080;&#1082;&#1091;,
-  &#1082;&#1086;&#1090;&#1086;&#1088;&#1086;&#1081; &#1086;&#1085;
-  &#1085;&#1072;&#1089;&#1083;&#1072;&#1078;&#1076;&#1072;&#1083;&#1089;&#1103;
-  &#1085;&#1072; &#1086;&#1089;&#1090;&#1088;&#1086;&#1074;&#1077;
-  &#1059;&#1072;&#1081;&#1090; &#1091;
-  &#1102;&#1078;&#1085;&#1086;&#1075;&#1086;
-  &#1087;&#1086;&#1073;&#1077;&#1088;&#1077;&#1078;&#1100;&#1103;
-  &#1040;&#1085;&#1075;&#1083;&#1080;&#1080;. &#1061;&#1086;&#1090;&#1103;
-  &#1041;&#1088;&#1101;&#1076;&#1089;&#1077;&#1083;&#1083;
-  &#1073;&#1099;&#1083;
-  &#1080;&#1079;&#1074;&#1077;&#1089;&#1090;&#1077;&#1085;
-  &#1089;&#1074;&#1086;&#1077;&#1081;
-  &#1080;&#1089;&#1082;&#1083;&#1102;&#1095;&#1080;&#1090;&#1077;&#1083;&#1100;&#1085;&#1086;&#1081;
-  &#1090;&#1097;&#1072;&#1090;&#1077;&#1083;&#1100;&#1085;&#1086;&#1089;&#1090;&#1100;&#1102;
-  &#1074; &#1086;&#1090;&#1085;&#1086;&#1096;&#1077;&#1085;&#1080;&#1080;
-  &#1089;&#1074;&#1086;&#1077;&#1081;
-  &#1084;&#1080;&#1082;&#1089;&#1086;&#1083;&#1086;&#1075;&#1080;&#1080;,
-  &#1086;&#1085; &#1089;&#1082;&#1072;&#1079;&#1072;&#1083;,
-  &#1095;&#1090;&#1086; &#1086;&#1088;&#1080;&#1075;&#1080;&#1085;&#1072;&#1083;&#1100;&#1085;&#1099;&#1081;
-  </span><span style='color:white'>Bramble</span><span lang=RU
-  style='color:white'> &#1073;&#1099;&#1083;
-  &#1089;&#1076;&#1077;&#1083;&#1072;&#1085; &#1080;&#1079;
-  &#1082;&#1086;&#1083;&#1086;&#1090;&#1086;&#1075;&#1086;
-  &#1083;&#1100;&#1076;&#1072;, «&#1087;&#1086;&#1090;&#1086;&#1084;&#1091;
-  &#1095;&#1090;&#1086; &#1101;&#1090;&#1086; &#1090;&#1086;,
-  &#1095;&#1090;&#1086; &#1076;&#1077;&#1083;&#1072;&#1083;&#1072;
-  &#1084;&#1072;&#1096;&#1080;&#1085;&#1072;».</span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  lang=RU style='color:white'>        &#1054;&#1076;&#1085;&#1072;
-  &#1080;&#1079; &#1083;&#1091;&#1095;&#1096;&#1080;&#1093;
-  &#1086;&#1089;&#1086;&#1073;&#1077;&#1085;&#1085;&#1086;&#1089;&#1090;&#1077;&#1081;
-  </span><span style='color:white'>Bramble</span><span lang=RU
-  style='color:white'> — &#1101;&#1090;&#1086; &#1090;&#1086;,
-  &#1095;&#1090;&#1086; &#1089; &#1085;&#1080;&#1084;
-  &#1083;&#1077;&#1075;&#1082;&#1086;
-  &#1080;&#1075;&#1088;&#1072;&#1090;&#1100;
-  &#1088;&#1080;&#1092;&#1092;&#1099; —
-  &#1085;&#1072;&#1089;&#1090;&#1086;&#1083;&#1100;&#1082;&#1086;,
-  &#1095;&#1090;&#1086; &#1086;&#1085;
-  &#1074;&#1076;&#1086;&#1093;&#1085;&#1086;&#1074;&#1080;&#1083;
-  &#1094;&#1077;&#1083;&#1099;&#1081;
-  &#1087;&#1086;&#1076;&#1078;&#1072;&#1085;&#1088;
-  &#1082;&#1088;&#1072;&#1092;&#1090;&#1086;&#1074;&#1099;&#1093;
-  &#1082;&#1086;&#1082;&#1090;&#1077;&#1081;&#1083;&#1077;&#1081;.
-  &#1045;&#1075;&#1086;
-  &#1085;&#1072;&#1076;&#1077;&#1078;&#1085;&#1086;&#1077;
-  &#1089;&#1086;&#1095;&#1077;&#1090;&#1072;&#1085;&#1080;&#1077;
-  &#1076;&#1078;&#1080;&#1085;&#1072;,
-  &#1082;&#1086;&#1083;&#1086;&#1090;&#1086;&#1075;&#1086;
-  &#1083;&#1100;&#1076;&#1072;,
-  &#1094;&#1080;&#1090;&#1088;&#1091;&#1089;&#1086;&#1074;&#1086;&#1075;&#1086;
-  &#1089;&#1086;&#1082;&#1072; &#1080; &#1089;&#1083;&#1072;&#1076;&#1082;&#1086;&#1075;&#1086;
-  &#1087;&#1083;&#1072;&#1074;&#1072;&#1102;&#1097;&#1077;&#1075;&#1086;
-  &#1096;&#1072;&#1088;&#1080;&#1082;&#1072;,
-  &#1089;&#1073;&#1088;&#1099;&#1079;&#1085;&#1091;&#1090;&#1086;&#1075;&#1086;
-  &#1089;&#1074;&#1077;&#1088;&#1093;&#1091;,
-  &#1074;&#1076;&#1086;&#1093;&#1085;&#1086;&#1074;&#1080;&#1083;&#1086;
-  &#1085;&#1072; &#1089;&#1086;&#1079;&#1076;&#1072;&#1085;&#1080;&#1077;
-  &#1073;&#1077;&#1089;&#1095;&#1080;&#1089;&#1083;&#1077;&#1085;&#1085;&#1099;&#1093;
-  &#1074;&#1072;&#1088;&#1080;&#1072;&#1094;&#1080;&#1081; —
-  &#1085;&#1077;&#1082;&#1086;&#1090;&#1086;&#1088;&#1099;&#1077;
-  &#1080;&#1079; &#1085;&#1072;&#1096;&#1080;&#1093;
-  &#1092;&#1072;&#1074;&#1086;&#1088;&#1080;&#1090;&#1086;&#1074;
-  &#1091;&#1089;&#1080;&#1083;&#1080;&#1074;&#1072;&#1102;&#1090;
-  &#1082;&#1088;&#1077;&#1087;&#1086;&#1089;&#1090;&#1100;,
-  &#1076;&#1086;&#1073;&#1072;&#1074;&#1083;&#1103;&#1102;&#1090;
-  &#1090;&#1077;&#1088;&#1087;&#1082;&#1080;&#1077;
-  &#1090;&#1088;&#1086;&#1087;&#1080;&#1095;&#1077;&#1089;&#1082;&#1080;&#1077;
-  &#1092;&#1088;&#1091;&#1082;&#1090;&#1099; &#1080;&#1083;&#1080;
-  &#1076;&#1077;&#1083;&#1072;&#1102;&#1090;
-  &#1072;&#1082;&#1094;&#1077;&#1085;&#1090; &#1085;&#1072;
-  &#1094;&#1080;&#1090;&#1088;&#1091;&#1089;&#1086;&#1074;&#1099;&#1093;.</span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  lang=RU style='color:white'>  </span><span lang=RU style='color:#00B0F0'>&#1048;&#1085;&#1075;&#1088;&#1077;&#1076;&#1080;&#1077;&#1085;&#1090;&#1099;:</span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  lang=RU style='color:white'>&#1044;&#1078;&#1080;&#1085;,
-  &#1083;&#1080;&#1084;&#1086;&#1085;&#1085;&#1099;&#1081;
-  &#1089;&#1086;&#1082;, &#1087;&#1088;&#1086;&#1089;&#1090;&#1086;&#1081;
-  &#1089;&#1080;&#1088;&#1086;&#1087;, &#1082;&#1088;&#1077;&#1084;
-  &#1076;&#1077; &#1084;&#1102;&#1088;</span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  lang=RU style='color:white'>&nbsp;</span></p>
-  </td>
-  <td width=234 valign=top style='width:175.3pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  style='color:white'><img width=205 height=337
-  src="Leaf%20Tasting-Cocktail%20%20Menu%20Webpage%20html%20file_files/image014.jpg"></span></p>
-  </td>
- </tr>
-</table>
-
-<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-style='color:white'>&nbsp;</span></p>
-
-<table class=MsoTableGrid border=1 cellspacing=0 cellpadding=0
- style='border-collapse:collapse;border:none'>
- <tr>
-  <td width=396 valign=top style='width:296.75pt;border:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  style='font-size:14.0pt;color:red;background:black'>Pornstar Martini  </span></p>
-  </td>
-  <td width=228 valign=top style='width:170.8pt;border:solid windowtext 1.0pt;
-  border-left:none;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  style='font-size:14.0pt;color:red;background:black'>&#1055;&#1086;&#1088;&#1085;&#1086;&#1079;&#1074;&#1077;&#1079;&#1076;&#1072;
-  &#1052;&#1072;&#1088;&#1090;&#1080;&#1085;&#1080;</span></p>
-  </td>
- </tr>
- <tr>
-  <td width=396 valign=top style='width:296.75pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  style='color:white'>     While the drink’s name might raise a few eyebrows,
-  the Pornstar Martini will win over uptight drinkers with its easygoing
-  profile. Tart bursts of passion fruit, rich vanilla, and a side of bubbly
-  wine combine in this modern classic.</span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  style='color:white'>      The cocktail was created by the late Doug Ankrah, a
-  bartender familiar with the London and New York City drinks scenes. It’s
-  believed that he first conceptualized the recipe on an early-2000s visit to
-  Cape Town, South Africa while working on his book, “Shaken and Stirred.” The
-  Pornstar Martini then landed on the menu at Ankrah’s London bars Lab and
-  Townhouse. There, it further developed into the cocktail that’s so beloved
-  today.</span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  style='color:white'>     The Pornstar Martini should be served in a coupe
-  glass with a sidecar of sparkling wine, usually Prosecco or Champagne. The
-  cocktail is shaken, yielding a fluffy texture, while a fresh passion fruit
-  garnish is floated on top of its foamy head. The build often doesn’t include
-  any citrus (some recipes include a half- ounce of lime juice), though its
-  profile often resembles that of a sour. The Pornstar Martini is typically
-  highly acidic and tart with an unexpected sweetness, playing well with the
-  base spirit, vanilla vodka. Meanwhile, the bubbly sidecar can be sipped as a
-  separate shot or poured into the cocktail. </span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  style='color:#00B0F0'>Ingredients: </span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  style='color:white'>Vodka, passion fruit liqueur, vanilla syrup,Prosecco </span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  style='color:white'>&nbsp;</span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  lang=RU style='color:white'>&#1061;&#1086;&#1090;&#1103;
-  &#1085;&#1072;&#1079;&#1074;&#1072;&#1085;&#1080;&#1077;
-  &#1085;&#1072;&#1087;&#1080;&#1090;&#1082;&#1072;
-  &#1084;&#1086;&#1078;&#1077;&#1090;
-  &#1074;&#1099;&#1079;&#1074;&#1072;&#1090;&#1100; &#1091;
-  &#1085;&#1077;&#1082;&#1086;&#1090;&#1086;&#1088;&#1099;&#1093;
-  &#1091;&#1076;&#1080;&#1074;&#1083;&#1077;&#1085;&#1080;&#1077;, </span><span
-  style='color:white'>Pornstar</span><span style='color:white'> </span><span
-  style='color:white'>Martini</span><span lang=RU style='color:white'>
-  &#1087;&#1086;&#1082;&#1086;&#1088;&#1080;&#1090;
-  &#1074;&#1089;&#1090;&#1088;&#1077;&#1074;&#1086;&#1078;&#1077;&#1085;&#1085;&#1099;&#1093;
-  &#1087;&#1100;&#1102;&#1097;&#1080;&#1093;
-  &#1089;&#1074;&#1086;&#1080;&#1084; &#1085;&#1077;&#1087;&#1088;&#1080;&#1085;&#1091;&#1078;&#1076;&#1077;&#1085;&#1085;&#1099;&#1084;
-  &#1087;&#1088;&#1086;&#1092;&#1080;&#1083;&#1077;&#1084;. &#1042;
-  &#1101;&#1090;&#1086;&#1081;
-  &#1089;&#1086;&#1074;&#1088;&#1077;&#1084;&#1077;&#1085;&#1085;&#1086;&#1081;
-  &#1082;&#1083;&#1072;&#1089;&#1089;&#1080;&#1082;&#1077;
-  &#1089;&#1086;&#1095;&#1077;&#1090;&#1072;&#1102;&#1090;&#1089;&#1103;
-  &#1090;&#1077;&#1088;&#1087;&#1082;&#1080;&#1077;
-  &#1085;&#1086;&#1090;&#1099;
-  &#1084;&#1072;&#1088;&#1072;&#1082;&#1091;&#1081;&#1080;,
-  &#1085;&#1072;&#1089;&#1099;&#1097;&#1077;&#1085;&#1085;&#1072;&#1103;
-  &#1074;&#1072;&#1085;&#1080;&#1083;&#1100; &#1080;
-  &#1080;&#1075;&#1088;&#1080;&#1089;&#1090;&#1086;&#1077;
-  &#1074;&#1080;&#1085;&#1086;.</span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  lang=RU style='color:white'>      
-  &#1050;&#1086;&#1082;&#1090;&#1077;&#1081;&#1083;&#1100;
-  &#1073;&#1099;&#1083; &#1089;&#1086;&#1079;&#1076;&#1072;&#1085;
-  &#1087;&#1086;&#1082;&#1086;&#1081;&#1085;&#1099;&#1084;
-  &#1044;&#1091;&#1075;&#1086;&#1084; &#1040;&#1085;&#1082;&#1088;&#1086;&#1081;,
-  &#1073;&#1072;&#1088;&#1084;&#1077;&#1085;&#1086;&#1084;,
-  &#1079;&#1085;&#1072;&#1082;&#1086;&#1084;&#1099;&#1084; &#1089;
-  &#1087;&#1080;&#1074;&#1085;&#1086;&#1081;
-  &#1089;&#1094;&#1077;&#1085;&#1086;&#1081; &#1051;&#1086;&#1085;&#1076;&#1086;&#1085;&#1072;
-  &#1080; &#1053;&#1100;&#1102;-&#1049;&#1086;&#1088;&#1082;&#1072;.
-  &#1057;&#1095;&#1080;&#1090;&#1072;&#1077;&#1090;&#1089;&#1103;,
-  &#1095;&#1090;&#1086; &#1086;&#1085;
-  &#1074;&#1087;&#1077;&#1088;&#1074;&#1099;&#1077; &#1088;&#1072;&#1079;&#1088;&#1072;&#1073;&#1086;&#1090;&#1072;&#1083;
-  &#1082;&#1086;&#1085;&#1094;&#1077;&#1087;&#1094;&#1080;&#1102;
-  &#1088;&#1077;&#1094;&#1077;&#1087;&#1090;&#1072; &#1074;&#1086;
-  &#1074;&#1088;&#1077;&#1084;&#1103; &#1074;&#1080;&#1079;&#1080;&#1090;&#1072;
-  &#1074; &#1050;&#1077;&#1081;&#1087;&#1090;&#1072;&#1091;&#1085;,
-  &#1070;&#1078;&#1085;&#1072;&#1103;
-  &#1040;&#1092;&#1088;&#1080;&#1082;&#1072;, &#1074;
-  &#1085;&#1072;&#1095;&#1072;&#1083;&#1077; 2000-&#1093; &#1075;&#1086;&#1076;&#1086;&#1074;,
-  &#1082;&#1086;&#1075;&#1076;&#1072;
-  &#1088;&#1072;&#1073;&#1086;&#1090;&#1072;&#1083; &#1085;&#1072;&#1076;
-  &#1089;&#1074;&#1086;&#1077;&#1081;
-  &#1082;&#1085;&#1080;&#1075;&#1086;&#1081;
-  «&#1042;&#1089;&#1090;&#1088;&#1103;&#1093;&#1085;&#1091;&#1090;&#1100;
-  &#1080;
-  &#1087;&#1077;&#1088;&#1077;&#1084;&#1077;&#1096;&#1072;&#1090;&#1100;».
-  &#1047;&#1072;&#1090;&#1077;&#1084;
-  «&#1055;&#1086;&#1088;&#1085;&#1086;&#1079;&#1074;&#1077;&#1079;&#1076;&#1072;
-  &#1052;&#1072;&#1088;&#1090;&#1080;&#1085;&#1080;»
-  &#1087;&#1086;&#1103;&#1074;&#1080;&#1083;&#1072;&#1089;&#1100; &#1074;
-  &#1084;&#1077;&#1085;&#1102;
-  &#1083;&#1086;&#1085;&#1076;&#1086;&#1085;&#1089;&#1082;&#1080;&#1093;
-  &#1073;&#1072;&#1088;&#1086;&#1074; </span><span style='color:white'>Ankrah</span><span
-  lang=RU style='color:white'>’</span><span style='color:white'>s</span><span
-  style='color:white'> </span><span style='color:white'>Lab</span><span
-  lang=RU style='color:white'> &#1080; </span><span style='color:white'>Townhouse</span><span
-  lang=RU style='color:white'>. &#1058;&#1072;&#1084; &#1086;&#1085;
-  &#1087;&#1088;&#1077;&#1074;&#1088;&#1072;&#1090;&#1080;&#1083;&#1089;&#1103;
-  &#1074; &#1089;&#1090;&#1086;&#1083;&#1100;
-  &#1083;&#1102;&#1073;&#1080;&#1084;&#1099;&#1081;
-  &#1089;&#1077;&#1075;&#1086;&#1076;&#1085;&#1103;
-  &#1082;&#1086;&#1082;&#1090;&#1077;&#1081;&#1083;&#1100;.</span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  lang=RU style='color:white'>     
-  &#1055;&#1086;&#1088;&#1085;&#1086;&#1079;&#1074;&#1077;&#1079;&#1076;&#1091;
-  &#1052;&#1072;&#1088;&#1090;&#1080;&#1085;&#1080;
-  &#1089;&#1083;&#1077;&#1076;&#1091;&#1077;&#1090;
-  &#1087;&#1086;&#1076;&#1072;&#1074;&#1072;&#1090;&#1100; &#1074; &#1073;&#1086;&#1082;&#1072;&#1083;&#1077;-&#1082;&#1091;&#1087;&#1077;
-  &#1089; &#1082;&#1086;&#1083;&#1103;&#1089;&#1082;&#1086;&#1081;
-  &#1080;&#1075;&#1088;&#1080;&#1089;&#1090;&#1086;&#1075;&#1086;
-  &#1074;&#1080;&#1085;&#1072;, &#1086;&#1073;&#1099;&#1095;&#1085;&#1086;
-  &#1055;&#1088;&#1086;&#1089;&#1077;&#1082;&#1082;&#1086;
-  &#1080;&#1083;&#1080;
-  &#1064;&#1072;&#1084;&#1087;&#1072;&#1085;&#1089;&#1082;&#1086;&#1075;&#1086;.
-  &#1050;&#1086;&#1082;&#1090;&#1077;&#1081;&#1083;&#1100; &#1074;&#1079;&#1073;&#1072;&#1083;&#1090;&#1099;&#1074;&#1072;&#1102;&#1090;,
-  &#1087;&#1088;&#1080;&#1076;&#1072;&#1074;&#1072;&#1103;
-  &#1077;&#1084;&#1091; &#1087;&#1099;&#1096;&#1085;&#1091;&#1102;
-  &#1090;&#1077;&#1082;&#1089;&#1090;&#1091;&#1088;&#1091;, &#1072; &#1087;&#1086;&#1074;&#1077;&#1088;&#1093;
-  &#1077;&#1075;&#1086;
-  &#1087;&#1077;&#1085;&#1080;&#1089;&#1090;&#1086;&#1081;
-  &#1087;&#1077;&#1085;&#1099; &#1087;&#1083;&#1099;&#1074;&#1077;&#1090;
-  &#1089;&#1074;&#1077;&#1078;&#1080;&#1081; &#1075;&#1072;&#1088;&#1085;&#1080;&#1088;
-  &#1080;&#1079; &#1084;&#1072;&#1088;&#1072;&#1082;&#1091;&#1081;&#1080;.
-  &#1042; &#1089;&#1086;&#1089;&#1090;&#1072;&#1074;
-  &#1085;&#1072;&#1087;&#1080;&#1090;&#1082;&#1072;
-  &#1095;&#1072;&#1089;&#1090;&#1086; &#1085;&#1077; &#1074;&#1093;&#1086;&#1076;&#1103;&#1090;
-  &#1094;&#1080;&#1090;&#1088;&#1091;&#1089;&#1086;&#1074;&#1099;&#1077;
-  (&#1074; &#1085;&#1077;&#1082;&#1086;&#1090;&#1086;&#1088;&#1099;&#1077;
-  &#1088;&#1077;&#1094;&#1077;&#1087;&#1090;&#1099; &#1074;&#1093;&#1086;&#1076;&#1080;&#1090;
-  &#1087;&#1086;&#1083;-&#1091;&#1085;&#1094;&#1080;&#1080;
-  &#1089;&#1086;&#1082;&#1072; &#1083;&#1072;&#1081;&#1084;&#1072;),
-  &#1093;&#1086;&#1090;&#1103; &#1077;&#1075;&#1086;
-  &#1087;&#1088;&#1086;&#1092;&#1080;&#1083;&#1100;
-  &#1095;&#1072;&#1089;&#1090;&#1086;
-  &#1085;&#1072;&#1087;&#1086;&#1084;&#1080;&#1085;&#1072;&#1077;&#1090;
-  &#1082;&#1080;&#1089;&#1083;&#1099;&#1081;.
-  &#1055;&#1086;&#1088;&#1085;&#1086;&#1079;&#1074;&#1077;&#1079;&#1076;&#1072;
-  &#1052;&#1072;&#1088;&#1090;&#1080;&#1085;&#1080;, &#1082;&#1072;&#1082;
-  &#1087;&#1088;&#1072;&#1074;&#1080;&#1083;&#1086;,
-  &#1086;&#1095;&#1077;&#1085;&#1100;
-  &#1082;&#1080;&#1089;&#1083;&#1072;&#1103;,
-  &#1090;&#1077;&#1088;&#1087;&#1082;&#1072;&#1103; &#1089; &#1085;&#1077;&#1086;&#1078;&#1080;&#1076;&#1072;&#1085;&#1085;&#1086;&#1081;
-  &#1089;&#1083;&#1072;&#1076;&#1086;&#1089;&#1090;&#1100;&#1102; &#1080;
-  &#1093;&#1086;&#1088;&#1086;&#1096;&#1086;
-  &#1089;&#1086;&#1095;&#1077;&#1090;&#1072;&#1077;&#1090;&#1089;&#1103;
-  &#1089; &#1073;&#1072;&#1079;&#1086;&#1074;&#1099;&#1084;
-  &#1089;&#1087;&#1080;&#1088;&#1090;&#1086;&#1084; —
-  &#1074;&#1072;&#1085;&#1080;&#1083;&#1100;&#1085;&#1086;&#1081;
-  &#1074;&#1086;&#1076;&#1082;&#1086;&#1081;. &#1052;&#1077;&#1078;&#1076;&#1091;
-  &#1090;&#1077;&#1084;,
-  &#1080;&#1075;&#1088;&#1080;&#1089;&#1090;&#1099;&#1081;
-  &#1089;&#1072;&#1081;&#1076;&#1082;&#1072;&#1088;
-  &#1084;&#1086;&#1078;&#1085;&#1086; &#1087;&#1080;&#1090;&#1100;
-  &#1086;&#1090;&#1076;&#1077;&#1083;&#1100;&#1085;&#1086; &#1080;&#1083;&#1080;
-  &#1076;&#1086;&#1073;&#1072;&#1074;&#1083;&#1103;&#1090;&#1100; &#1074;
-  &#1082;&#1086;&#1082;&#1090;&#1077;&#1081;&#1083;&#1100;.</span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  lang=RU style='color:#00B0F0'>&#1048;&#1085;&#1075;&#1088;&#1077;&#1076;&#1080;&#1077;&#1085;&#1090;&#1099;:</span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  lang=RU style='color:white'>&#1042;&#1086;&#1076;&#1082;&#1072;,
-  &#1083;&#1080;&#1082;&#1077;&#1088;
-  &#1084;&#1072;&#1088;&#1072;&#1082;&#1091;&#1081;&#1080;,
-  &#1074;&#1072;&#1085;&#1080;&#1083;&#1100;&#1085;&#1099;&#1081;
-  &#1089;&#1080;&#1088;&#1086;&#1087;, &#1055;&#1088;&#1086;&#1089;&#1077;&#1082;&#1082;&#1086;</span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  lang=RU style='color:white'>&nbsp;</span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  lang=RU style='color:white'>&nbsp;</span></p>
-  </td>
-  <td width=228 valign=top style='width:170.8pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  style='color:white'><img width=209 height=323
-  src="Leaf%20Tasting-Cocktail%20%20Menu%20Webpage%20html%20file_files/image015.jpg"></span></p>
-  </td>
- </tr>
-</table>
-
-<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-style='color:white'>&nbsp;</span></p>
-
-<table class=MsoTableGrid border=1 cellspacing=0 cellpadding=0
- style='border-collapse:collapse;border:none'>
- <tr>
-  <td width=397 valign=top style='width:297.45pt;border:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  style='font-size:14.0pt;color:red;background:black'>Lemon</span><span
-  style='font-size:14.0pt;color:red;background:black'> </span><span
-  style='font-size:14.0pt;color:red;background:black'>Drop</span><span
-  style='font-size:14.0pt;color:red;background:black'> </span><span
-  style='font-size:14.0pt;color:red;background:black'>Martini</span></p>
-  </td>
-  <td width=236 valign=top style='width:177.2pt;border:solid windowtext 1.0pt;
-  border-left:none;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  lang=RU style='font-size:14.0pt;color:red;background:black'>&#1051;&#1080;&#1084;&#1086;&#1085;&#1085;&#1072;&#1103;
-  &#1082;&#1072;&#1087;&#1083;&#1103;
-  &#1052;&#1072;&#1088;&#1090;&#1080;&#1085;&#1080;</span></p>
-  </td>
- </tr>
- <tr>
-  <td width=397 valign=top style='width:297.45pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  style='color:white'>    Recipes for Lemon Drop candies — made with finely
-  powdered sugar and lemon juice — date back to the early 1800s. A century
-  later, these sweet and sour delights became the inspiration for a cocktail
-  that’s beloved to this day.</span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  style='color:white'>   Developed at Henry’s Africa in San Francisco, the
-  first fern bar in the nation, the Lemon Drop cocktail attracted loyal crowds
-  in the 1970s. Enjoy a sweet crunch as the sugary rim around your glass melts
-  into a sour combination of vodka, orange liqueur, lemon juice, and simple
-  syrup.</span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  style='color:#00B0F0'>Ingredients:</span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  style='color:white'>Vodka, orange liqueur , lemon juice,simple syrup</span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  style='color:white'>&nbsp;</span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  lang=RU style='color:white'>&#1056;&#1077;&#1094;&#1077;&#1087;&#1090;&#1099;
-  &#1082;&#1086;&#1085;&#1092;&#1077;&#1090; </span><span style='color:white'>Lemon</span><span
-  style='color:white'> </span><span style='color:white'>Drop</span><span
-  lang=RU style='color:white'>,
-  &#1087;&#1088;&#1080;&#1075;&#1086;&#1090;&#1086;&#1074;&#1083;&#1077;&#1085;&#1085;&#1099;&#1093;
-  &#1080;&#1079; &#1084;&#1077;&#1083;&#1082;&#1086;&#1081;
-  &#1089;&#1072;&#1093;&#1072;&#1088;&#1085;&#1086;&#1081;
-  &#1087;&#1091;&#1076;&#1088;&#1099; &#1080;
-  &#1083;&#1080;&#1084;&#1086;&#1085;&#1085;&#1086;&#1075;&#1086;
-  &#1089;&#1086;&#1082;&#1072;,
-  &#1076;&#1072;&#1090;&#1080;&#1088;&#1091;&#1102;&#1090;&#1089;&#1103;
-  &#1085;&#1072;&#1095;&#1072;&#1083;&#1086;&#1084; 1800-&#1093; &#1075;&#1086;&#1076;&#1086;&#1074;.
-  &#1057;&#1090;&#1086;&#1083;&#1077;&#1090;&#1080;&#1077;
-  &#1089;&#1087;&#1091;&#1089;&#1090;&#1103; &#1101;&#1090;&#1080;
-  &#1082;&#1080;&#1089;&#1083;&#1086;-&#1089;&#1083;&#1072;&#1076;&#1082;&#1080;&#1077;
-  &#1083;&#1072;&#1082;&#1086;&#1084;&#1089;&#1090;&#1074;&#1072;
-  &#1089;&#1090;&#1072;&#1083;&#1080;
-  &#1080;&#1089;&#1090;&#1086;&#1095;&#1085;&#1080;&#1082;&#1086;&#1084;
-  &#1074;&#1076;&#1086;&#1093;&#1085;&#1086;&#1074;&#1077;&#1085;&#1080;&#1103;
-  &#1076;&#1083;&#1103; &#1082;&#1086;&#1082;&#1090;&#1077;&#1081;&#1083;&#1103;,
-  &#1082;&#1086;&#1090;&#1086;&#1088;&#1099;&#1081;
-  &#1083;&#1102;&#1073;&#1080;&#1084; &#1087;&#1086; &#1089;&#1077;&#1081;
-  &#1076;&#1077;&#1085;&#1100;.</span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  lang=RU style='color:white'>   
-  &#1050;&#1086;&#1082;&#1090;&#1077;&#1081;&#1083;&#1100; </span><span
-  style='color:white'>Lemon</span><span style='color:white'> </span><span
-  style='color:white'>Drop</span><span lang=RU style='color:white'>,
-  &#1088;&#1072;&#1079;&#1088;&#1072;&#1073;&#1086;&#1090;&#1072;&#1085;&#1085;&#1099;&#1081;
-  &#1074;
-  &#1043;&#1077;&#1085;&#1088;&#1080;&#1089;-&#1040;&#1092;&#1088;&#1080;&#1082;&#1077;
-  &#1074; &#1057;&#1072;&#1085;-&#1060;&#1088;&#1072;&#1085;&#1094;&#1080;&#1089;&#1082;&#1086;,
-  &#1087;&#1077;&#1088;&#1074;&#1086;&#1084;
-  &#1087;&#1072;&#1087;&#1086;&#1088;&#1086;&#1090;&#1085;&#1080;&#1082;&#1086;&#1074;&#1086;&#1084;
-  &#1073;&#1072;&#1088;&#1077; &#1074;
-  &#1089;&#1090;&#1088;&#1072;&#1085;&#1077;, &#1087;&#1088;&#1080;&#1074;&#1083;&#1077;&#1082;&#1072;&#1083;
-  &#1083;&#1086;&#1103;&#1083;&#1100;&#1085;&#1091;&#1102;
-  &#1087;&#1091;&#1073;&#1083;&#1080;&#1082;&#1091; &#1074; 1970-&#1093;
-  &#1075;&#1086;&#1076;&#1072;&#1093;. &#1053;&#1072;&#1089;&#1083;&#1072;&#1078;&#1076;&#1072;&#1081;&#1090;&#1077;&#1089;&#1100;
-  &#1089;&#1083;&#1072;&#1076;&#1082;&#1080;&#1084;
-  &#1093;&#1088;&#1091;&#1089;&#1090;&#1086;&#1084;,
-  &#1082;&#1086;&#1075;&#1076;&#1072;
-  &#1089;&#1072;&#1093;&#1072;&#1088;&#1085;&#1099;&#1081;
-  &#1082;&#1088;&#1072;&#1081; &#1074;&#1086;&#1082;&#1088;&#1091;&#1075;
-  &#1074;&#1072;&#1096;&#1077;&#1075;&#1086;
-  &#1089;&#1090;&#1072;&#1082;&#1072;&#1085;&#1072;
-  &#1090;&#1072;&#1077;&#1090; &#1074; &#1082;&#1080;&#1089;&#1083;&#1091;&#1102;
-  &#1089;&#1084;&#1077;&#1089;&#1100; &#1074;&#1086;&#1076;&#1082;&#1080;,
-  &#1072;&#1087;&#1077;&#1083;&#1100;&#1089;&#1080;&#1085;&#1086;&#1074;&#1086;&#1075;&#1086;
-  &#1083;&#1080;&#1082;&#1077;&#1088;&#1072;,
-  &#1083;&#1080;&#1084;&#1086;&#1085;&#1085;&#1086;&#1075;&#1086;
-  &#1089;&#1086;&#1082;&#1072; &#1080;
-  &#1087;&#1088;&#1086;&#1089;&#1090;&#1086;&#1075;&#1086;
-  &#1089;&#1080;&#1088;&#1086;&#1087;&#1072;.</span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  lang=RU style='color:#00B0F0'>&#1048;&#1085;&#1075;&#1088;&#1077;&#1076;&#1080;&#1077;&#1085;&#1090;&#1099;:</span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  lang=RU style='color:white'>&#1042;&#1086;&#1076;&#1082;&#1072;,
-  &#1072;&#1087;&#1077;&#1083;&#1100;&#1089;&#1080;&#1085;&#1086;&#1074;&#1099;&#1081;
-  &#1083;&#1080;&#1082;&#1077;&#1088;,
-  &#1083;&#1080;&#1084;&#1086;&#1085;&#1085;&#1099;&#1081;
-  &#1089;&#1086;&#1082;, &#1087;&#1088;&#1086;&#1089;&#1090;&#1086;&#1081;
-  &#1089;&#1080;&#1088;&#1086;&#1087;</span></p>
-  </td>
-  <td width=236 valign=top style='width:177.2pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  lang=RU style='color:white'>&nbsp;</span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  style='color:white'><img width=209 height=242
-  src="Leaf%20Tasting-Cocktail%20%20Menu%20Webpage%20html%20file_files/image016.jpg"></span></p>
-  </td>
- </tr>
-</table>
-
-<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-style='color:white'>&nbsp;</span></p>
-
-<table class=MsoTableGrid border=1 cellspacing=0 cellpadding=0
- style='border-collapse:collapse;border:none'>
- <tr>
-  <td width=397 valign=top style='width:297.45pt;border:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  style='font-size:14.0pt;color:red;background:black'>Bloody Mary</span></p>
-  </td>
-  <td width=227 valign=top style='width:6.0cm;border:solid windowtext 1.0pt;
-  border-left:none;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  style='font-size:14.0pt;color:red;background:black'>&#1050;&#1088;&#1086;&#1074;&#1072;&#1074;&#1072;&#1103;
-  &#1052;&#1101;&#1088;&#1080;</span></p>
-  </td>
- </tr>
- <tr>
-  <td width=397 valign=top style='width:297.45pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  style='color:white;background:black'>The Bloody Mary is as much an experience
-  as it is a drink. The brunch-time staple is best enjoyed with a house mix of
-  tomato juice, vodka, and spices. And, if it’s your thing, an array of
-  garnishes — from celery and olives to bacon to entire cheeseburgers — are
-  known to make appearances.</span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  style='color:#00B0F0;background:black'>Ingredients</span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  style='color:white;background:black'>Vodka,Tomato juice,lemon
-  Juice,Worcestershire</span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  style='color:white;background:black'>&nbsp;</span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  lang=RU style='color:white;background:black'>«&#1050;&#1088;&#1086;&#1074;&#1072;&#1074;&#1072;&#1103;
-  &#1052;&#1101;&#1088;&#1080;» — &#1101;&#1090;&#1086; &#1085;&#1077;
-  &#1090;&#1086;&#1083;&#1100;&#1082;&#1086;
-  &#1085;&#1072;&#1087;&#1080;&#1090;&#1086;&#1082;, &#1085;&#1086; &#1080; &#1086;&#1087;&#1099;&#1090;.
-  &#1054;&#1089;&#1085;&#1086;&#1074;&#1085;&#1086;&#1077;
-  &#1073;&#1083;&#1102;&#1076;&#1086;
-  &#1073;&#1088;&#1072;&#1085;&#1095;&#1072;
-  &#1083;&#1091;&#1095;&#1096;&#1077; &#1074;&#1089;&#1077;&#1075;&#1086;
-  &#1089;&#1086;&#1095;&#1077;&#1090;&#1072;&#1090;&#1100; &#1089;
-  &#1076;&#1086;&#1084;&#1072;&#1096;&#1085;&#1077;&#1081;
-  &#1089;&#1084;&#1077;&#1089;&#1100;&#1102;
-  &#1090;&#1086;&#1084;&#1072;&#1090;&#1085;&#1086;&#1075;&#1086;
-  &#1089;&#1086;&#1082;&#1072;, &#1074;&#1086;&#1076;&#1082;&#1080; &#1080;
-  &#1089;&#1087;&#1077;&#1094;&#1080;&#1081;. &#1040;
-  &#1077;&#1089;&#1083;&#1080; &#1074;&#1072;&#1089; &#1101;&#1090;&#1086;
-  &#1080;&#1085;&#1090;&#1077;&#1088;&#1077;&#1089;&#1091;&#1077;&#1090;,
-  &#1090;&#1086;, &#1082;&#1072;&#1082;
-  &#1080;&#1079;&#1074;&#1077;&#1089;&#1090;&#1085;&#1086;,
-  &#1084;&#1086;&#1078;&#1085;&#1086;
-  &#1080;&#1089;&#1087;&#1086;&#1083;&#1100;&#1079;&#1086;&#1074;&#1072;&#1090;&#1100;
-  &#1084;&#1085;&#1086;&#1078;&#1077;&#1089;&#1090;&#1074;&#1086;
-  &#1075;&#1072;&#1088;&#1085;&#1080;&#1088;&#1086;&#1074; — &#1086;&#1090;
-  &#1089;&#1077;&#1083;&#1100;&#1076;&#1077;&#1088;&#1077;&#1103; &#1080;
-  &#1086;&#1083;&#1080;&#1074;&#1086;&#1082; &#1076;&#1086;
-  &#1073;&#1077;&#1082;&#1086;&#1085;&#1072; &#1080;
-  &#1094;&#1077;&#1083;&#1099;&#1093;
-  &#1095;&#1080;&#1079;&#1073;&#1091;&#1088;&#1075;&#1077;&#1088;&#1086;&#1074;.</span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  lang=RU style='color:#00B0F0;background:black'>&#1048;&#1085;&#1075;&#1088;&#1077;&#1076;&#1080;&#1077;&#1085;&#1090;&#1099;</span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  lang=RU style='color:white;background:black'>&#1042;&#1086;&#1076;&#1082;&#1072;,
-  &#1090;&#1086;&#1084;&#1072;&#1090;&#1085;&#1099;&#1081;
-  &#1089;&#1086;&#1082;,
-  &#1083;&#1080;&#1084;&#1086;&#1085;&#1085;&#1099;&#1081;
-  &#1089;&#1086;&#1082;,
-  &#1042;&#1091;&#1089;&#1090;&#1077;&#1088;&#1096;&#1080;&#1088;.</span></p>
-  </td>
-  <td width=227 valign=top style='width:6.0cm;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  style='color:white'><img width=212 height=297 id="Picture 63"
-  src="Leaf%20Tasting-Cocktail%20%20Menu%20Webpage%20html%20file_files/image017.jpg"
-  alt="A bloody mary with a black straw&#10;&#10;Description automatically generated"></span></p>
-  </td>
- </tr>
-</table>
-
-<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-style='color:white'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-style='color:white'>&nbsp;</span></p>
-
-<table class=MsoTableGrid border=1 cellspacing=0 cellpadding=0
- style='border-collapse:collapse;border:none'>
- <tr>
-  <td width=397 valign=top style='width:297.45pt;border:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  style='font-size:14.0pt;color:red;background:black'>Moscow Mule</span></p>
-  </td>
-  <td width=227 valign=top style='width:6.0cm;border:solid windowtext 1.0pt;
-  border-left:none;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  style='font-size:14.0pt;color:red;background:black'>&#1052;&#1086;&#1089;&#1082;&#1086;&#1074;&#1089;&#1082;&#1080;&#1081;
-  &#1084;&#1091;&#1083;</span></p>
-  </td>
- </tr>
- <tr>
-  <td width=397 valign=top style='width:297.45pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  style='color:white;background:black'>This famous mug-dwelling drink contains
-  ginger, vodka, lime, and soda. It’s famously served in a copper mug, which we
-  venture to guess is much of its slushy appeal.</span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  style='color:white;background:black'>Ingredients</span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  style='color:white;background:black'>Vodka, ginger ale, lime wedges for
-  garnish</span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  style='color:white;background:black'>&nbsp;</span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  lang=RU style='color:white;background:black'>&#1069;&#1090;&#1086;&#1090;
-  &#1079;&#1085;&#1072;&#1084;&#1077;&#1085;&#1080;&#1090;&#1099;&#1081;
-  &#1085;&#1072;&#1087;&#1080;&#1090;&#1086;&#1082;,
-  &#1086;&#1073;&#1080;&#1090;&#1072;&#1102;&#1097;&#1080;&#1081; &#1074;
-  &#1082;&#1088;&#1091;&#1078;&#1082;&#1077;,
-  &#1089;&#1086;&#1076;&#1077;&#1088;&#1078;&#1080;&#1090;
-  &#1080;&#1084;&#1073;&#1080;&#1088;&#1100;,
-  &#1074;&#1086;&#1076;&#1082;&#1091;, &#1083;&#1072;&#1081;&#1084; &#1080;
-  &#1075;&#1072;&#1079;&#1080;&#1088;&#1086;&#1074;&#1082;&#1091;.
-  &#1045;&#1075;&#1086;, &#1082;&#1072;&#1082;
-  &#1080;&#1079;&#1074;&#1077;&#1089;&#1090;&#1085;&#1086;,
-  &#1087;&#1086;&#1076;&#1072;&#1102;&#1090; &#1074;
-  &#1084;&#1077;&#1076;&#1085;&#1086;&#1081;
-  &#1082;&#1088;&#1091;&#1078;&#1082;&#1077;, &#1095;&#1090;&#1086;,
-  &#1082;&#1072;&#1082; &#1084;&#1099; &#1089;&#1084;&#1077;&#1077;&#1084;
-  &#1087;&#1088;&#1077;&#1076;&#1087;&#1086;&#1083;&#1086;&#1078;&#1080;&#1090;&#1100;,
-  &#1074;&#1086; &#1084;&#1085;&#1086;&#1075;&#1086;&#1084; &#1080; &#1086;&#1073;&#1077;&#1089;&#1087;&#1077;&#1095;&#1080;&#1074;&#1072;&#1077;&#1090;
-  &#1077;&#1075;&#1086; &#1089;&#1083;&#1103;&#1082;&#1086;&#1090;&#1085;&#1091;&#1102;
-  &#1087;&#1088;&#1080;&#1074;&#1083;&#1077;&#1082;&#1072;&#1090;&#1077;&#1083;&#1100;&#1085;&#1086;&#1089;&#1090;&#1100;.</span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  lang=RU style='color:white;background:black'>&#1048;&#1085;&#1075;&#1088;&#1077;&#1076;&#1080;&#1077;&#1085;&#1090;&#1099;</span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  lang=RU style='color:white;background:black'>&#1042;&#1086;&#1076;&#1082;&#1072;,
-  &#1080;&#1084;&#1073;&#1080;&#1088;&#1085;&#1099;&#1081;
-  &#1101;&#1083;&#1100;, &#1076;&#1086;&#1083;&#1100;&#1082;&#1080;
-  &#1083;&#1072;&#1081;&#1084;&#1072; &#1076;&#1083;&#1103;
-  &#1091;&#1082;&#1088;&#1072;&#1096;&#1077;&#1085;&#1080;&#1103;.</span></p>
-  </td>
-  <td width=227 valign=top style='width:6.0cm;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  style='color:white'><img width=209 height=293 id="Picture 62"
-  src="Leaf%20Tasting-Cocktail%20%20Menu%20Webpage%20html%20file_files/image018.jpg"
-  alt="The Moscow Mule is one of the most popular cocktails in the world"></span></p>
-  </td>
- </tr>
-</table>
-
-<span style='font-size:11.0pt;font-family:"Aptos",sans-serif;color:white'><br
-clear=all style='page-break-before:always'>
-</span>
-
-<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-style='color:white'>&nbsp;</span></p>
-
-<table class=MsoTableGrid border=1 cellspacing=0 cellpadding=0
- style='border-collapse:collapse;border:none'>
- <tr>
-  <td width=406 valign=top style='width:304.55pt;border:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  style='font-size:14.0pt;color:red;background:black'>White Russian</span></p>
-  </td>
-  <td width=219 valign=top style='width:164.3pt;border:solid windowtext 1.0pt;
-  border-left:none;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  style='font-size:14.0pt;color:red;background:black'>&#1041;&#1077;&#1083;&#1099;&#1081;
-  &#1056;&#1091;&#1089;&#1089;&#1082;&#1080;&#1081;</span></p>
-  </td>
- </tr>
- <tr>
-  <td width=406 valign=top style='width:304.55pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  style='color:white'>The White Russian is a decadent and surprisingly
-  easy-to-make cocktail. Combining vodka, Kahlúa and cream and serving the crowd-pleasing
-  drink on the rocks creates a delicious alternative to adult milkshakes.</span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  style='color:#00B0F0'>Ingredients</span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  style='color:white'>Vodka</span><span lang=RU style='color:white'>, </span><span
-  style='color:white'>Kahl</span><span lang=RU style='color:white'>ú</span><span
-  style='color:white'>a</span><span lang=RU style='color:white'>,</span><span
-  style='color:white'>heavy</span><span style='color:white'> </span><span
-  style='color:white'>cream</span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  lang=RU style='color:white'>&nbsp;</span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  lang=RU style='color:white'>«&#1041;&#1077;&#1083;&#1099;&#1081;
-  &#1088;&#1091;&#1089;&#1089;&#1082;&#1080;&#1081;» —
-  &#1076;&#1077;&#1082;&#1072;&#1076;&#1077;&#1085;&#1090;&#1089;&#1082;&#1080;&#1081;
-  &#1082;&#1086;&#1082;&#1090;&#1077;&#1081;&#1083;&#1100;,
-  &#1082;&#1086;&#1090;&#1086;&#1088;&#1099;&#1081;
-  &#1091;&#1076;&#1080;&#1074;&#1080;&#1090;&#1077;&#1083;&#1100;&#1085;&#1086;
-  &#1083;&#1077;&#1075;&#1082;&#1086;
-  &#1087;&#1088;&#1080;&#1075;&#1086;&#1090;&#1086;&#1074;&#1080;&#1090;&#1100;.
-  &#1057;&#1086;&#1095;&#1077;&#1090;&#1072;&#1085;&#1080;&#1077;
-  &#1074;&#1086;&#1076;&#1082;&#1080;, &#1050;&#1072;&#1083;&#1091;&#1072;
-  &#1080; &#1089;&#1083;&#1080;&#1074;&#1086;&#1082; &#1080;
-  &#1087;&#1086;&#1076;&#1072;&#1095;&#1072; &#1087;&#1086;&#1085;&#1088;&#1072;&#1074;&#1080;&#1074;&#1096;&#1077;&#1075;&#1086;&#1089;&#1103;
-  &#1087;&#1091;&#1073;&#1083;&#1080;&#1082;&#1077;
-  &#1085;&#1072;&#1087;&#1080;&#1090;&#1082;&#1072; &#1089;&#1086;
-  &#1083;&#1100;&#1076;&#1086;&#1084; &#1089;&#1086;&#1079;&#1076;&#1072;&#1077;&#1090;
-  &#1074;&#1082;&#1091;&#1089;&#1085;&#1091;&#1102;
-  &#1072;&#1083;&#1100;&#1090;&#1077;&#1088;&#1085;&#1072;&#1090;&#1080;&#1074;&#1091;
-  &#1084;&#1086;&#1083;&#1086;&#1095;&#1085;&#1099;&#1084; &#1082;&#1086;&#1082;&#1090;&#1077;&#1081;&#1083;&#1103;&#1084;
-  &#1076;&#1083;&#1103;
-  &#1074;&#1079;&#1088;&#1086;&#1089;&#1083;&#1099;&#1093;.</span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  lang=RU style='color:#00B0F0'>&#1048;&#1085;&#1075;&#1088;&#1077;&#1076;&#1080;&#1077;&#1085;&#1090;&#1099;</span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  lang=RU style='color:white'>&#1042;&#1086;&#1076;&#1082;&#1072;,
-  &#1050;&#1072;&#1083;&#1091;&#1072;,
-  &#1075;&#1091;&#1089;&#1090;&#1099;&#1077;
-  &#1089;&#1083;&#1080;&#1074;&#1082;&#1080;</span></p>
-  </td>
-  <td width=219 valign=top style='width:164.3pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  style='color:white'><img width=205 height=205
-  src="Leaf%20Tasting-Cocktail%20%20Menu%20Webpage%20html%20file_files/image019.jpg"></span></p>
-  </td>
- </tr>
-</table>
-
-<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-style='color:white'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-style='color:white'>&nbsp;</span></p>
-
-<table class=MsoTableGrid border=1 cellspacing=0 cellpadding=0
- style='border-collapse:collapse;border:none'>
- <tr>
-  <td width=406 valign=top style='width:304.55pt;border:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  style='font-size:14.0pt;color:red;background:black'>Mimosa</span></p>
-  </td>
-  <td width=217 valign=top style='width:163.0pt;border:solid windowtext 1.0pt;
-  border-left:none;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  style='font-size:14.0pt;color:red;background:black'>&#1052;&#1080;&#1084;&#1086;&#1079;&#1072;
-  &#1080;&#1083;&#1080; &#1041;&#1083;&#1080;&#1085;&#1080;</span></p>
-  </td>
- </tr>
- <tr>
-  <td width=406 valign=top style='width:304.55pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  style='color:white'>The Mimosa is a sparkling and refreshing drink that is a
-  perfect ladies’ night cocktail to raise the spirit of any occasion. It’s an
-  interplay of taste where Champagne, and orange juice create a neat balance of
-  sweet and tangy flavors</span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  style='color:#00B0F0'>Ingredients</span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  style='color:white'>Orange</span><span style='color:white'> </span><span
-  style='color:white'>juice</span><span lang=RU style='color:white'>, </span><span
-  style='color:white'>Proseco</span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  lang=RU style='color:white'>&nbsp;</span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  lang=RU style='color:white'>«&#1052;&#1080;&#1084;&#1086;&#1079;&#1072;» —
-  &#1080;&#1075;&#1088;&#1080;&#1089;&#1090;&#1099;&#1081; &#1080;
-  &#1086;&#1089;&#1074;&#1077;&#1078;&#1072;&#1102;&#1097;&#1080;&#1081;
-  &#1085;&#1072;&#1087;&#1080;&#1090;&#1086;&#1082;, &#1082;&#1086;&#1090;&#1086;&#1088;&#1099;&#1081;
-  &#1089;&#1090;&#1072;&#1085;&#1077;&#1090;
-  &#1080;&#1076;&#1077;&#1072;&#1083;&#1100;&#1085;&#1099;&#1084;
-  &#1082;&#1086;&#1082;&#1090;&#1077;&#1081;&#1083;&#1077;&#1084;
-  &#1076;&#1083;&#1103; &#1078;&#1077;&#1085;&#1089;&#1082;&#1086;&#1075;&#1086;
-  &#1074;&#1077;&#1095;&#1077;&#1088;&#1072; &#1080;
-  &#1087;&#1086;&#1076;&#1085;&#1080;&#1084;&#1077;&#1090;
-  &#1085;&#1072;&#1089;&#1090;&#1088;&#1086;&#1077;&#1085;&#1080;&#1077;
-  &#1085;&#1072; &#1083;&#1102;&#1073;&#1086;&#1084;
-  &#1084;&#1077;&#1088;&#1086;&#1087;&#1088;&#1080;&#1103;&#1090;&#1080;&#1080;.
-  &#1069;&#1090;&#1086; &#1080;&#1075;&#1088;&#1072;
-  &#1074;&#1082;&#1091;&#1089;&#1086;&#1074;, &#1074;
-  &#1082;&#1086;&#1090;&#1086;&#1088;&#1086;&#1081; &#1096;&#1072;&#1084;&#1087;&#1072;&#1085;&#1089;&#1082;&#1086;&#1077;
-  &#1080;
-  &#1072;&#1087;&#1077;&#1083;&#1100;&#1089;&#1080;&#1085;&#1086;&#1074;&#1099;&#1081;
-  &#1089;&#1086;&#1082; &#1089;&#1086;&#1079;&#1076;&#1072;&#1102;&#1090;
-  &#1072;&#1082;&#1082;&#1091;&#1088;&#1072;&#1090;&#1085;&#1099;&#1081;
-  &#1073;&#1072;&#1083;&#1072;&#1085;&#1089;
-  &#1089;&#1083;&#1072;&#1076;&#1082;&#1080;&#1093; &#1080; &#1086;&#1089;&#1090;&#1088;&#1099;&#1093;
-  &#1074;&#1082;&#1091;&#1089;&#1086;&#1074;.</span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  lang=RU style='color:#00B0F0'>&#1048;&#1085;&#1075;&#1088;&#1077;&#1076;&#1080;&#1077;&#1085;&#1090;&#1099;</span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  lang=RU style='color:white'>&#1040;&#1087;&#1077;&#1083;&#1100;&#1089;&#1080;&#1085;&#1086;&#1074;&#1099;&#1081;
-  &#1089;&#1086;&#1082;, &#1055;&#1088;&#1086;&#1089;&#1077;&#1082;&#1086;</span></p>
-  </td>
-  <td width=217 valign=top style='width:163.0pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  style='color:white'><img width=202 height=245 id="Picture 6"
-  src="Leaf%20Tasting-Cocktail%20%20Menu%20Webpage%20html%20file_files/image020.jpg"></span></p>
-  </td>
- </tr>
-</table>
-
-<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-style='color:white'>&nbsp;</span></p>
-
-<table class=MsoTableGrid border=1 cellspacing=0 cellpadding=0
- style='border-collapse:collapse;border:none'>
- <tr>
-  <td width=406 valign=top style='width:304.55pt;border:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  style='font-size:14.0pt;color:red;background:black'>French 75</span></p>
-  </td>
-  <td width=217 valign=top style='width:163.0pt;border:solid windowtext 1.0pt;
-  border-left:none;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  style='font-size:14.0pt;color:red;background:black'>&#1060;&#1088;&#1072;&#1085;&#1094;&#1091;&#1079;&#1089;&#1082;&#1080;&#1081;
-  7</span></p>
-  </td>
- </tr>
- <tr>
-  <td width=406 valign=top style='width:304.55pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  style='color:white;background:black'>The French 75 calls for gin, lemon
-  juice, sugar, and Champagne. It’s a classy affair, and works just as well for
-  celebrations as it does for your Friday night cocktail.</span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  style='color:#00B0F0;background:black'>Ingredients</span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  style='color:white;background:black'>Gin, Lemon,Simple Syrup, Proseco</span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  style='color:white;background:black'>&nbsp;</span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  lang=RU style='color:white;background:black'>&#1060;&#1088;&#1072;&#1085;&#1094;&#1091;&#1079;&#1089;&#1082;&#1080;&#1081;</span><span
-  style='color:white;background:black'> 75 </span><span lang=RU
-  style='color:white;background:black'>&#1090;&#1088;&#1077;&#1073;&#1091;&#1077;&#1090;</span><span
-  lang=RU style='color:white;background:black'> </span><span lang=RU
-  style='color:white;background:black'>&#1076;&#1078;&#1080;&#1085;&#1072;</span><span
-  style='color:white;background:black'>, </span><span lang=RU style='color:
-  white;background:black'>&#1083;&#1080;&#1084;&#1086;&#1085;&#1085;&#1086;&#1075;&#1086;</span><span
-  lang=RU style='color:white;background:black'> </span><span lang=RU
-  style='color:white;background:black'>&#1089;&#1086;&#1082;&#1072;</span><span
-  style='color:white;background:black'>, </span><span lang=RU style='color:
-  white;background:black'>&#1089;&#1072;&#1093;&#1072;&#1088;&#1072;</span><span
-  lang=RU style='color:white;background:black'> </span><span lang=RU
-  style='color:white;background:black'>&#1080;</span><span lang=RU
-  style='color:white;background:black'> </span><span lang=RU style='color:white;
-  background:black'>&#1096;&#1072;&#1084;&#1087;&#1072;&#1085;&#1089;&#1082;&#1086;&#1075;&#1086;</span><span
-  style='color:white;background:black'>. </span><span lang=RU style='color:
-  white;background:black'>&#1069;&#1090;&#1086;
-  &#1089;&#1090;&#1080;&#1083;&#1100;&#1085;&#1086;&#1077;
-  &#1073;&#1083;&#1102;&#1076;&#1086;,
-  &#1082;&#1086;&#1090;&#1086;&#1088;&#1086;&#1077;
-  &#1087;&#1086;&#1076;&#1086;&#1081;&#1076;&#1077;&#1090;
-  &#1082;&#1072;&#1082; &#1076;&#1083;&#1103;
-  &#1090;&#1086;&#1088;&#1078;&#1077;&#1089;&#1090;&#1074;,
-  &#1090;&#1072;&#1082; &#1080; &#1076;&#1083;&#1103;
-  &#1082;&#1086;&#1082;&#1090;&#1077;&#1081;&#1083;&#1103; &#1074;
-  &#1087;&#1103;&#1090;&#1085;&#1080;&#1094;&#1091; &#1074;&#1077;&#1095;&#1077;&#1088;&#1086;&#1084;.</span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  lang=RU style='color:#00B0F0;background:black'>&#1080;&#1085;&#1075;&#1088;&#1077;&#1076;&#1080;&#1077;&#1085;&#1090;&#1086;&#1074;</span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  lang=RU style='color:white;background:black'>&#1044;&#1078;&#1080;&#1085;,
-  &#1051;&#1080;&#1084;&#1086;&#1085;,
-  &#1055;&#1088;&#1086;&#1089;&#1090;&#1086;&#1081;
-  &#1089;&#1080;&#1088;&#1086;&#1087;,
-  &#1055;&#1088;&#1086;&#1089;&#1077;&#1082;&#1086;</span></p>
-  </td>
-  <td width=217 valign=top style='width:163.0pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  style='color:white'><img width=203 height=283 id="Picture 2"
-  src="Leaf%20Tasting-Cocktail%20%20Menu%20Webpage%20html%20file_files/image021.jpg"></span></p>
-  </td>
- </tr>
- <tr>
-  <td width=406 valign=top style='width:304.55pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  style='color:white;background:black'>&nbsp;</span></p>
-  </td>
-  <td width=217 valign=top style='width:163.0pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  style='color:white;background:black'>&nbsp;</span></p>
-  </td>
- </tr>
-</table>
-
-<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-style='color:white'>&nbsp;</span></p>
-
-<table class=MsoTableGrid border=1 cellspacing=0 cellpadding=0
- style='border-collapse:collapse;border:none'>
- <tr>
-  <td width=406 valign=top style='width:304.55pt;border:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  style='font-size:14.0pt;color:red;background:black'>The Pink Lady</span></p>
-  </td>
-  <td width=217 valign=top style='width:163.0pt;border:solid windowtext 1.0pt;
-  border-left:none;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  style='font-size:14.0pt;color:red;background:black'>&#1056;&#1086;&#1079;&#1086;&#1074;&#1072;&#1103;
-  &#1083;&#1077;&#1076;&#1080;</span></p>
-  </td>
- </tr>
- <tr>
-  <td width=406 valign=top style='width:304.55pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  style='color:white'>The Pink Ladies cocktail is the first drink in our list
-  of cocktails for ladies. This pink ladies’ cocktail is a classic and elegant blend
-  of gin, lemon juice, grenadine, and egg white. The juniper-forward botanicals
-  of the gin complement the sweetness of the grenadine, and the lemon juice
-  adds a tanginess to the drink. The texture of this enticing pink ladies’
-  cocktail is elevated by egg white which makes it a frothy and silky drink.
-  This is a perfect ladies’ night cocktail and is a drink of choice for any
-  special occasion or an evening of unwinding.</span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  style='color:#00B0F0'>Ingredients: </span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  style='color:white'>Gin, Egg White, Grenadine,Lemon Juice</span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  style='color:white'>&nbsp;</span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  lang=RU style='color:white'>&#1050;&#1086;&#1082;&#1090;&#1077;&#1081;&#1083;&#1100;
-  </span><span style='color:white'>Pink</span><span style='color:white'> </span><span
-  style='color:white'>Ladies</span><span lang=RU style='color:white'> –
-  &#1087;&#1077;&#1088;&#1074;&#1099;&#1081;
-  &#1085;&#1072;&#1087;&#1080;&#1090;&#1086;&#1082; &#1074;
-  &#1085;&#1072;&#1096;&#1077;&#1084;
-  &#1089;&#1087;&#1080;&#1089;&#1082;&#1077;
-  &#1082;&#1086;&#1082;&#1090;&#1077;&#1081;&#1083;&#1077;&#1081; &#1076;&#1083;&#1103;
-  &#1076;&#1072;&#1084;. &#1069;&#1090;&#1086;&#1090;
-  &#1088;&#1086;&#1079;&#1086;&#1074;&#1099;&#1081;
-  &#1078;&#1077;&#1085;&#1089;&#1082;&#1080;&#1081;
-  &#1082;&#1086;&#1082;&#1090;&#1077;&#1081;&#1083;&#1100;
-  &#1087;&#1088;&#1077;&#1076;&#1089;&#1090;&#1072;&#1074;&#1083;&#1103;&#1077;&#1090;
-  &#1089;&#1086;&#1073;&#1086;&#1081;
-  &#1082;&#1083;&#1072;&#1089;&#1089;&#1080;&#1095;&#1077;&#1089;&#1082;&#1091;&#1102;
-  &#1080; &#1101;&#1083;&#1077;&#1075;&#1072;&#1085;&#1090;&#1085;&#1091;&#1102;
-  &#1089;&#1084;&#1077;&#1089;&#1100; &#1076;&#1078;&#1080;&#1085;&#1072;,
-  &#1083;&#1080;&#1084;&#1086;&#1085;&#1085;&#1086;&#1075;&#1086;
-  &#1089;&#1086;&#1082;&#1072;,
-  &#1075;&#1088;&#1077;&#1085;&#1072;&#1076;&#1080;&#1085;&#1072; &#1080;
-  &#1103;&#1080;&#1095;&#1085;&#1086;&#1075;&#1086;
-  &#1073;&#1077;&#1083;&#1082;&#1072;.
-  &#1041;&#1086;&#1090;&#1072;&#1085;&#1080;&#1095;&#1077;&#1089;&#1082;&#1080;&#1077;
-  &#1085;&#1086;&#1090;&#1082;&#1080;
-  &#1084;&#1086;&#1078;&#1078;&#1077;&#1074;&#1077;&#1083;&#1100;&#1085;&#1080;&#1082;&#1072;
-  &#1074; &#1076;&#1078;&#1080;&#1085;&#1077;
-  &#1076;&#1086;&#1087;&#1086;&#1083;&#1085;&#1103;&#1102;&#1090;
-  &#1089;&#1083;&#1072;&#1076;&#1086;&#1089;&#1090;&#1100;
-  &#1075;&#1088;&#1077;&#1085;&#1072;&#1076;&#1080;&#1085;&#1072;, &#1072;
-  &#1083;&#1080;&#1084;&#1086;&#1085;&#1085;&#1099;&#1081;
-  &#1089;&#1086;&#1082; &#1087;&#1088;&#1080;&#1076;&#1072;&#1077;&#1090;
-  &#1085;&#1072;&#1087;&#1080;&#1090;&#1082;&#1091;
-  &#1087;&#1080;&#1082;&#1072;&#1085;&#1090;&#1085;&#1086;&#1089;&#1090;&#1100;.
-  &#1058;&#1077;&#1082;&#1089;&#1090;&#1091;&#1088;&#1072;
-  &#1101;&#1090;&#1086;&#1075;&#1086;
-  &#1089;&#1086;&#1073;&#1083;&#1072;&#1079;&#1085;&#1080;&#1090;&#1077;&#1083;&#1100;&#1085;&#1086;&#1075;&#1086;
-  &#1088;&#1086;&#1079;&#1086;&#1074;&#1086;&#1075;&#1086;
-  &#1078;&#1077;&#1085;&#1089;&#1082;&#1086;&#1075;&#1086;
-  &#1082;&#1086;&#1082;&#1090;&#1077;&#1081;&#1083;&#1103;
-  &#1091;&#1089;&#1080;&#1083;&#1077;&#1085;&#1072;
-  &#1103;&#1080;&#1095;&#1085;&#1099;&#1084;
-  &#1073;&#1077;&#1083;&#1082;&#1086;&#1084;, &#1095;&#1090;&#1086;
-  &#1076;&#1077;&#1083;&#1072;&#1077;&#1090; &#1077;&#1075;&#1086;
-  &#1087;&#1077;&#1085;&#1080;&#1089;&#1090;&#1099;&#1084; &#1080;
-  &#1096;&#1077;&#1083;&#1082;&#1086;&#1074;&#1080;&#1089;&#1090;&#1099;&#1084;
-  &#1085;&#1072;&#1087;&#1080;&#1090;&#1082;&#1086;&#1084;.
-  &#1069;&#1090;&#1086;
-  &#1080;&#1076;&#1077;&#1072;&#1083;&#1100;&#1085;&#1099;&#1081;
-  &#1082;&#1086;&#1082;&#1090;&#1077;&#1081;&#1083;&#1100;
-  &#1076;&#1083;&#1103; &#1076;&#1072;&#1084;&#1089;&#1082;&#1086;&#1075;&#1086;
-  &#1074;&#1077;&#1095;&#1077;&#1088;&#1072;,
-  &#1082;&#1086;&#1090;&#1086;&#1088;&#1099;&#1081;
-  &#1084;&#1086;&#1078;&#1085;&#1086;
-  &#1074;&#1099;&#1073;&#1088;&#1072;&#1090;&#1100; &#1076;&#1083;&#1103;
-  &#1083;&#1102;&#1073;&#1086;&#1075;&#1086;
-  &#1086;&#1089;&#1086;&#1073;&#1086;&#1075;&#1086;
-  &#1089;&#1083;&#1091;&#1095;&#1072;&#1103; &#1080;&#1083;&#1080;
-  &#1074;&#1077;&#1095;&#1077;&#1088;&#1072; &#1086;&#1090;&#1076;&#1099;&#1093;&#1072;.</span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  lang=RU style='color:#00B0F0'>&#1048;&#1085;&#1075;&#1088;&#1077;&#1076;&#1080;&#1077;&#1085;&#1090;&#1099;:</span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  lang=RU style='color:white'>&#1044;&#1078;&#1080;&#1085;,
-  &#1103;&#1080;&#1095;&#1085;&#1099;&#1081;
-  &#1073;&#1077;&#1083;&#1086;&#1082;,
-  &#1075;&#1088;&#1077;&#1085;&#1072;&#1076;&#1080;&#1085;,
-  &#1083;&#1080;&#1084;&#1086;&#1085;&#1085;&#1099;&#1081;
-  &#1089;&#1086;&#1082;</span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  lang=RU style='color:white'>&nbsp;</span></p>
-  </td>
-  <td width=217 valign=top style='width:163.0pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  style='color:white'><img width=201 height=280
-  src="Leaf%20Tasting-Cocktail%20%20Menu%20Webpage%20html%20file_files/image022.jpg"></span></p>
-  </td>
- </tr>
- <tr>
-  <td width=406 valign=top style='width:304.55pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  style='font-size:14.0pt;color:red;background:black'>Vesper</span></p>
-  </td>
-  <td width=217 valign=top style='width:163.0pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  style='font-size:14.0pt;color:red;background:black'>&#1042;&#1077;&#1089;&#1087;&#1077;&#1088;</span></p>
-  </td>
- </tr>
- <tr>
-  <td width=406 valign=top style='width:304.55pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  style='color:white'>When James Bond wasn’t drinking terrible Martinis, he
-  often ordered a Vesper, a drink invented by Bond author Ian Fleming. The
-  cocktail first popped up in Fleming’s “Casino Royale” in 1953 and is made
-  with gin, vodka, and Lillet.</span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  style='color:#00B0F0'>Ingredients</span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  style='color:white'>Gin</span><span lang=RU style='color:white'>, </span><span
-  style='color:white'>Vodka</span><span lang=RU style='color:white'>,</span><span
-  style='color:white'>Lillet</span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  lang=RU style='color:white'>&nbsp;</span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  lang=RU style='color:white'>&#1050;&#1086;&#1075;&#1076;&#1072;
-  &#1044;&#1078;&#1077;&#1081;&#1084;&#1089; &#1041;&#1086;&#1085;&#1076;
-  &#1085;&#1077; &#1087;&#1080;&#1083;
-  &#1091;&#1078;&#1072;&#1089;&#1085;&#1099;&#1081;
-  &#1084;&#1072;&#1088;&#1090;&#1080;&#1085;&#1080;, &#1086;&#1085;
-  &#1095;&#1072;&#1089;&#1090;&#1086;
-  &#1079;&#1072;&#1082;&#1072;&#1079;&#1099;&#1074;&#1072;&#1083;
-  &#1042;&#1077;&#1089;&#1087;&#1077;&#1088;,
-  &#1085;&#1072;&#1087;&#1080;&#1090;&#1086;&#1082;,
-  &#1080;&#1079;&#1086;&#1073;&#1088;&#1077;&#1090;&#1077;&#1085;&#1085;&#1099;&#1081;
-  &#1072;&#1074;&#1090;&#1086;&#1088;&#1086;&#1084;
-  &#1041;&#1086;&#1085;&#1076;&#1072; &#1071;&#1085;&#1086;&#1084;
-  &#1060;&#1083;&#1077;&#1084;&#1080;&#1085;&#1075;&#1086;&#1084;.
-  &#1050;&#1086;&#1082;&#1090;&#1077;&#1081;&#1083;&#1100;
-  &#1074;&#1087;&#1077;&#1088;&#1074;&#1099;&#1077;
-  &#1087;&#1086;&#1103;&#1074;&#1080;&#1083;&#1089;&#1103; &#1074;
-  «&#1050;&#1072;&#1079;&#1080;&#1085;&#1086;
-  &#1056;&#1086;&#1103;&#1083;&#1100;» &#1060;&#1083;&#1077;&#1084;&#1080;&#1085;&#1075;&#1072;
-  &#1074; 1953 &#1075;&#1086;&#1076;&#1091; &#1080;
-  &#1089;&#1086;&#1089;&#1090;&#1086;&#1080;&#1090; &#1080;&#1079;
-  &#1076;&#1078;&#1080;&#1085;&#1072;, &#1074;&#1086;&#1076;&#1082;&#1080;
-  &#1080; &#1083;&#1080;&#1083;&#1083;&#1077;&#1090;&#1072;.</span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  lang=RU style='color:#00B0F0'>&#1048;&#1085;&#1075;&#1088;&#1077;&#1076;&#1080;&#1077;&#1085;&#1090;&#1099;
-  </span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  lang=RU style='color:white'>&#1044;&#1078;&#1080;&#1085;,
-  &#1042;&#1086;&#1076;&#1082;&#1072;, &#1051;&#1080;&#1083;&#1083;&#1077;</span></p>
-  </td>
-  <td width=217 valign=top style='width:163.0pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  style='color:white'><img width=200 height=280 id="Picture 4"
-  src="Leaf%20Tasting-Cocktail%20%20Menu%20Webpage%20html%20file_files/image023.jpg"
-  alt="A glass with a drink in it&#10;&#10;Description automatically generated"></span></p>
-  </td>
- </tr>
-</table>
-
-<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-style='color:white'>&nbsp;</span></p>
-
-<table class=MsoTableGrid border=1 cellspacing=0 cellpadding=0
- style='border-collapse:collapse;border:none'>
- <tr>
-  <td width=406 valign=top style='width:304.55pt;border:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  style='font-size:14.0pt;color:red;background:black'>Sangria</span></p>
-  </td>
-  <td width=208 valign=top style='width:155.9pt;border:solid windowtext 1.0pt;
-  border-left:none;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  style='font-size:14.0pt;color:red;background:black'>&#1057;&#1072;&#1085;&#1075;&#1088;&#1080;</span></p>
-  </td>
- </tr>
- <tr>
-  <td width=406 valign=top style='width:304.55pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  style='color:white'>Sangria is a popular ladies drink from Spain and
-  Portugal. It's a refreshing drink made from chopped fruits, brandy, and red
-  or white wine. What’s also good about this drink is you can experiment with
-  fruit that you will be mixing with our alcohol. You can choose from
-  pineapples, strawberries, apples, etc</span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  style='color:#00B0F0'>Ingredients</span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  style='color:white'>dry red wine, Orange Soda, chunks of </span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  style='color:white'>apples</span><span lang=RU style='color:white'>, </span><span
-  style='color:white'>orange</span><span lang=RU style='color:white'>, </span><span
-  style='color:white'>pineapple</span><span lang=RU style='color:white'>, </span><span
-  style='color:white'>etc</span><span style='color:white'> </span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  lang=RU style='color:white'>&nbsp;</span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  lang=RU style='color:white'>&#1057;&#1072;&#1085;&#1075;&#1088;&#1080;&#1103;
-  – &#1087;&#1086;&#1087;&#1091;&#1083;&#1103;&#1088;&#1085;&#1099;&#1081;
-  &#1078;&#1077;&#1085;&#1089;&#1082;&#1080;&#1081;
-  &#1085;&#1072;&#1087;&#1080;&#1090;&#1086;&#1082; &#1080;&#1079;
-  &#1048;&#1089;&#1087;&#1072;&#1085;&#1080;&#1080; &#1080;
-  &#1055;&#1086;&#1088;&#1090;&#1091;&#1075;&#1072;&#1083;&#1080;&#1080;.
-  &#1069;&#1090;&#1086;
-  &#1086;&#1089;&#1074;&#1077;&#1078;&#1072;&#1102;&#1097;&#1080;&#1081;
-  &#1085;&#1072;&#1087;&#1080;&#1090;&#1086;&#1082;,
-  &#1087;&#1088;&#1080;&#1075;&#1086;&#1090;&#1086;&#1074;&#1083;&#1077;&#1085;&#1085;&#1099;&#1081;
-  &#1080;&#1079; &#1080;&#1079;&#1084;&#1077;&#1083;&#1100;&#1095;&#1077;&#1085;&#1085;&#1099;&#1093;
-  &#1092;&#1088;&#1091;&#1082;&#1090;&#1086;&#1074;,
-  &#1073;&#1088;&#1077;&#1085;&#1076;&#1080; &#1080;
-  &#1082;&#1088;&#1072;&#1089;&#1085;&#1086;&#1075;&#1086; &#1080;&#1083;&#1080;
-  &#1073;&#1077;&#1083;&#1086;&#1075;&#1086; &#1074;&#1080;&#1085;&#1072;.
-  &#1063;&#1090;&#1086; &#1077;&#1097;&#1077;
-  &#1093;&#1086;&#1088;&#1086;&#1096;&#1086; &#1074;
-  &#1101;&#1090;&#1086;&#1084; &#1085;&#1072;&#1087;&#1080;&#1090;&#1082;&#1077;,
-  &#1090;&#1072;&#1082; &#1101;&#1090;&#1086; &#1090;&#1086;,
-  &#1095;&#1090;&#1086; &#1074;&#1099;
-  &#1084;&#1086;&#1078;&#1077;&#1090;&#1077;
-  &#1101;&#1082;&#1089;&#1087;&#1077;&#1088;&#1080;&#1084;&#1077;&#1085;&#1090;&#1080;&#1088;&#1086;&#1074;&#1072;&#1090;&#1100;
-  &#1089; &#1092;&#1088;&#1091;&#1082;&#1090;&#1072;&#1084;&#1080;,
-  &#1082;&#1086;&#1090;&#1086;&#1088;&#1099;&#1077;
-  &#1073;&#1091;&#1076;&#1077;&#1090;&#1077;
-  &#1089;&#1084;&#1077;&#1096;&#1080;&#1074;&#1072;&#1090;&#1100; &#1089; &#1085;&#1072;&#1096;&#1080;&#1084;
-  &#1072;&#1083;&#1082;&#1086;&#1075;&#1086;&#1083;&#1077;&#1084;.
-  &#1053;&#1072; &#1074;&#1099;&#1073;&#1086;&#1088;
-  &#1084;&#1086;&#1078;&#1085;&#1086;
-  &#1074;&#1099;&#1073;&#1088;&#1072;&#1090;&#1100; &#1072;&#1085;&#1072;&#1085;&#1072;&#1089;&#1099;,
-  &#1082;&#1083;&#1091;&#1073;&#1085;&#1080;&#1082;&#1091;,
-  &#1103;&#1073;&#1083;&#1086;&#1082;&#1080; &#1080; &#1090;.</span><span
-  style='color:white'>&nbsp;</span><span lang=RU style='color:white'>&#1076;.</span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  lang=RU style='color:#00B0F0'>&#1048;&#1085;&#1075;&#1088;&#1077;&#1076;&#1080;&#1077;&#1085;&#1090;&#1099;</span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  lang=RU style='color:white'>&#1082;&#1088;&#1072;&#1089;&#1085;&#1086;&#1077;
-  &#1089;&#1091;&#1093;&#1086;&#1077; &#1074;&#1080;&#1085;&#1086;,
-  &#1072;&#1087;&#1077;&#1083;&#1100;&#1089;&#1080;&#1085;&#1086;&#1074;&#1072;&#1103;
-  &#1089;&#1086;&#1076;&#1072;, &#1082;&#1091;&#1089;&#1086;&#1095;&#1082;&#1080;</span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  lang=RU style='color:white'>&#1103;&#1073;&#1083;&#1086;&#1082;&#1080;,
-  &#1072;&#1087;&#1077;&#1083;&#1100;&#1089;&#1080;&#1085;&#1099;,
-  &#1072;&#1085;&#1072;&#1085;&#1072;&#1089;&#1099; &#1080; &#1090;. &#1076;.</span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  lang=RU style='color:white'>&nbsp;</span></p>
-  </td>
-  <td width=208 valign=top style='width:155.9pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  style='color:white'><img width=193 height=263 id="Picture 1"
-  src="Leaf%20Tasting-Cocktail%20%20Menu%20Webpage%20html%20file_files/image024.jpg"></span></p>
-  </td>
- </tr>
-</table>
-
-<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-style='color:white'>&nbsp;</span></p>
-
-<table class=MsoTableGrid border=1 cellspacing=0 cellpadding=0
- style='border-collapse:collapse;border:none'>
- <tr>
-  <td width=406 valign=top style='width:304.55pt;border:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  style='font-size:14.0pt;color:red;background:black'>Mojito</span></p>
-  </td>
-  <td width=208 valign=top style='width:155.9pt;border:solid windowtext 1.0pt;
-  border-left:none;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  style='font-size:14.0pt;color:red;background:black'>&#1052;&#1086;&#1093;&#1080;&#1090;</span><span
-  style='font-size:14.0pt;color:red'>o</span></p>
-  </td>
- </tr>
- <tr>
-  <td width=406 valign=top style='width:304.55pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  style='color:white'>The Cuban-born Mojito, a favorite of Ernest Hemingway,
-  saw its popularity soar in the early 2000s. It may not be the trendiest drink
-  anymore, but when prepared well it's delicious and refreshing.</span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  style='color:#00B0F0'>Ingredients</span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  style='color:white'>White Rum,Lime,Simple Syrup,Mint leaves, </span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  style='color:white'>&nbsp;</span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  lang=RU style='color:white'>&#1052;&#1086;&#1093;&#1080;&#1090;&#1086;
-  &#1082;&#1091;&#1073;&#1080;&#1085;&#1089;&#1082;&#1086;&#1075;&#1086;
-  &#1087;&#1088;&#1086;&#1080;&#1089;&#1093;&#1086;&#1078;&#1076;&#1077;&#1085;&#1080;&#1103;,
-  &#1083;&#1102;&#1073;&#1080;&#1084;&#1086;&#1077;
-  &#1073;&#1083;&#1102;&#1076;&#1086;
-  &#1069;&#1088;&#1085;&#1077;&#1089;&#1090;&#1072;
-  &#1061;&#1077;&#1084;&#1080;&#1085;&#1075;&#1091;&#1101;&#1103;,
-  &#1087;&#1088;&#1080;&#1086;&#1073;&#1088;&#1077;&#1083;&#1086;
-  &#1087;&#1086;&#1087;&#1091;&#1083;&#1103;&#1088;&#1085;&#1086;&#1089;&#1090;&#1100;
-  &#1074; &#1085;&#1072;&#1095;&#1072;&#1083;&#1077; 2000-&#1093;
-  &#1075;&#1086;&#1076;&#1086;&#1074;.
-  &#1042;&#1086;&#1079;&#1084;&#1086;&#1078;&#1085;&#1086;,
-  &#1101;&#1090;&#1086; &#1091;&#1078;&#1077; &#1085;&#1077;
-  &#1089;&#1072;&#1084;&#1099;&#1081;
-  &#1084;&#1086;&#1076;&#1085;&#1099;&#1081; &#1085;&#1072;&#1087;&#1080;&#1090;&#1086;&#1082;,
-  &#1085;&#1086; &#1077;&#1089;&#1083;&#1080; &#1077;&#1075;&#1086;
-  &#1087;&#1088;&#1072;&#1074;&#1080;&#1083;&#1100;&#1085;&#1086;
-  &#1087;&#1088;&#1080;&#1075;&#1086;&#1090;&#1086;&#1074;&#1080;&#1090;&#1100;,
-  &#1086;&#1085; &#1074;&#1082;&#1091;&#1089;&#1085;&#1099;&#1081; &#1080;
-  &#1086;&#1089;&#1074;&#1077;&#1078;&#1072;&#1102;&#1097;&#1080;&#1081;.</span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  lang=RU style='color:#00B0F0'>&#1048;&#1085;&#1075;&#1088;&#1077;&#1076;&#1080;&#1077;&#1085;&#1090;&#1099;</span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  lang=RU style='color:white'>&#1041;&#1077;&#1083;&#1099;&#1081;
-  &#1088;&#1086;&#1084;,&#1051;&#1072;&#1081;&#1084;,&#1055;&#1088;&#1086;&#1089;&#1090;&#1086;&#1081;
-  &#1089;&#1080;&#1088;&#1086;&#1087;,&#1051;&#1080;&#1089;&#1090;&#1100;&#1103;
-  &#1084;&#1103;&#1090;&#1099;</span></p>
-  </td>
-  <td width=208 valign=top style='width:155.9pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-  style='color:white'><img width=189 height=227 id="Picture 7"
-  src="Leaf%20Tasting-Cocktail%20%20Menu%20Webpage%20html%20file_files/image025.jpg"></span></p>
-  </td>
- </tr>
-</table>
-
-<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
-style='color:white'>&nbsp;</span></p>
+<p class=MsoNormal><span lang=RU style='color:white;mso-themecolor:background1;
+mso-ansi-language:RU'><o:p>&nbsp;</o:p></span></p>
 
 </div>
 
