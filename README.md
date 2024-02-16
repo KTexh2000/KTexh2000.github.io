@@ -279,7 +279,7 @@ mayo and tomato based sauce with onion, pepper, and lemon flavor.  </p>
 / &#1041;&#1088;&#1091;&#1089;&#1082;&#1077;&#1090;&#1090;&#1072;</span></b></p>
 
 <p class=MsoNormal><span lang=RU><img width=184 height=181 id="Picture 10"
-src="Leaf%20Tasting-Webpage2%20%20htmlsingle_files/image007.jpg"
+src="https://github.com/KTexh2000/KTexh2000.github.io/blob/Images/image007.jpg"
 alt="A group of bruschetta with tomatoes and basil&#10;&#10;Description automatically generated"></span></p>
 
 <p class=MsoNormal>This is classic Bruschetta, a tomato basil spread on a toasted
