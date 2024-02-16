@@ -50,7 +50,7 @@ style='font-size:12.0pt;line-height:107%'> /
 &#1087;&#1077;&#1095;&#1077;&#1085;&#1080;</span></b></p>
 
 <p class=MsoNormal><img width=186 height=139
-src="Leaf%20Tasting-Webpage2%20%20htmlsingle_files/image001.png"
+src="https://github.com/KTexh2000/KTexh2000.github.io/blob/Images/image001.png"
 alt="Food on a plate next to a bowl of greens&#10;&#10;Description automatically generated"></p>
 
 <p class=MsoNormal>Pâté is a rich, savory  pureed spread chicken livers, fresh
@@ -93,7 +93,7 @@ style='font-size:12.0pt;line-height:107%'> /
 &#1089;&#1086;&#1091;&#1089;</span></b></p>
 
 <p class=MsoNormal><span lang=RU><img width=183 height=187 id="Picture 3"
-src="Leaf%20Tasting-Webpage2%20%20htmlsingle_files/image002.jpg"
+src="https://github.com/KTexh2000/KTexh2000.github.io/blob/Images/image002.png"
 alt="Shrimp in a glass cup with sauce&#10;&#10;Description automatically generated"></span></p>
 
 <p class=MsoNormal>Boiled shimp served chilled with cocktail sauce based on
